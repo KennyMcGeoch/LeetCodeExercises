@@ -9,3 +9,4 @@ Full List of Completed Projects in Numerical Order:
 234. Palindrome Linked List (Easy)
 383. Ransom Note (Easy)
 412. Fizz Buzz (Easy)
+1480. Running Sum of 1d Array (Easy)
