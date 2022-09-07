@@ -6,3 +6,4 @@ Full List of Completed Projects in Numerical Order:
 13. Roman to Integer (Easy)
 234. Palindrome Linked List (Easy)
 383. Ransom Note (Easy)
+412. Fizz Buzz (Easy)
