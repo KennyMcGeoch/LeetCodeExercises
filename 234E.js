@@ -3,6 +3,10 @@
  * function ListNode(val, next) {
  *     this.val = (val===undefined ? 0 : val)
  *     this.next = (next===undefined ? null : next)
+ * 
+ * Runtime: 8061 ms, faster than 5.00% of JavaScript online submissions for Palindrome Linked List.
+Memory Usage: 81.1 MB, less than 39.06% of JavaScript online submissions for Palindrome Linked List.
+ * 
  * }
  */
 /**
@@ -10,67 +14,28 @@
  * @return {boolean}
  */
  var isPalindrome = function(head) {
-    // let result = true;
-    // for (i = 0; i < head.length; i++){
-    //     j = head.length - (i+1);
-    //     if (head[i] !== head[j]){
-    //         console.log(head[i]);
-    //         console.log(head[j]);
-    //         console.log(i);
-    //         console.log(j);
-    //         result = false;
-    //     }
-    // }
-    // console.log(result)
-    listLength = getCount();
-    console.log(listLength)
-    
-    
-
-    console.log(listNode.head.val)
-    console.log(listNode.head.next.val)
-    console.log(getLast().val);
-
-
-    return 
-};
-function getCount() {
-    var temp = listNode.head;
-    var count = 0;
-    while (temp != null) {
-        count++;
-        temp = temp.next;
+    let curr = head;
+    var len = 1;
+    let last = null;
+    let secondToLast = null;
+    if (curr && curr.next === null) return true;
+    while (curr.next !== null) {
+        len++;
+        secondToLast = curr;
+        curr = curr.next;
     }
-    return count;
-}
-
-function getLast() {
-    let node = listNode.head;
-    var count = 0;
-    while (node) {
-        if (!node.next)
-        {
-            return node;
-        }
-        node = node.next;
+    last = curr;
+    if (len === 2) {
+        if (head.val === last.val) return true;
+        
+        return false;
     }
-    return;
+    if (head.val === last.val) {
+        secondToLast.next = null;
+        last.val = null;
+        last = null;
+        return isPalindrome(head.next);
+    } else {
+        return false;
+    }
 }
-
-const listNode = {
-    head: {
-        val: 6,
-        next: {
-            val: 10,                                             
-            next: {
-                val: 12,
-                next: {
-                    val: 3,
-                    next: null	
-                    }
-                }
-            }
-        }
-    };
-  
-isPalindrome(listNode);
