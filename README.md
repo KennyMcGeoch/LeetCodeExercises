@@ -15,6 +15,7 @@ Full List of Completed Projects in Numerical Order:
 392. Is Subsequence (Easy)
 409. Longest Palindrome (Easy)
 412. Fizz Buzz (Easy)
+438. Find All Anagrams in a String (Medium)
 509. Fibonacci Number (Easy)
 724. Find Pivot Index (Easy)
 746. Min Cost Climbing Stairs (Easy)
