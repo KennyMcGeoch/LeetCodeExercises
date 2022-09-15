@@ -19,4 +19,5 @@ Full List of Completed Projects in Numerical Order:
 509. Fibonacci Number (Easy)
 724. Find Pivot Index (Easy)
 746. Min Cost Climbing Stairs (Easy)
+1342. Number of Steps to Reduce a Number to Zero (Easy)
 1480. Running Sum of 1d Array (Easy)
