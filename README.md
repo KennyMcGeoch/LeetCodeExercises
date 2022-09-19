@@ -7,6 +7,7 @@ Full List of Completed Projects in Numerical Order:
 4. Median of Two Sorted Arrays (Hard)
 9. Palindrome Number (Easy)
 13. Roman to Integer (Easy)
+14. Longest Common Prefix (Easy)
 62. Unique Paths (Medium)
 70. Climbing Stairs (Easy)
 121. Best Time to Buy and Sell Stock (Easy)
