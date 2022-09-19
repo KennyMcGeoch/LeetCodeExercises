@@ -5,6 +5,7 @@ Coding exercises. Exercises will be named in format Problem Number (Difficulty) 
 Full List of Completed Projects in Numerical Order:
 1. Two Sum (Easy)
 4. Median of Two Sorted Arrays (Hard)
+9. Palindrome Number (Easy)
 13. Roman to Integer (Easy)
 62. Unique Paths (Medium)
 70. Climbing Stairs (Easy)
