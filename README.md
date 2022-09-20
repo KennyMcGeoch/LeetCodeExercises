@@ -12,6 +12,7 @@ Full List of Completed Projects in Numerical Order:
 27. Remove Element (Easy)
 35. Search Insert Position (Easy)
 62. Unique Paths (Medium)
+69. Sqrt(x) (Easy)
 70. Climbing Stairs (Easy)
 121. Best Time to Buy and Sell Stock (Easy)
 205. Isomorphic Strings (Easy)
