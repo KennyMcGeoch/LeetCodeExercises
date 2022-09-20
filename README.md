@@ -14,6 +14,7 @@ Full List of Completed Projects in Numerical Order:
 62. Unique Paths (Medium)
 69. Sqrt(x) (Easy)
 70. Climbing Stairs (Easy)
+88. Merge Sorted Array (Easy)
 121. Best Time to Buy and Sell Stock (Easy)
 205. Isomorphic Strings (Easy)
 234. Palindrome Linked List (Easy)
