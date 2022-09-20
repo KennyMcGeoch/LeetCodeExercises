@@ -8,6 +8,7 @@ Full List of Completed Projects in Numerical Order:
 9. Palindrome Number (Easy)
 13. Roman to Integer (Easy)
 14. Longest Common Prefix (Easy)
+26. Remove Duplicates from Sorted Array (Easy)
 27. Remove Element (Easy)
 62. Unique Paths (Medium)
 70. Climbing Stairs (Easy)
