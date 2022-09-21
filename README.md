@@ -27,6 +27,7 @@ Full List of Completed Projects in Numerical Order:
 509. Fibonacci Number (Easy)
 724. Find Pivot Index (Easy)
 746. Min Cost Climbing Stairs (Easy)
+985. Sum of Even Numbers After Queries (Medium)
 1337. The K Weakest Rows in a Matrix (Easy)
 1342. Number of Steps to Reduce a Number to Zero (Easy)
 1480. Running Sum of 1d Array (Easy)
