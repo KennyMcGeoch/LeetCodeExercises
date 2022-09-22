@@ -7,6 +7,7 @@ Full List of Completed Projects in Numerical Order:
 4. Median of Two Sorted Arrays (Hard)
 7. Reverse Integer (Medium)
 9. Palindrome Number (Easy)
+11. Container With Most Water (Medium)
 13. Roman to Integer (Easy)
 14. Longest Common Prefix (Easy)
 26. Remove Duplicates from Sorted Array (Easy)
