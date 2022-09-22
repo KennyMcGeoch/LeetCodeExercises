@@ -19,6 +19,7 @@ Full List of Completed Projects in Numerical Order:
 119. Pascal's Triangle II (Easy)
 121. Best Time to Buy and Sell Stock (Easy)
 168. Excel Sheet Column Title (Easy)
+181. Employees Earning More Than Their Managers (Easy)
 205. Isomorphic Strings (Easy)
 234. Palindrome Linked List (Easy)
 336. Palindrome Pairs (Hard)
