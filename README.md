@@ -24,6 +24,7 @@ Full List of Completed Projects in Numerical Order:
 205. Isomorphic Strings (Easy)
 234. Palindrome Linked List (Easy)
 336. Palindrome Pairs (Hard)
+344. Reverse String (Easy)
 383. Ransom Note (Easy)
 392. Is Subsequence (Easy)
 409. Longest Palindrome (Easy)
