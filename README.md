@@ -13,6 +13,7 @@ Full List of Completed Projects in Numerical Order:
 14. Longest Common Prefix (Easy)
 26. Remove Duplicates from Sorted Array (Easy)
 27. Remove Element (Easy)
+28. Find the Index of the First Occurrence in a String (Medium)
 35. Search Insert Position (Easy)
 62. Unique Paths (Medium)
 69. Sqrt(x) (Easy)
