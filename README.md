@@ -6,6 +6,7 @@ Full List of Completed Projects in Numerical Order:
 1. Two Sum (Easy)
 4. Median of Two Sorted Arrays (Hard)
 7. Reverse Integer (Medium)
+8. String to Integer (atoi) (Medium)
 9. Palindrome Number (Easy)
 11. Container With Most Water (Medium)
 13. Roman to Integer (Easy)
