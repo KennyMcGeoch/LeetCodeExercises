@@ -30,6 +30,7 @@ Full List of Completed Projects in Numerical Order:
 412. Fizz Buzz (Easy)
 438. Find All Anagrams in a String (Medium)
 509. Fibonacci Number (Easy)
+541. Reverse String II (Easy)
 557. Reverse Words in a String III (Easy)
 724. Find Pivot Index (Easy)
 746. Min Cost Climbing Stairs (Easy)
