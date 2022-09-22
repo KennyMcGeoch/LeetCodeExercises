@@ -16,6 +16,7 @@ Full List of Completed Projects in Numerical Order:
 28. Find the Index of the First Occurrence in a String (Medium)
 35. Search Insert Position (Easy)
 50. Pow(x, n) (Medium)
+58. Length of Last Word (Easy)
 62. Unique Paths (Medium)
 66. Plus One (Easy)
 69. Sqrt(x) (Easy)
