@@ -5,6 +5,7 @@ Coding exercises. Exercises will be named in format Problem Number (Difficulty) 
 Full List of Completed Projects in Numerical Order:
 1. Two Sum (Easy)
 4. Median of Two Sorted Arrays (Hard)
+7. Reverse Integer (Medium)
 9. Palindrome Number (Easy)
 13. Roman to Integer (Easy)
 14. Longest Common Prefix (Easy)
