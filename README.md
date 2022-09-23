@@ -30,6 +30,7 @@ Full List of Completed Projects in Numerical Order:
 175. Combine Two Tables (Easy)
 181. Employees Earning More Than Their Managers (Easy)
 182. Duplicate Emails (Easy)
+183. Customers Who Never Order (Easy)
 184. Department Highest Salary (Medium)
 205. Isomorphic Strings (Easy)
 234. Palindrome Linked List (Easy)
