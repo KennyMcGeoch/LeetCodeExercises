@@ -1,6 +1,6 @@
 # LeetCodeExercises
 
-Coding exercises. Exercises will be named in format Problem Number (Difficulty) e.g. 13. Roman to Integer (Easy) is named 13E
+Coding exercises. Exercises will be named in format Problem Number (Difficulty) e.g. 13. Roman to Integer (Easy) is named 13E. Also note that preview of Markdown file will renumber files
 
 Full List of Completed Projects in Numerical Order:
 1. Two Sum (Easy)
@@ -29,6 +29,7 @@ Full List of Completed Projects in Numerical Order:
 168. Excel Sheet Column Title (Easy)
 175. Combine Two Tables (Easy)
 181. Employees Earning More Than Their Managers (Easy)
+182. Duplicate Emails (Easy)
 205. Isomorphic Strings (Easy)
 234. Palindrome Linked List (Easy)
 336. Palindrome Pairs (Hard)
