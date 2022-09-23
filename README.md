@@ -32,6 +32,7 @@ Full List of Completed Projects in Numerical Order:
 182. Duplicate Emails (Easy)
 183. Customers Who Never Order (Easy)
 184. Department Highest Salary (Medium)
+196. Delete Duplicate Emails (Easy)
 205. Isomorphic Strings (Easy)
 234. Palindrome Linked List (Easy)
 336. Palindrome Pairs (Hard)
