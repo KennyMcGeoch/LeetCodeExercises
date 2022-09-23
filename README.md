@@ -41,6 +41,7 @@ Full List of Completed Projects in Numerical Order:
 509. Fibonacci Number (Easy)
 541. Reverse String II (Easy)
 557. Reverse Words in a String III (Easy)
+627. Swap Salary (Easy)
 724. Find Pivot Index (Easy)
 746. Min Cost Climbing Stairs (Easy)
 985. Sum of Even Numbers After Queries (Medium)
