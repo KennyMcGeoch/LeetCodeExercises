@@ -36,6 +36,7 @@ Full List of Completed Projects in Numerical Order:
 197. Rising Temperature (Easy)
 205. Isomorphic Strings (Easy)
 217. Contains Duplicate (Easy)
+219. Contains Duplicate II (Easy)
 234. Palindrome Linked List (Easy)
 336. Palindrome Pairs (Hard)
 344. Reverse String (Easy)
