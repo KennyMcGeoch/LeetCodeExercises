@@ -1,12 +1,12 @@
 /**
  * @param {number} n
  * @return {number}
- * Runtime: 160 ms, faster than 18.51% of JavaScript online submissions for Arranging Coins.
-Memory Usage: 44.5 MB, less than 25.14% of JavaScript online submissions for Arranging Coins.
+Runtime: 151 ms, faster than 27.49% of JavaScript online submissions for Arranging Coins.
+Memory Usage: 44.6 MB, less than 25.14% of JavaScript online submissions for Arranging Coins.
  */
  var arrangeCoins = function(n) {
 
-    let startNum = parseInt(Math.sqrt(n));
+    let startNum = parseInt(Math.sqrt(2*n));
     let solution = startNum;
     let coinsInRow = 0
 
