@@ -40,6 +40,7 @@ Full List of Completed Projects in Numerical Order:
 234. Palindrome Linked List (Easy)
 242. Valid Anagram (Easy)
 258. Add Digits (Easy)
+292. Nim Game (Easy)
 336. Palindrome Pairs (Hard)
 344. Reverse String (Easy)
 383. Ransom Note (Easy)
