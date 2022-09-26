@@ -50,6 +50,7 @@ Full List of Completed Projects in Numerical Order:
 412. Fizz Buzz (Easy)
 434. Number of Segments in a String (Easy)
 438. Find All Anagrams in a String (Medium)
+441. Arranging Coins (Easy)
 509. Fibonacci Number (Easy)
 541. Reverse String II (Easy)
 557. Reverse Words in a String III (Easy)
