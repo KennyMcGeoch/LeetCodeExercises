@@ -25,6 +25,7 @@ Full List of Completed Projects in Numerical Order:
 118. Pascal's Triangle (Easy)
 119. Pascal's Triangle II (Easy)
 121. Best Time to Buy and Sell Stock (Easy)
+136. Single Number (Easy)
 151. Reverse Words in a String (Medium)
 168. Excel Sheet Column Title (Easy)
 175. Combine Two Tables (Easy)
