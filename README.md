@@ -67,6 +67,7 @@ Full List of Completed Projects in Numerical Order:
 605. Can Place Flowers (Easy)
 620. Not Boring Movies (Easy)
 627. Swap Salary (Easy)
+649. Dota2 Senate (Medium)
 724. Find Pivot Index (Easy)
 746. Min Cost Climbing Stairs (Easy)
 985. Sum of Even Numbers After Queries (Medium)
