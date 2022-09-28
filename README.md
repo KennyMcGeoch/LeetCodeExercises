@@ -60,6 +60,7 @@ Full List of Completed Projects in Numerical Order:
 392. Is Subsequence (Easy)
 409. Longest Palindrome (Easy)
 412. Fizz Buzz (Easy)
+414. Third Maximum Number (Easy)
 434. Number of Segments in a String (Easy)
 438. Find All Anagrams in a String (Medium)
 441. Arranging Coins (Easy)
