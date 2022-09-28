@@ -47,6 +47,8 @@ Full List of Completed Projects in Numerical Order:
 242. Valid Anagram (Easy)
 258. Add Digits (Easy)
 260. Single Number III (Medium)
+268. Missing Number (Easy)
+287. Find the Duplicate Number (Medium)
 290. Word Pattern (Easy)
 292. Nim Game (Easy)
 336. Palindrome Pairs (Hard)
