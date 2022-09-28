@@ -42,6 +42,7 @@ Full List of Completed Projects in Numerical Order:
 205. Isomorphic Strings (Easy)
 217. Contains Duplicate (Easy)
 219. Contains Duplicate II (Easy)
+229. Majority Element II (Medium)
 234. Palindrome Linked List (Easy)
 242. Valid Anagram (Easy)
 258. Add Digits (Easy)
