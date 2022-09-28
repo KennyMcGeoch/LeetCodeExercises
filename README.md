@@ -17,6 +17,7 @@ Full List of Completed Projects in Numerical Order:
 35. Search Insert Position (Easy)
 36. Valid Sudoku (Medium)
 37. Sudoku Solver (Hard)
+41. First Missing Positive (Hard)
 50. Pow(x, n) (Medium)
 58. Length of Last Word (Easy)
 62. Unique Paths (Medium)
