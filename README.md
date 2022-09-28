@@ -50,6 +50,7 @@ Full List of Completed Projects in Numerical Order:
 260. Single Number III (Medium)
 268. Missing Number (Easy)
 274. H-Index (Medium)
+275. H-Index II (Medium)
 287. Find the Duplicate Number (Medium)
 290. Word Pattern (Easy)
 292. Nim Game (Easy)
