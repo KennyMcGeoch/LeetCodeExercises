@@ -31,6 +31,7 @@ Full List of Completed Projects in Numerical Order:
 137. Single Number II (Medium)
 151. Reverse Words in a String (Medium)
 168. Excel Sheet Column Title (Easy)
+169. Majority Element (Easy)
 175. Combine Two Tables (Easy)
 181. Employees Earning More Than Their Managers (Easy)
 182. Duplicate Emails (Easy)
