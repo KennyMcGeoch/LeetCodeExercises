@@ -85,6 +85,7 @@ Full List of Completed Projects in Numerical Order:
 985. Sum of Even Numbers After Queries (Medium)
 1337. The K Weakest Rows in a Matrix (Easy)
 1342. Number of Steps to Reduce a Number to Zero (Easy)
+1446. Consecutive Characters (Easy)
 1480. Running Sum of 1d Array (Easy)
 1672. Richest Customer Wealth (Easy)
 1869. Longer Contiguous Segments of Ones than Zeros (Easy)
