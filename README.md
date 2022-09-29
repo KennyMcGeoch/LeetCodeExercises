@@ -87,6 +87,7 @@ Full List of Completed Projects in Numerical Order:
 1342. Number of Steps to Reduce a Number to Zero (Easy)
 1446. Consecutive Characters (Easy)
 1480. Running Sum of 1d Array (Easy)
+1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)
 1513. Number of Substrings With Only 1s (Medium)
 1523. Count Odd Numbers in an Interval Range (Easy)
 1672. Richest Customer Wealth (Easy)
