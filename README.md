@@ -87,4 +87,5 @@ Full List of Completed Projects in Numerical Order:
 1480. Running Sum of 1d Array (Easy)
 1672. Richest Customer Wealth (Easy)
 2007. Find Original Array From Doubled Array (Medium)
+2099. Find Subsequence of Length K With the Largest Sum (Easy)
 2404. Most Frequent Even Element (Easy)
