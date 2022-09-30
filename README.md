@@ -68,6 +68,7 @@ Full List of Completed Projects in Numerical Order:
 441. Arranging Coins (Easy)
 442. Find All Duplicates in an Array (Medium)
 448. Find All Numbers Disappeared in an Array (Easy)
+463. Island Perimeter (Easy)
 485. Max Consecutive Ones (Easy)
 495. Teemo Attacking (Easy)
 509. Fibonacci Number (Easy)
