@@ -8,49 +8,62 @@
  var canReach = function(s, minJump, maxJump) {
 
     let iterations = s.length-1;
-    let canGetTo = {[iterations]:true, "0":false}
+    let canGetTo = {["0"]:true, [iterations]:false}
     let sArray = s.split("")
-    let maxSuccessJump = 0
-    let jumpSkip
+    let highestChange = 0
     
-        if (sArray[iterations] === "1"){
+        if (sArray[0] === "1"){
         return false
         }
     
 
-    for (i=iterations; i>0; i--){
-        console.log("i iteration")
-        if (canGetTo[i] === true){
-            if (i - maxJump <= 0 && i- minJump >= 0){
-                console.log(canGetTo)
-                console.log(true)
-                return true}
-            for(j=minJump; j<= maxJump; j++){
-                if(sArray[i-j] === "0"){
-                    canGetTo[i-j] = true
-                    console.log(canGetTo)
-                    maxSuccessJump = i-j
-                }
-            jumpSkip = true
+    for (i=0; i<iterations; i++){
+
+        if (highestChange + maxJump < iterations){
+            highestChange = i + sArray.slice(i+minJump,i+maxJump+1).lastIndexOf("0")
+            console.log(sArray.slice(i+minJump,i+maxJump+1))
+            console.log(highestChange + " highestChange and i = " + i)
+            if (sArray[highestChange+1-minJump] === "0"){
+                console.log("i changed")
+                canGetTo[highestChange+1] = true
+                canGetTo[highestChange+1-minJump] = true
+                i = highestChange - minJump - 1
             }
-            for (k=0; k<=minJump; k++){
-                if (sArray[(k+i)-maxSuccessJump] === "1"){
-                    jumpSkip = false
+        
+
+            else if (canGetTo[i] === true){
+                for (j=minJump; j<=maxJump; j++){
+                    if (sArray[i+j] === "0"){
+                        canGetTo[i+j] = true
+                        highestChange = i+j
+                    }
+
+                }        
+            }
+        }
+        else if (iterations - i >= minJump && iterations - i <= maxJump){
+            console.log(canGetTo)
+            console.log("True returned")
+            return true
+        }
+        else if (canGetTo[i] === true){
+            for (j=minJump; j<=maxJump; j++){
+                if (sArray[i+j] === "0"){
+                    canGetTo[i+j] = true
+                    highestChange = i+j
                 }
 
-            }
-            if (jumpSkip === true && maxJump !== minJump){
-                console.log(maxSuccessJump + " maxsuccess")
-                i = maxSuccessJump + minJump + 1
-                canGetTo[i-1] = true
-            }
-            console.log(i)
+            }        
+        }
+        if (canGetTo[iterations] === true){
+            console.log(canGetTo)
+            console.log("True returned")
+            return true
         }
     }
     console.log(canGetTo)
-    console.log(canGetTo[0])
-    console.log(canGetTo["0"])
-    return canGetTo["0"]    
+    console.log(canGetTo[iterations])
+    return canGetTo[iterations]    
 };
 
-canReach("00000000",1,1)
+canReach("0101001101010101000000000000000000000000000000000000000000000000000000000000000",1,10)
