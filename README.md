@@ -27,6 +27,7 @@ Full List of Completed Projects in Numerical Order:
 69. Sqrt(x) (Easy)
 70. Climbing Stairs (Easy)
 88. Merge Sorted Array (Easy)
+91. Decode Ways (Medium)
 118. Pascal's Triangle (Easy)
 119. Pascal's Triangle II (Easy)
 121. Best Time to Buy and Sell Stock (Easy)
