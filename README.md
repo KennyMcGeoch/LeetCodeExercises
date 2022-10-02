@@ -101,6 +101,7 @@ Full List of Completed Projects in Numerical Order:
 1672. Richest Customer Wealth (Easy)
 1759. Count Number of Homogenous Substrings (Medium)
 1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy)
+1822. Sign of the Product of an Array (Easy)
 1869. Longer Contiguous Segments of Ones than Zeros (Easy)
 1871. Jump Game VII (Medium)
 2007. Find Original Array From Doubled Array (Medium)
