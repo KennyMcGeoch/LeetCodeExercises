@@ -44,6 +44,7 @@ Full List of Completed Projects in Numerical Order:
 191. Number of 1 Bits (Easy)
 196. Delete Duplicate Emails (Easy)
 197. Rising Temperature (Easy)
+202. Happy Number (Easy)
 205. Isomorphic Strings (Easy)
 215. Kth Largest Element in an Array (Medium)
 217. Contains Duplicate (Easy)
