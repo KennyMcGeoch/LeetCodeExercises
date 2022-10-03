@@ -91,6 +91,7 @@ Full List of Completed Projects in Numerical Order:
 746. Min Cost Climbing Stairs (Easy)
 976. Largest Perimeter Triangle (Easy)
 985. Sum of Even Numbers After Queries (Medium)
+1232. Check If It Is a Straight Line (Easy)
 1281. Subtract the Product and Sum of Digits of an Integer (Easy)
 1306. Jump Game III (Medium)
 1337. The K Weakest Rows in a Matrix (Easy)
