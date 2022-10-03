@@ -75,6 +75,7 @@ Full List of Completed Projects in Numerical Order:
 463. Island Perimeter (Easy)
 485. Max Consecutive Ones (Easy)
 495. Teemo Attacking (Easy)
+496. Next Greater Element I (Easy)
 509. Fibonacci Number (Easy)
 541. Reverse String II (Easy)
 557. Reverse Words in a String III (Easy)
