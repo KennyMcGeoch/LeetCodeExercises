@@ -3,8 +3,8 @@ const { kill } = require("process");
 /**
  * @param {number[][]} matrix
  * @return {number[]}
- * Runtime: 100 ms, faster than 29.42% of JavaScript online submissions for Spiral Matrix.
- * Memory Usage: 42.4 MB, less than 5.84% of JavaScript online submissions for Spiral Matrix.
+ * Runtime: 51 ms, faster than 99.43% of JavaScript online submissions for Spiral Matrix.
+ * Memory Usage: 42 MB, less than 35.49% of JavaScript online submissions for Spiral Matrix.
  */
  var spiralOrder = function(matrix) {
 
@@ -25,7 +25,7 @@ const { kill } = require("process");
             return
         }
         for (i=1; i+x<width; i++){
-            if (result[x][y+i] !== null && result[x][y+i] !== undefined){
+            if (result[x][y+i] !== null){
                 result[x][y+i] = null
                 solution.push(matrix[x][y+i])
             }
@@ -43,7 +43,7 @@ const { kill } = require("process");
             return
         }
         for (i=1; i+y<height; i++){
-            if (result[y+i][x] !== null && result[y+i][x] !== undefined){
+            if (result[y+i][x] !== null){
                 result[y+i][x] = null
                 solution.push(matrix[y+i][x])
             }
@@ -61,7 +61,7 @@ const { kill } = require("process");
             return
         }
         for (i=1; y-i>=0; i++){
-            if (result[x][y-i] !== null && result[x][y-i] !== undefined){
+            if (result[x][y-i] !== null){
                 result[x][y-i] = null
                 solution.push(matrix[x][y-i])
             }
@@ -80,7 +80,7 @@ const { kill } = require("process");
             return
         }
         for (i=1; x-i>0; i++){
-            if (result[x-i][y] !== null && result[x-i][y] !== undefined){
+            if (result[x-i][y] !== null){
                 result[x-i][y] = null
                 solution.push(matrix[x-i][y])
             }
