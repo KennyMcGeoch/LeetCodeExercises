@@ -81,6 +81,7 @@ Full List of Completed Projects in Numerical Order:
 509. Fibonacci Number (Easy)
 541. Reverse String II (Easy)
 557. Reverse Words in a String III (Easy)
+566. Reshape the Matrix (Easy)
 575. Distribute Candies (Easy)
 584. Find Customer Referee (Easy)
 589. N-ary Tree Preorder Traversal (Easy)
