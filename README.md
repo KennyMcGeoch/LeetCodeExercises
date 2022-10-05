@@ -105,6 +105,7 @@ Full List of Completed Projects in Numerical Order:
 1502. Can Make Arithmetic Progression From Sequence (Easy)
 1513. Number of Substrings With Only 1s (Medium)
 1523. Count Odd Numbers in an Interval Range (Easy)
+1572. Matrix Diagonal Sum (Easy)
 1588. Sum of All Odd Length Subarrays (Easy)
 1672. Richest Customer Wealth (Easy)
 1759. Count Number of Homogenous Substrings (Medium)
