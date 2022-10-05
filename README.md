@@ -20,6 +20,7 @@ Full List of Completed Projects in Numerical Order:
 41. First Missing Positive (Hard)
 45. Jump Game II (Medium)
 50. Pow(x, n) (Medium)
+53. Maximum Subarray (Medium)
 54. Spiral Matrix (Medium)
 55. Jump Game (Medium)
 58. Length of Last Word (Easy)
