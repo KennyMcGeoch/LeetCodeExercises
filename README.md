@@ -66,6 +66,7 @@ Full List of Completed Projects in Numerical Order:
 336. Palindrome Pairs (Hard)
 344. Reverse String (Easy)
 383. Ransom Note (Easy)
+389. Find the Difference
 392. Is Subsequence (Easy)
 409. Longest Palindrome (Easy)
 412. Fizz Buzz (Easy)
