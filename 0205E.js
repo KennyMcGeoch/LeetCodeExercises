@@ -2,24 +2,27 @@
  * @param {string} s
  * @param {string} t
  * @return {boolean}
- * Runtime: 6418 ms, faster than 5.01% of JavaScript online submissions for Isomorphic Strings.
-Memory Usage: 43.4 MB, less than 59.04% of JavaScript online submissions for Isomorphic Strings.
+ * Runtime: 112 ms, faster than 61.50% of JavaScript online submissions for Isomorphic Strings.
+ * Memory Usage: 43.6 MB, less than 53.55% of JavaScript online submissions for Isomorphic Strings.
  */
  var isIsomorphic = function(s, t) {
-    for (i=0; i<s.length; i++){
-        
-        for (j= (i+1); j<s.length; j++){
-            if (s[i] === s[j] && t[i] !== t[j]){
-                return false
-            }
+    let arrayObj = {}
+    let iterations = s.length
+    let previousUsed = []
+
+    for (i=0; i<iterations; i++){
+        if (arrayObj[s[i]] === undefined && !(previousUsed.includes(t[i]))){
+            arrayObj[s[i]] = t[i]
+            previousUsed.push(t[i])
         }
-        for (j= (i+1); j<s.length; j++){
-            if (t[i] === t[j] && s[i] !== s[j]){
-                return false
-            }
+        else if (arrayObj[s[i]] !== t[i]){
+            return false
         }
+        console.log(arrayObj[s[i]])
+        console.log(t[i])
     }
+
     return true
 };
 
-isIsomorphic("paper", "title");
+isIsomorphic("pater", "title");
