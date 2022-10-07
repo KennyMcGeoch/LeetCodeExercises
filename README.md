@@ -65,6 +65,7 @@ Full List of Completed Projects in Numerical Order:
 292. Nim Game (Easy)
 336. Palindrome Pairs (Hard)
 344. Reverse String (Easy)
+349. Intersection of Two Arrays (Easy)
 350. Intersection of Two Arrays II (Easy)
 383. Ransom Note (Easy)
 389. Find the Difference
