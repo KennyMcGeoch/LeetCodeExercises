@@ -96,6 +96,7 @@ Full List of Completed Projects in Numerical Order:
 709. To Lower Case (Easy)
 724. Find Pivot Index (Easy)
 746. Min Cost Climbing Stairs (Easy)
+953. Verifying an Alien Dictionary (Easy)
 976. Largest Perimeter Triangle (Easy)
 985. Sum of Even Numbers After Queries (Medium)
 1232. Check If It Is a Straight Line (Easy)
