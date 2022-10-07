@@ -2,8 +2,8 @@
  * @param {string} s
  * @param {string} t
  * @return {boolean}
- * Runtime: 270 ms, faster than 5.14% of JavaScript online submissions for Is Subsequence.
-Memory Usage: 49.3 MB, less than 5.02% of JavaScript online submissions for Is Subsequence.
+ * Runtime: 94 ms, faster than 55.08% of JavaScript online submissions for Is Subsequence.
+ * Memory Usage: 41.9 MB, less than 75.90% of JavaScript online submissions for Is Subsequence.
  */
  var isSubsequence = function(s, t) {
     let j=0;
@@ -14,7 +14,6 @@ Memory Usage: 49.3 MB, less than 5.02% of JavaScript online submissions for Is S
         if (s[j] === t[i]){
             j++;
         }
-        console.log(s.length)
         if (j === s.length){
             return true;
         }
