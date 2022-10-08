@@ -73,6 +73,7 @@ Full List of Completed Projects in Numerical Order:
 383. Ransom Note (Easy)
 389. Find the Difference
 392. Is Subsequence (Easy)
+404. Sum of Left Leaves (Easy)
 409. Longest Palindrome (Easy)
 412. Fizz Buzz (Easy)
 414. Third Maximum Number (Easy)
