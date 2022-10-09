@@ -29,6 +29,7 @@ Full List of Completed Projects in Numerical Order:
 66. Plus One (Easy)
 69. Sqrt(x) (Easy)
 70. Climbing Stairs (Easy)
+74. Search a 2D Matrix (Medium)
 88. Merge Sorted Array (Easy)
 91. Decode Ways (Medium)
 104. Maximum Depth of Binary Tree (Easy)
