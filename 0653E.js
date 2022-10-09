@@ -10,19 +10,19 @@
  * @param {TreeNode} root
  * @param {number} k
  * @return {boolean}
- * Runtime: 236 ms, faster than 6.86% of JavaScript online submissions for Two Sum IV - Input is a BST.
- * Memory Usage: 52.2 MB, less than 28.85% of JavaScript online submissions for Two Sum IV - Input is a BST.
+ * Runtime: 165 ms, faster than 38.29% of JavaScript online submissions for Two Sum IV - Input is a BST.
+ * Memory Usage: 52.1 MB, less than 39.59% of JavaScript online submissions for Two Sum IV - Input is a BST.
  */
  var findTarget = function(root, k) {
 
-    let valueArray = []
+    let valueHash = {}
 
     if (checkTarget(root)===1) return true
 
     function checkTarget(node){
         if (node === null) return 0
-        if (valueArray.includes(k-node.val))return 1
-        valueArray.push(node.val)
+        if (valueHash[(k-node.val)])return 1
+        else {valueHash[node.val] = true}
         return Math.max(checkTarget(node.left),checkTarget(node.right))
     }
 
