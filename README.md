@@ -74,7 +74,8 @@ Full List of Completed Projects in Numerical Order:
 349. Intersection of Two Arrays (Easy)
 350. Intersection of Two Arrays II (Easy)
 383. Ransom Note (Easy)
-389. Find the Difference
+387. First Unique Character in a String (Easy)
+389. Find the Difference (Easy)
 392. Is Subsequence (Easy)
 404. Sum of Left Leaves (Easy)
 409. Longest Palindrome (Easy)
