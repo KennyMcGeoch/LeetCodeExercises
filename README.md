@@ -126,6 +126,7 @@ Full List of Completed Projects in Numerical Order:
 1523. Count Odd Numbers in an Interval Range (Easy)
 1572. Matrix Diagonal Sum (Easy)
 1588. Sum of All Odd Length Subarrays (Easy)
+1603. Design Parking System (Easy)
 1672. Richest Customer Wealth (Easy)
 1678. Goal Parser Interpretation (Easy)
 1759. Count Number of Homogenous Substrings (Medium)
