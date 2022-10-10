@@ -32,6 +32,7 @@ Full List of Completed Projects in Numerical Order:
 74. Search a 2D Matrix (Medium)
 88. Merge Sorted Array (Easy)
 91. Decode Ways (Medium)
+102. Binary Tree Level Order Traversal (Medium)
 104. Maximum Depth of Binary Tree (Easy)
 118. Pascal's Triangle (Easy)
 119. Pascal's Triangle II (Easy)
