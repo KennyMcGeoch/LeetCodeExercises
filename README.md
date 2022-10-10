@@ -65,6 +65,7 @@ Full List of Completed Projects in Numerical Order:
 268. Missing Number (Easy)
 274. H-Index (Medium)
 275. H-Index II (Medium)
+278. First Bad Version (Easy)
 283. Move Zeroes (Easy)
 287. Find the Duplicate Number (Medium)
 290. Word Pattern (Easy)
