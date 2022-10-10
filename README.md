@@ -105,6 +105,7 @@ Full List of Completed Projects in Numerical Order:
 627. Swap Salary (Easy)
 649. Dota2 Senate (Medium)
 653. Two Sum IV - Input is a BST (Easy)
+704. Binary Search (Easy)
 709. To Lower Case (Easy)
 724. Find Pivot Index (Easy)
 746. Min Cost Climbing Stairs (Easy)
