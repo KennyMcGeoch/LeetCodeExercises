@@ -73,6 +73,7 @@ Full List of Completed Projects in Numerical Order:
 287. Find the Duplicate Number (Medium)
 290. Word Pattern (Easy)
 292. Nim Game (Easy)
+299. Bulls and Cows (Medium)
 303. Range Sum Query - Immutable (Easy)
 334. Increasing Triplet Subsequence (Medium)
 336. Palindrome Pairs (Hard)
