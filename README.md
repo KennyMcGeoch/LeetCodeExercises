@@ -73,6 +73,7 @@ Full List of Completed Projects in Numerical Order:
 290. Word Pattern (Easy)
 292. Nim Game (Easy)
 303. Range Sum Query - Immutable (Easy)
+334. Increasing Triplet Subsequence (Medium)
 336. Palindrome Pairs (Hard)
 344. Reverse String (Easy)
 349. Intersection of Two Arrays (Easy)
