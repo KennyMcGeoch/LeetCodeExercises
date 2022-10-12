@@ -19,7 +19,6 @@
         }
     }
 
-
     function checkIsland(y,x){
         if (y < 0 || y === iterationsY)return 0
         if (x < 0 || x === iterationsX)return 0
@@ -27,10 +26,7 @@
         grid[y][x] = 2
         return checkIsland(y+1,x) + checkIsland(y-1,x) + checkIsland(y,x+1) + checkIsland(y,x-1)
     }
-
-
-    return totalIslands
-    
+    return totalIslands    
 };
 
 numIslands([
