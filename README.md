@@ -116,6 +116,7 @@ Full List of Completed Projects in Numerical Order:
 709. To Lower Case (Easy)
 724. Find Pivot Index (Easy)
 746. Min Cost Climbing Stairs (Easy)
+844. Backspace String Compare (Easy)
 876. Middle of the Linked List (Easy)
 953. Verifying an Alien Dictionary (Easy)
 976. Largest Perimeter Triangle (Easy)
