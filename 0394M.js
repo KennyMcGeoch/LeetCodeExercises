@@ -1,30 +1,24 @@
 /**
  * @param {string} s
  * @return {string}
- * Runtime: 87 ms, faster than 62.80% of JavaScript online submissions for Decode String.
- * Memory Usage: 42.1 MB, less than 33.04% of JavaScript online submissions for Decode String.
+ * Runtime: 59 ms, faster than 95.75% of JavaScript online submissions for Decode String.
+ * Memory Usage: 41.4 MB, less than 96.25% of JavaScript online submissions for Decode String.
  */
  var decodeString = function(s) {
 
     let multiplier = ""
-    let temp = ""
-    let solution = ""
-    let firstChar = -1
     let lastChar = -1
     let recSol
     
     if (s.includes("[") === false)return s
 
-        recSol = singleDecode(s)
+        recSol = singleDecode(s,"","",-1)
 
         while(recSol.includes("[")){
-            temp = ""
-            solution = ""
-            firstChar = -1
-            recSol = singleDecode(recSol)
+            recSol = singleDecode(recSol,"","",-1)
         }
 
-    function singleDecode(str){
+    function singleDecode(str,temp,solution,firstChar){
         for (i=0; i<str.length; i++){
             if (isCharNumber(str[i])){
                 if (firstChar === -1){
@@ -52,7 +46,9 @@
                 multiplier = ""
                 i--
                 firstChar = -1
+
             }
+
         }
     }   
     return recSol  
