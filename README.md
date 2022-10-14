@@ -158,5 +158,6 @@ Full List of Completed Projects in Numerical Order:
 1869. Longer Contiguous Segments of Ones than Zeros (Easy)
 1871. Jump Game VII (Medium)
 2007. Find Original Array From Doubled Array (Medium)
+2095. Delete the Middle Node of a Linked List (Medium)
 2099. Find Subsequence of Length K With the Largest Sum (Easy)
 2404. Most Frequent Even Element (Easy)
