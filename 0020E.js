@@ -1,8 +1,8 @@
 /**
  * @param {string} s
  * @return {boolean}
- * Runtime: 513 ms, faster than 5.01% of JavaScript online submissions for Valid Parentheses.
- * Memory Usage: 49.8 MB, less than 5.12% of JavaScript online submissions for Valid Parentheses.
+ * Runtime: 228 ms, faster than 5.01% of JavaScript online submissions for Valid Parentheses.
+ * Memory Usage: 50 MB, less than 5.12% of JavaScript online submissions for Valid Parentheses.
  */
  var isValid = function(s) {
 
@@ -55,7 +55,7 @@
 
             if (parenth[firstVarArr] === 0){
                 if (Math.max(parenth[0],parenth[1],parenth[2]) === 0){
-                    return str.slice(0,firstVarLoc) + str.slice(firstVarLoc+1,i)+str.slice(i+1)
+                    return str.slice(0,firstVarLoc)+str.slice(i+1)
                 }
                 
                 else {
