@@ -4,6 +4,7 @@ Coding exercises. Exercises will be named in format Problem Number (Difficulty) 
 
 Full List of Completed Projects in Numerical Order:
 1. Two Sum (Easy)
+2. Add Two Numbers (Medium)
 4. Median of Two Sorted Arrays (Hard)
 7. Reverse Integer (Medium)
 8. String to Integer (atoi) (Medium)
