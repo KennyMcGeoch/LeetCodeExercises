@@ -34,6 +34,7 @@ Full List of Completed Projects in Numerical Order:
 83. Remove Duplicates from Sorted List (Easy)
 88. Merge Sorted Array (Easy)
 91. Decode Ways (Medium)
+94. Binary Tree Inorder Traversal (Easy)
 98. Validate Binary Search Tree (Medium)
 102. Binary Tree Level Order Traversal (Medium)
 104. Maximum Depth of Binary Tree (Easy)
