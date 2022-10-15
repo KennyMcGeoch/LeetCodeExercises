@@ -9,8 +9,8 @@
  * @param {ListNode} l1
  * @param {ListNode} l2
  * @return {ListNode}
- * Runtime: 141 ms, faster than 77.60% of JavaScript online submissions for Add Two Numbers.
- * Memory Usage: 49.2 MB, less than 10.47% of JavaScript online submissions for Add Two Numbers.
+ * Runtime: 125 ms, faster than 82.99% of JavaScript online submissions for Add Two Numbers.
+ * Memory Usage: 49 MB, less than 11.16% of JavaScript online submissions for Add Two Numbers.
  */
  var addTwoNumbers = function(l1, l2) {
 
@@ -39,24 +39,28 @@
     function arrayAdd (arr1,arr2){
         for (i=0; i<arr2.length; i++){
             if (i+1 === arr2.length && arr1.length === arr2.length){
-                if (parseInt((arr1[i] + arr2[i])/10) > 0){
-                    arr1.push(parseInt((arr1[i] + arr2[i])/10))
+                if (arr1[i] + arr2[i] > 9){
+                    arr1.push(1)
                 }
             } 
             else{
-                arr1[i+1] = arr1[i+1] + (parseInt((arr1[i] + arr2[i])/10))
+                if (arr1[i] + arr2[i] > 9){
+                        arr1[i+1] = arr1[i+1] + 1                  
+                    }
             }  
             arr1[i] = (arr1[i] + arr2[i]) % 10
         }
         for (i=arr2.length; i<arr1.length; i++){
             if (arr1[i] > 9){
                 if (i+1 === arr1.length){
-                    if (parseInt(arr1[i]/10) > 0){
-                        arr1.push(parseInt(arr1[i]/10))
+                    if (arr1[i] > 9){
+                        arr1.push(1)
                     }
                 } 
                 else{
-                    arr1[i+1] = arr1[i+1] + parseInt(arr1[i]/10)
+                    if (arr1[i] > 9){
+                        arr1[i+1] = arr1[i+1] + 1                  
+                    }                    
                 }                
                 arr1[i] = arr1[i] % 10
             }
@@ -70,8 +74,7 @@
         if (node.next === null && totalArray.length > 0){
             node.next = {val:[totalArray[totalArray.length-1]],next:null}
         }
-            node = node.next
-
+        node = node.next
     }
     return nodeTwo 
 };
