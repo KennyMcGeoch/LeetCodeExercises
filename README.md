@@ -38,6 +38,7 @@ Full List of Completed Projects in Numerical Order:
 91. Decode Ways (Medium)
 94. Binary Tree Inorder Traversal (Easy)
 98. Validate Binary Search Tree (Medium)
+101. Symmetric Tree (Easy)
 102. Binary Tree Level Order Traversal (Medium)
 104. Maximum Depth of Binary Tree (Easy)
 118. Pascal's Triangle (Easy)
