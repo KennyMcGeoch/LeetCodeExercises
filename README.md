@@ -12,6 +12,7 @@ Full List of Completed Projects in Numerical Order:
 11. Container With Most Water (Medium)
 13. Roman to Integer (Easy)
 14. Longest Common Prefix (Easy)
+19. Remove Nth Node From End of List (Medium)
 20. Valid Parentheses (Easy)
 21. Merge Two Sorted Lists (Easy)
 26. Remove Duplicates from Sorted Array (Easy)
