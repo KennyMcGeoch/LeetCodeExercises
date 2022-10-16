@@ -41,6 +41,7 @@ Full List of Completed Projects in Numerical Order:
 101. Symmetric Tree (Easy)
 102. Binary Tree Level Order Traversal (Medium)
 104. Maximum Depth of Binary Tree (Easy)
+112. Path Sum (Easy)
 118. Pascal's Triangle (Easy)
 119. Pascal's Triangle II (Easy)
 121. Best Time to Buy and Sell Stock (Easy)
