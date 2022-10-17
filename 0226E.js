@@ -15,7 +15,6 @@
  var invertTree = function(root) {
     
     let leftVal
-    let rightVal
     
     let node = root
     
@@ -26,13 +25,14 @@
         if (node === null) return 0
         
         leftVal = node.left
-        rightVal = node.right
         
-        node.left = rightVal
+        node.left = node.right
         node.right = leftVal
         
-        return invert(node.left) + invert(node.right)        
+        return invert(node.left) + invert(node.right)
+        
     }
     
-    return root    
+    return root
+    
 };
