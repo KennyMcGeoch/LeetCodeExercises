@@ -51,6 +51,7 @@ Full List of Completed Projects in Numerical Order:
 142. Linked List Cycle II (Medium)
 144. Binary Tree Preorder Traversal (Easy)
 145. Binary Tree Postorder Traversal (Easy)
+148. Sort List (Medium)
 151. Reverse Words in a String (Medium)
 168. Excel Sheet Column Title (Easy)
 169. Majority Element (Easy)
