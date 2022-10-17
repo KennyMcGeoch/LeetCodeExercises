@@ -89,6 +89,7 @@ Full List of Completed Projects in Numerical Order:
 292. Nim Game (Easy)
 299. Bulls and Cows (Medium)
 303. Range Sum Query - Immutable (Easy)
+328. Odd Even Linked List (Medium)
 334. Increasing Triplet Subsequence (Medium)
 336. Palindrome Pairs (Hard)
 344. Reverse String (Easy)
