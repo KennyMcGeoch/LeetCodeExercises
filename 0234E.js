@@ -3,39 +3,34 @@
  * function ListNode(val, next) {
  *     this.val = (val===undefined ? 0 : val)
  *     this.next = (next===undefined ? null : next)
- * 
- * Runtime: 8061 ms, faster than 5.00% of JavaScript online submissions for Palindrome Linked List.
-Memory Usage: 81.1 MB, less than 39.06% of JavaScript online submissions for Palindrome Linked List.
- * 
  * }
  */
 /**
  * @param {ListNode} head
  * @return {boolean}
+ * Runtime: 322 ms, faster than 17.72% of JavaScript online submissions for Palindrome Linked List.
+ * Memory Usage: 87.4 MB, less than 23.52% of JavaScript online submissions for Palindrome Linked List.
  */
  var isPalindrome = function(head) {
-    let curr = head;
-    var len = 1;
-    let last = null;
-    let secondToLast = null;
-    if (curr && curr.next === null) return true;
-    while (curr.next !== null) {
-        len++;
-        secondToLast = curr;
-        curr = curr.next;
+    
+    let arrayList = []
+    
+    sortArray(head)
+    
+    function sortArray(node){
+        if (node === null) return 0
+        arrayList.push(node.val)
+        return sortArray(node.next)
     }
-    last = curr;
-    if (len === 2) {
-        if (head.val === last.val) return true;
-        
-        return false;
+    
+    arrayList.reverse()
+    
+    return checkList(head, 0)
+    
+    function checkList (node, depth){
+        if (node === null) return true
+        if (node.val !== arrayList[depth]) return false
+        return checkList(node.next, depth+1)
     }
-    if (head.val === last.val) {
-        secondToLast.next = null;
-        last.val = null;
-        last = null;
-        return isPalindrome(head.next);
-    } else {
-        return false;
-    }
+
 }
