@@ -174,4 +174,5 @@ Full List of Completed Projects in Numerical Order:
 2007. Find Original Array From Doubled Array (Medium)
 2095. Delete the Middle Node of a Linked List (Medium)
 2099. Find Subsequence of Length K With the Largest Sum (Easy)
+2131. Longest Palindrome by Concatenating Two Letter Words (Medium)
 2404. Most Frequent Even Element (Easy)
