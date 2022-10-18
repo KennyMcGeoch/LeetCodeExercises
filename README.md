@@ -126,6 +126,7 @@ Full List of Completed Projects in Numerical Order:
 596. Classes More Than 5 Students (Easy)
 605. Can Place Flowers (Easy)
 620. Not Boring Movies (Easy)
+621. Task Scheduler (Medium)
 627. Swap Salary (Easy)
 649. Dota2 Senate (Medium)
 653. Two Sum IV - Input is a BST (Easy)
