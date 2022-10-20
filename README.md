@@ -119,6 +119,7 @@ Full List of Completed Projects in Numerical Order:
 496. Next Greater Element I (Easy)
 509. Fibonacci Number (Easy)
 541. Reverse String II (Easy)
+543. Diameter of Binary Tree (Easy)
 557. Reverse Words in a String III (Easy)
 566. Reshape the Matrix (Easy)
 575. Distribute Candies (Easy)
