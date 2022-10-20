@@ -11,6 +11,7 @@ Full List of Completed Projects in Numerical Order:
 8. String to Integer (atoi) (Medium)
 9. Palindrome Number (Easy)
 11. Container With Most Water (Medium)
+12. Integer to Roman (Medium)
 13. Roman to Integer (Easy)
 14. Longest Common Prefix (Easy)
 19. Remove Nth Node From End of List (Medium)
