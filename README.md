@@ -109,6 +109,7 @@ Full List of Completed Projects in Numerical Order:
 414. Third Maximum Number (Easy)
 424. Longest Repeating Character Replacement (Medium)
 434. Number of Segments in a String (Easy)
+437. Path Sum III (Medium)
 438. Find All Anagrams in a String (Medium)
 441. Arranging Coins (Easy)
 442. Find All Duplicates in an Array (Medium)
