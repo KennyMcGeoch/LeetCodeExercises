@@ -43,3 +43,7 @@
 
     return -1    
 };
+
+// return nums.findIndex((a)=>a===target) 
+// Runtime: 120 ms, faster than 10.49% of JavaScript online submissions for Search in Rotated Sorted Array.
+// Memory Usage: 41.7 MB, less than 91.00% of JavaScript online submissions for Search in Rotated Sorted Array.
