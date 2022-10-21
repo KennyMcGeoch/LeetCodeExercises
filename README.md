@@ -146,6 +146,7 @@ Full List of Completed Projects in Numerical Order:
 733. Flood Fill (Easy)
 746. Min Cost Climbing Stairs (Easy)
 844. Backspace String Compare (Easy)
+852. Peak Index in a Mountain Array (Medium)
 876. Middle of the Linked List (Easy)
 953. Verifying an Alien Dictionary (Easy)
 976. Largest Perimeter Triangle (Easy)
