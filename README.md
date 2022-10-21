@@ -20,6 +20,7 @@ Full List of Completed Projects in Numerical Order:
 26. Remove Duplicates from Sorted Array (Easy)
 27. Remove Element (Easy)
 28. Find the Index of the First Occurrence in a String (Medium)
+33. Search in Rotated Sorted Array (Medium)
 35. Search Insert Position (Easy)
 36. Valid Sudoku (Medium)
 37. Sudoku Solver (Hard)
