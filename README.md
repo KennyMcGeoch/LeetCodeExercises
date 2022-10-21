@@ -151,6 +151,7 @@ Full List of Completed Projects in Numerical Order:
 953. Verifying an Alien Dictionary (Easy)
 976. Largest Perimeter Triangle (Easy)
 985. Sum of Even Numbers After Queries (Medium)
+997. Find the Town Judge (Easy)
 1046. Last Stone Weight (Easy)
 1232. Check If It Is a Straight Line (Easy)
 1281. Subtract the Product and Sum of Digits of an Integer (Easy)
