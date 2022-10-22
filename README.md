@@ -36,6 +36,7 @@ Full List of Completed Projects in Numerical Order:
 69. Sqrt(x) (Easy)
 70. Climbing Stairs (Easy)
 74. Search a 2D Matrix (Medium)
+76. Minimum Window Substring (Hard)
 83. Remove Duplicates from Sorted List (Easy)
 88. Merge Sorted Array (Easy)
 91. Decode Ways (Medium)
