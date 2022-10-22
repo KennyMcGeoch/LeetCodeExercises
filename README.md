@@ -101,6 +101,7 @@ Full List of Completed Projects in Numerical Order:
 344. Reverse String (Easy)
 349. Intersection of Two Arrays (Easy)
 350. Intersection of Two Arrays II (Easy)
+367. Valid Perfect Square (Easy)
 374. Guess Number Higher or Lower (Easy)
 383. Ransom Note (Easy)
 387. First Unique Character in a String (Easy)
