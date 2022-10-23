@@ -79,6 +79,7 @@ Full List of Completed Projects in Numerical Order:
 219. Contains Duplicate II (Easy)
 226. Invert Binary Tree (Easy)
 229. Majority Element II (Medium)
+230. Kth Smallest Element in a BST (Medium)
 232. Implement Queue using Stacks (Easy)
 234. Palindrome Linked List (Easy)
 235. Lowest Common Ancestor of a Binary Search Tree (Medium)
