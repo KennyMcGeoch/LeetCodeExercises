@@ -110,6 +110,7 @@ Full List of Completed Projects in Numerical Order:
 334. Increasing Triplet Subsequence (Medium)
 336. Palindrome Pairs (Hard)
 344. Reverse String (Easy)
+345. Reverse Vowels of a String (Easy)
 349. Intersection of Two Arrays (Easy)
 350. Intersection of Two Arrays II (Easy)
 367. Valid Perfect Square (Easy)
