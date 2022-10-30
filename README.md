@@ -210,6 +210,7 @@ Full List of Completed Projects in Numerical Order:
 1790. Check if One String Swap Can Make Strings Equal (Easy)
 1822. Sign of the Product of an Array (Easy)
 1832. Check if the Sentence Is Pangram (Easy)
+1855. Maximum Distance Between a Pair of Values (Medium)
 1869. Longer Contiguous Segments of Ones than Zeros (Easy)
 1871. Jump Game VII (Medium)
 2007. Find Original Array From Doubled Array (Medium)
