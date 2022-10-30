@@ -181,6 +181,7 @@ Full List of Completed Projects in Numerical Order:
 1232. Check If It Is a Straight Line (Easy)
 1281. Subtract the Product and Sum of Digits of an Integer (Easy)
 1290. Convert Binary Number in a Linked List to Integer (Easy)
+1293. Shortest Path in a Grid with Obstacles Elimination (Hard)
 1306. Jump Game III (Medium)
 1309. Decrypt String from Alphabet to Integer Mapping (Easy)
 1337. The K Weakest Rows in a Matrix (Easy)
