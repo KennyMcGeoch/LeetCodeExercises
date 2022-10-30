@@ -34,6 +34,7 @@ Full List of Completed Projects in Numerical Order:
 54. Spiral Matrix (Medium)
 55. Jump Game (Medium)
 56. Merge Intervals (Medium)
+57. Insert Interval (Medium)
 58. Length of Last Word (Easy)
 62. Unique Paths (Medium)
 66. Plus One (Easy)
