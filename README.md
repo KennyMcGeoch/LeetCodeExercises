@@ -167,6 +167,7 @@ Full List of Completed Projects in Numerical Order:
 709. To Lower Case (Easy)
 724. Find Pivot Index (Easy)
 733. Flood Fill (Easy)
+735. Asteroid Collision (Medium)
 744. Find Smallest Letter Greater Than Target (Easy)
 746. Min Cost Climbing Stairs (Easy)
 766. Toeplitz Matrix (Easy)
