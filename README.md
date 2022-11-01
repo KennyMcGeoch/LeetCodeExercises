@@ -28,6 +28,7 @@ Full List of Completed Projects in Numerical Order:
 37. Sudoku Solver (Hard)
 41. First Missing Positive (Hard)
 45. Jump Game II (Medium)
+46. Permutations (Medium)
 49. Group Anagrams (Medium)
 50. Pow(x, n) (Medium)
 53. Maximum Subarray (Medium)
