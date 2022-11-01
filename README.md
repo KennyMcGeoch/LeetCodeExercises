@@ -145,6 +145,7 @@ Full List of Completed Projects in Numerical Order:
 523. Continuous Subarray Sum (Medium)
 541. Reverse String II (Easy)
 543. Diameter of Binary Tree (Easy)
+547. Number of Provinces (Medium)
 557. Reverse Words in a String III (Easy)
 566. Reshape the Matrix (Easy)
 575. Distribute Candies (Easy)
