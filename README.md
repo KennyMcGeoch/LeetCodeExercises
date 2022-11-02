@@ -44,6 +44,7 @@ Full List of Completed Projects in Numerical Order:
 70. Climbing Stairs (Easy)
 74. Search a 2D Matrix (Medium)
 76. Minimum Window Substring (Hard)
+79. Word Search (Medium)
 83. Remove Duplicates from Sorted List (Easy)
 88. Merge Sorted Array (Easy)
 91. Decode Ways (Medium)
