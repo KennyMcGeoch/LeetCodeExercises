@@ -116,6 +116,7 @@ Full List of Completed Projects in Numerical Order:
 292. Nim Game (Easy)
 299. Bulls and Cows (Medium)
 303. Range Sum Query - Immutable (Easy)
+319. Bulb Switcher (Medium)
 322. Coin Change (Medium)
 328. Odd Even Linked List (Medium)
 334. Increasing Triplet Subsequence (Medium)
