@@ -93,6 +93,7 @@ Full List of Completed Projects in Numerical Order:
 205. Isomorphic Strings (Easy)
 206. Reverse Linked List (Easy)
 210. Course Schedule II (Medium)
+212. Word Search II (Hard)
 215. Kth Largest Element in an Array (Medium)
 217. Contains Duplicate (Easy)
 219. Contains Duplicate II (Easy)
