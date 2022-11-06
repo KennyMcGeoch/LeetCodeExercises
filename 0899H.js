@@ -2,8 +2,8 @@
  * @param {string} s
  * @param {number} k
  * @return {string}
- * Runtime: 133 ms, faster than 22.22% of JavaScript online submissions for Orderly Queue.
- * Memory Usage: 45.2 MB, less than 38.89% of JavaScript online submissions for Orderly Queue.
+ * Runtime: 63 ms, faster than 100.00% of JavaScript online submissions for Orderly Queue.
+ * Memory Usage: 44.9 MB, less than 38.89% of JavaScript online submissions for Orderly Queue.
  */
  var orderlyQueue = function(s, k) {
     
@@ -17,7 +17,7 @@
         let firstReduct = 0
         for (j=0; j<iterations; j++){
             temp = doubleS[best+j].localeCompare(doubleS[i+j])
-            if (doubleS[i+j-1].localeCompare(doubleS[i+j]) === -1 && firstReduct === 0){
+            if (firstReduct === 0 && doubleS[i+j-1].localeCompare(doubleS[i+j]) === -1){
                 firstReduct = j
             }
             if (temp === 1){
@@ -29,6 +29,8 @@
                 i += firstReduct
             }
         }
-    }    
-    return doubleS.slice(best, best+iterations)        
+    }
+    
+    return doubleS.slice(best, best+iterations)    
+    
 };
