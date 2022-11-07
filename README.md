@@ -241,4 +241,5 @@ Full List of Completed Projects in Numerical Order:
 2099. Find Subsequence of Length K With the Largest Sum (Easy)
 2131. Longest Palindrome by Concatenating Two Letter Words (Medium)
 2136. Earliest Possible Day of Full Bloom (Hard)
+2206. Divide Array Into Equal Pairs (Easy)
 2404. Most Frequent Even Element (Easy)
