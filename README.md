@@ -199,6 +199,7 @@ Full List of Completed Projects in Numerical Order:
 1293. Shortest Path in a Grid with Obstacles Elimination (Hard)
 1306. Jump Game III (Medium)
 1309. Decrypt String from Alphabet to Integer Mapping (Easy)
+1323. Maximum 69 Number (Easy)
 1337. The K Weakest Rows in a Matrix (Easy)
 1342. Number of Steps to Reduce a Number to Zero (Easy)
 1346. Check If N and Its Double Exist (Easy)
