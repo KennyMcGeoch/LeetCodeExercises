@@ -194,6 +194,7 @@ Full List of Completed Projects in Numerical Order:
 997. Find the Town Judge (Easy)
 1046. Last Stone Weight (Easy)
 1148. Article Views I (Easy)
+1160. Find Words That Can Be Formed by Characters (Easy)
 1232. Check If It Is a Straight Line (Easy)
 1281. Subtract the Product and Sum of Digits of an Integer (Easy)
 1290. Convert Binary Number in a Linked List to Integer (Easy)
