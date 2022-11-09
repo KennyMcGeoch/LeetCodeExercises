@@ -228,6 +228,7 @@ Full List of Completed Projects in Numerical Order:
 1608. Special Array With X Elements Greater Than or Equal X (Easy)
 1662. Check If Two String Arrays are Equivalent (Easy)
 1667. Fix Names in a Table (Easy)
+1688. Count of Matches in Tournament (Easy)
 1672. Richest Customer Wealth (Easy)
 1678. Goal Parser Interpretation (Easy)
 1706. Where Will the Ball Fall (Medium)
