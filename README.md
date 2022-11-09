@@ -221,6 +221,7 @@ Full List of Completed Projects in Numerical Order:
 1527. Patients With a Condition (Easy)
 1539. Kth Missing Positive Number (Easy)
 1544. Make The String Great (Easy)
+1550. Three Consecutive Odds (Easy)
 1572. Matrix Diagonal Sum (Easy)
 1588. Sum of All Odd Length Subarrays (Easy)
 1603. Design Parking System (Easy)
