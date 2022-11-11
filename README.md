@@ -213,6 +213,7 @@ Full List of Completed Projects in Numerical Order:
 1346. Check If N and Its Double Exist (Easy)
 1351. Count Negative Numbers in a Sorted Matrix (Easy)
 1356. Sort Integers by The Number of 1 Bits (Easy)
+1365. How Many Numbers Are Smaller Than the Current Number (Easy)
 1385. Find the Distance Value Between Two Arrays (Easy)
 1446. Consecutive Characters (Easy)
 1480. Running Sum of 1d Array (Easy)
