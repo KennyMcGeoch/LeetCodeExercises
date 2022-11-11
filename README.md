@@ -215,6 +215,7 @@ Full List of Completed Projects in Numerical Order:
 1356. Sort Integers by The Number of 1 Bits (Easy)
 1365. How Many Numbers Are Smaller Than the Current Number (Easy)
 1385. Find the Distance Value Between Two Arrays (Easy)
+1403. Minimum Subsequence in Non-Increasing Order (Easy)
 1446. Consecutive Characters (Easy)
 1480. Running Sum of 1d Array (Easy)
 1484. Group Sold Products By The Date (Easy)
