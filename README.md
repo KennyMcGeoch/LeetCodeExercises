@@ -199,6 +199,7 @@ Full List of Completed Projects in Numerical Order:
 1148. Article Views I (Easy)
 1154. Day of the Year (Easy)
 1160. Find Words That Can Be Formed by Characters (Easy)
+1209. Remove All Adjacent Duplicates in String II (Medium)
 1232. Check If It Is a Straight Line (Easy)
 1281. Subtract the Product and Sum of Digits of an Integer (Easy)
 1290. Convert Binary Number in a Linked List to Integer (Easy)
