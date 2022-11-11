@@ -139,6 +139,7 @@ Full List of Completed Projects in Numerical Order:
 412. Fizz Buzz (Easy)
 414. Third Maximum Number (Easy)
 417. Pacific Atlantic Water Flow (Medium)
+419. Battleships in a Board (Medium)
 424. Longest Repeating Character Replacement (Medium)
 433. Minimum Genetic Mutation (Medium)
 434. Number of Segments in a String (Easy)
