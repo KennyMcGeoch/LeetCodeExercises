@@ -190,6 +190,7 @@ Full List of Completed Projects in Numerical Order:
 852. Peak Index in a Mountain Array (Medium)
 876. Middle of the Linked List (Easy)
 899. Orderly Queue (Hard)
+933. Number of Recent Calls (Easy)
 947. Most Stones Removed with Same Row or Column (Medium)
 953. Verifying an Alien Dictionary (Easy)
 976. Largest Perimeter Triangle (Easy)
