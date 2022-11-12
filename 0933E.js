@@ -1,6 +1,7 @@
 /*
-* Runtime: 710 ms, faster than 29.94% of JavaScript online submissions for Number of Recent Calls.
-* Memory Usage: 55.5 MB, less than 67.38% of JavaScript online submissions for Number of Recent Calls.*/
+* Runtime: 367 ms, faster than 73.26% of JavaScript online submissions for Number of Recent Calls.
+* Memory Usage: 57 MB, less than 48.13% of JavaScript online submissions for Number of Recent Calls.
+*/
 var RecentCounter = function() {
     
     calls = []
@@ -13,8 +14,10 @@ var RecentCounter = function() {
  */
 RecentCounter.prototype.ping = function(t) {
     calls.push(t)
-    recentCalls = calls.findIndex((a)=> a >= t-3000)
-    return calls.length - recentCalls
+    while(calls[0] < t-3000){
+        calls.shift()
+    }
+    return calls.length 
 };
 
 /** 
