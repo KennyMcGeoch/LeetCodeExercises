@@ -98,6 +98,7 @@ Full List of Completed Projects in Numerical Order:
 215. Kth Largest Element in an Array (Medium)
 217. Contains Duplicate (Easy)
 219. Contains Duplicate II (Easy)
+225. Implement Stack using Queues (Easy)
 226. Invert Binary Tree (Easy)
 229. Majority Element II (Medium)
 230. Kth Smallest Element in a BST (Medium)
