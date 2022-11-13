@@ -15,6 +15,7 @@ Full List of Completed Projects in Numerical Order:
 13. Roman to Integer (Easy)
 14. Longest Common Prefix (Easy)
 16. 3Sum Closest (Medium)
+17. Letter Combinations of a Phone Number (Medium)
 19. Remove Nth Node From End of List (Medium)
 20. Valid Parentheses (Easy)
 21. Merge Two Sorted Lists (Easy)
