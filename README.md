@@ -109,6 +109,7 @@ Full List of Completed Projects in Numerical Order:
 235. Lowest Common Ancestor of a Binary Search Tree (Medium)
 237. Delete Node in a Linked List (Medium)
 242. Valid Anagram (Easy)
+257. Binary Tree Paths (Easy)
 258. Add Digits (Easy)
 260. Single Number III (Medium)
 268. Missing Number (Easy)
