@@ -30,7 +30,5 @@
         }
         return path(node.left, newStr) + path(node.right, newStr)
     }
-    
-    return solution
-    
+    return solution    
 };
