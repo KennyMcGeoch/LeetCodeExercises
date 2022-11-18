@@ -114,6 +114,7 @@ Full List of Completed Projects in Numerical Order:
 257. Binary Tree Paths (Easy)
 258. Add Digits (Easy)
 260. Single Number III (Medium)
+263. Ugly Number (Easy)
 268. Missing Number (Easy)
 274. H-Index (Medium)
 275. H-Index II (Medium)
