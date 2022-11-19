@@ -266,4 +266,5 @@ Full List of Completed Projects in Numerical Order:
 2206. Divide Array Into Equal Pairs (Easy)
 2319. Check if Matrix Is X-Matrix (Easy)
 2404. Most Frequent Even Element (Easy)
+2455. Average Value of Even Numbers That Are Divisible by Three (Easy)
 2469. Convert the Temperature (Easy)
