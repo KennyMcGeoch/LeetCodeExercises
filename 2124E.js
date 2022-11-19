@@ -6,7 +6,6 @@
  */
  var checkString = function(s) {
 
-    let iterations = s.length
     let first = s.indexOf("ba")
 
     if (first < 0)return true
