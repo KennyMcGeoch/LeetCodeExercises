@@ -264,6 +264,7 @@ Full List of Completed Projects in Numerical Order:
 2131. Longest Palindrome by Concatenating Two Letter Words (Medium)
 2136. Earliest Possible Day of Full Bloom (Hard)
 2206. Divide Array Into Equal Pairs (Easy)
+2235. Add Two Integers (Easy)
 2319. Check if Matrix Is X-Matrix (Easy)
 2404. Most Frequent Even Element (Easy)
 2418. Sort the People (Easy)
