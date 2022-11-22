@@ -273,5 +273,6 @@ Full List of Completed Projects in Numerical Order:
 2404. Most Frequent Even Element (Easy)
 2418. Sort the People (Easy)
 2455. Average Value of Even Numbers That Are Divisible by Three (Easy)
+2460. Apply Operations to an Array (Easy)
 2465. Number of Distinct Averages (Easy)
 2469. Convert the Temperature (Easy)
