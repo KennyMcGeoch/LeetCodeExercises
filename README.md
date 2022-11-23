@@ -207,6 +207,7 @@ Full List of Completed Projects in Numerical Order:
 997. Find the Town Judge (Easy)
 1046. Last Stone Weight (Easy)
 1047. Remove All Adjacent Duplicates In String (Easy)
+1078. Occurrences After Bigram (Easy)
 1148. Article Views I (Easy)
 1154. Day of the Year (Easy)
 1160. Find Words That Can Be Formed by Characters (Easy)
