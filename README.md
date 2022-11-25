@@ -159,6 +159,7 @@ Full List of Completed Projects in Numerical Order:
 448. Find All Numbers Disappeared in an Array (Easy)
 463. Island Perimeter (Easy)
 485. Max Consecutive Ones (Easy)
+492. Construct the Rectangle (Easy)
 495. Teemo Attacking (Easy)
 496. Next Greater Element I (Easy)
 509. Fibonacci Number (Easy)
