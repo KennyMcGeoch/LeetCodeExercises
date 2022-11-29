@@ -138,6 +138,7 @@ Full List of Completed Projects in Numerical Order:
 350. Intersection of Two Arrays II (Easy)
 367. Valid Perfect Square (Easy)
 374. Guess Number Higher or Lower (Easy)
+380. Insert Delete GetRandom O(1) (Medium)
 383. Ransom Note (Easy)
 387. First Unique Character in a String (Easy)
 389. Find the Difference (Easy)
