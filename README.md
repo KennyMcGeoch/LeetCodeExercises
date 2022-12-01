@@ -252,6 +252,7 @@ Full List of Completed Projects in Numerical Order:
 1688. Count of Matches in Tournament (Easy)
 1672. Richest Customer Wealth (Easy)
 1678. Goal Parser Interpretation (Easy)
+1704. Determine if String Halves Are Alike (Easy)
 1706. Where Will the Ball Fall (Medium)
 1757. Recyclable and Low Fat Products (Easy)
 1759. Count Number of Homogenous Substrings (Medium)
