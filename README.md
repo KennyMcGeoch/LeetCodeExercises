@@ -261,6 +261,7 @@ Full List of Completed Projects in Numerical Order:
 1759. Count Number of Homogenous Substrings (Medium)
 1768. Merge Strings Alternately (Easy)
 1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy)
+1780. Check if Number is a Sum of Powers of Three (Medium)
 1790. Check if One String Swap Can Make Strings Equal (Easy)
 1822. Sign of the Product of an Array (Easy)
 1832. Check if the Sentence Is Pangram (Easy)
