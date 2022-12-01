@@ -130,6 +130,7 @@ Full List of Completed Projects in Numerical Order:
 303. Range Sum Query - Immutable (Easy)
 319. Bulb Switcher (Medium)
 322. Coin Change (Medium)
+326. Power of Three (Easy)
 328. Odd Even Linked List (Medium)
 334. Increasing Triplet Subsequence (Medium)
 336. Palindrome Pairs (Hard)
