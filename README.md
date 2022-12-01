@@ -134,6 +134,7 @@ Full List of Completed Projects in Numerical Order:
 328. Odd Even Linked List (Medium)
 334. Increasing Triplet Subsequence (Medium)
 336. Palindrome Pairs (Hard)
+342. Power of Four (Easy)
 344. Reverse String (Easy)
 345. Reverse Vowels of a String (Easy)
 349. Intersection of Two Arrays (Easy)
