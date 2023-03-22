@@ -288,4 +288,5 @@ Full List of Completed Projects in Numerical Order:
 2460. Apply Operations to an Array (Easy)
 2465. Number of Distinct Averages (Easy)
 2469. Convert the Temperature (Easy)
+2578. Split With Minimum Sum (Easy)
 2591. Distribute Money to Maximum Children (Easy)
