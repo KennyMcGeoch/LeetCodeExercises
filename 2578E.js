@@ -3,6 +3,9 @@
  * @return {number}
  * Runtime: 68 ms, faster than 15.08% of JavaScript online submissions for Split With Minimum Sum.
  * Memory Usage: 41.7 MB, less than 92.13% of JavaScript online submissions for Split With Minimum Sum.
+ * 
+ * Runtime: 53 ms, faster than 85.57% of JavaScript online submissions for Split With Minimum Sum.
+ * Memory Usage: 42.1 MB, less than 64.26% of JavaScript online submissions for Split With Minimum Sum.
  */
 var splitNum = function(num) {
     
