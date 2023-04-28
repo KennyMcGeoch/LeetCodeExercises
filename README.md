@@ -290,3 +290,6 @@ Full List of Completed Projects in Numerical Order:
 2469. Convert the Temperature (Easy)
 2578. Split With Minimum Sum (Easy)
 2591. Distribute Money to Maximum Children (Easy)
+2619. Array Prototype Last (Easy)
+2620. Counter (Easy)
+2624. Snail Traversal (Medium)
