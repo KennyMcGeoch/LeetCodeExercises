@@ -236,6 +236,7 @@ Full List of Completed Projects in Numerical Order:
 1385. Find the Distance Value Between Two Arrays (Easy)
 1403. Minimum Subsequence in Non-Increasing Order (Easy)
 1446. Consecutive Characters (Easy)
+1456. Maximum Number of Vowels in a Substring of Given Length (Medium)
 1480. Running Sum of 1d Array (Easy)
 1484. Group Sold Products By The Date (Easy)
 1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)
