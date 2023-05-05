@@ -294,3 +294,4 @@ Full List of Completed Projects in Numerical Order:
 2620. Counter (Easy)
 2624. Snail Traversal (Medium)
 2648. Generate Fibonacci Sequence (Easy)
+2667. Create Hello World Function (Easy)
