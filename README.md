@@ -294,5 +294,6 @@ Full List of Completed Projects in Numerical Order:
 2619. Array Prototype Last (Easy)
 2620. Counter (Easy)
 2624. Snail Traversal (Medium)
+2634. Filter Elements from Array (Easy)
 2648. Generate Fibonacci Sequence (Easy)
 2667. Create Hello World Function (Easy)
