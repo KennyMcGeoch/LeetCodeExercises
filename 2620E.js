@@ -1,11 +1,10 @@
 /**
  * @param {number} n
  * @return {Function} counter
- * Runtime: 61 ms, faster than 33.98% of JavaScript online submissions for Counter.
- * Memory Usage: 42.2 MB, less than 25.62% of JavaScript online submissions for Counter.
+ * Runtime: 55 ms, faster than 69.57% of JavaScript online submissions for Counter.
+ * Memory Usage: 42 MB, less than 56.40% of JavaScript online submissions for Counter.
  */
 var createCounter = function(n) {
-    const counter = n
     return function() {
         return n++
     };
