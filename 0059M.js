@@ -22,8 +22,7 @@ var generateMatrix = function(n) {
     function goRight(arr, y, x){
         if (counter > lastNum)return
         if (x === maxX) {
-            maxX--
-            goDown(arr,y+1,maxX)
+            goDown(arr,y+1,--maxX)
             return
         }
         arr[y][x] = counter++
@@ -33,8 +32,7 @@ var generateMatrix = function(n) {
     function goDown(arr, y, x){
         if (counter > lastNum)return
         if (y === maxY) {
-            maxY--
-            goLeft(arr,maxY,x-1)
+            goLeft(arr,--maxY,x-1)
             return
         }
         arr[y][x] = counter++
@@ -44,8 +42,7 @@ var generateMatrix = function(n) {
     function goLeft(arr, y, x){
         if (counter > lastNum)return
         if (x === minX) {
-            minX++
-            goUp(arr,y-1,minX)
+            goUp(arr,y-1,++minX)
             return
         }
         arr[y][x] = counter++
@@ -55,8 +52,7 @@ var generateMatrix = function(n) {
     function goUp(arr, y, x){
         if (counter > lastNum)return
         if (y === minY) {
-            minY++
-            goRight(arr,minY,x+1)
+            goRight(arr,++minY,x+1)
             return
         }
         arr[y][x] = counter++
