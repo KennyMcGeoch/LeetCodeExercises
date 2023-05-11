@@ -15,6 +15,16 @@ var compose = function(functions) {
     }
 };
 
+var compose2 = function(functions) {
+	return function(x) {
+        let answer = x
+            for (i=functions.length-1; i > -1; i--){
+            answer = functions[i](answer)   
+    }
+        return answer
+    }
+};
+
 /**
  * const fn = compose([x => x + 1, x => 2 * x])
  * fn(4) // 9
