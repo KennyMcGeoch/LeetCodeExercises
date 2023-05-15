@@ -295,6 +295,7 @@ Full List of Completed Projects in Numerical Order:
 2591. Distribute Money to Maximum Children (Easy)
 2619. Array Prototype Last (Easy)
 2620. Counter (Easy)
+2621. Sleep (Easy)
 2624. Snail Traversal (Medium)
 2626. Array Reduce Transformation (Easy)
 2634. Filter Elements from Array (Easy)
