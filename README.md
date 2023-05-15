@@ -259,6 +259,7 @@ Full List of Completed Projects in Numerical Order:
 1678. Goal Parser Interpretation (Easy)
 1704. Determine if String Halves Are Alike (Easy)
 1706. Where Will the Ball Fall (Medium)
+1721. Swapping Nodes in a Linked List (Medium)
 1757. Recyclable and Low Fat Products (Easy)
 1759. Count Number of Homogenous Substrings (Medium)
 1768. Merge Strings Alternately (Easy)
