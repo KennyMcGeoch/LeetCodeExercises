@@ -278,6 +278,7 @@ Full List of Completed Projects in Numerical Order:
 2095. Delete the Middle Node of a Linked List (Medium)
 2099. Find Subsequence of Length K With the Largest Sum (Easy)
 2124. Check if All A's Appears Before All B's (Easy)
+2130. Maximum Twin Sum of a Linked List (Medium)
 2131. Longest Palindrome by Concatenating Two Letter Words (Medium)
 2136. Earliest Possible Day of Full Bloom (Hard)
 2206. Divide Array Into Equal Pairs (Easy)
