@@ -300,6 +300,7 @@ Full List of Completed Projects in Numerical Order:
 2621. Sleep (Easy)
 2624. Snail Traversal (Medium)
 2626. Array Reduce Transformation (Easy)
+2628. JSON Deep Equal (Medium)
 2634. Filter Elements from Array (Easy)
 2635. Apply Transform Over Each Element in Array (Easy)
 2648. Generate Fibonacci Sequence (Easy)
