@@ -138,6 +138,7 @@ Full List of Completed Projects in Numerical Order:
 342. Power of Four (Easy)
 344. Reverse String (Easy)
 345. Reverse Vowels of a String (Easy)
+347. Top K Frequent Elements (Medium)
 349. Intersection of Two Arrays (Easy)
 350. Intersection of Two Arrays II (Easy)
 367. Valid Perfect Square (Easy)
