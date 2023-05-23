@@ -192,6 +192,7 @@ Full List of Completed Projects in Numerical Order:
 695. Max Area of Island (Medium)
 700. Search in a Binary Search Tree (Easy)
 701. Insert into a Binary Search Tree (Medium)
+703. Kth Largest Element in a Stream (Easy)
 704. Binary Search (Easy)
 709. To Lower Case (Easy)
 724. Find Pivot Index (Easy)
