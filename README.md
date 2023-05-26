@@ -301,6 +301,7 @@ Full List of Completed Projects in Numerical Order:
 2620. Counter (Easy)
 2621. Sleep (Easy)
 2624. Snail Traversal (Medium)
+2625. Flatten Deeply Nested Array (Medium)
 2626. Array Reduce Transformation (Easy)
 2628. JSON Deep Equal (Medium)
 2634. Filter Elements from Array (Easy)
