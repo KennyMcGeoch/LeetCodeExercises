@@ -67,6 +67,7 @@ Full List of Completed Projects in Numerical Order:
 118. Pascal's Triangle (Easy)
 119. Pascal's Triangle II (Easy)
 121. Best Time to Buy and Sell Stock (Easy)
+125. Valid Palindrome (Easy)
 136. Single Number (Easy)
 137. Single Number II (Medium)
 141. Linked List Cycle (Easy)
