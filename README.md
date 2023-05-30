@@ -195,6 +195,7 @@ Full List of Completed Projects in Numerical Order:
 701. Insert into a Binary Search Tree (Medium)
 703. Kth Largest Element in a Stream (Easy)
 704. Binary Search (Easy)
+705. Design HashSet (Easy)
 709. To Lower Case (Easy)
 724. Find Pivot Index (Easy)
 733. Flood Fill (Easy)
