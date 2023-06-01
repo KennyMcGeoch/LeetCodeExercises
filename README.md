@@ -313,3 +313,4 @@ Full List of Completed Projects in Numerical Order:
 2666. Allow One Function Call (Easy)
 2667. Create Hello World Function (Easy)
 2677. Chunk Array (Easy)
+2695. Array Wrapper (Easy)
