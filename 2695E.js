@@ -1,7 +1,7 @@
 /**
  * @param {number[]} nums
- * Runtime: 63 ms, faster than 38.07% of JavaScript online submissions for Array Wrapper.
- * Memory Usage: 42.3 MB, less than 93.29% of JavaScript online submissions for Array Wrapper.
+ * Runtime: 54 ms, faster than 85.26% of JavaScript online submissions for Array Wrapper.
+ * Memory Usage: 41.9 MB, less than 98.76% of JavaScript online submissions for Array Wrapper.
  */
 var ArrayWrapper = function(nums) {
     this.nums = nums
@@ -10,7 +10,7 @@ var ArrayWrapper = function(nums) {
 };
 
 ArrayWrapper.prototype.valueOf = function() {
-    for (i = 0; i < this.nums.length; i++){
+    for (let i = 0; i < this.nums.length; i++){
         this.total += this.nums[i]
     }
     return this.total
