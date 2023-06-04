@@ -41,6 +41,7 @@ Full List of Completed Projects in Numerical Order:
 57. Insert Interval (Medium)
 58. Length of Last Word (Easy)
 59. Spiral Matrix II (Medium)
+61. Rotate List (Medium)
 62. Unique Paths (Medium)
 66. Plus One (Easy)
 69. Sqrt(x) (Easy)
