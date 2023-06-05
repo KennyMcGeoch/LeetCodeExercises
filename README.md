@@ -128,6 +128,7 @@ Full List of Completed Projects in Numerical Order:
 279. Perfect Squares (Medium)
 283. Move Zeroes (Easy)
 287. Find the Duplicate Number (Medium)
+289. Game of Life (Medium)
 290. Word Pattern (Easy)
 292. Nim Game (Easy)
 299. Bulls and Cows (Medium)
