@@ -303,6 +303,7 @@ Full List of Completed Projects in Numerical Order:
 2469. Convert the Temperature (Easy)
 2481. Minimum Cuts to Divide a Circle (Easy)
 2578. Split With Minimum Sum (Easy)
+2579. Count Total Number of Colored Cells (Medium)
 2591. Distribute Money to Maximum Children (Easy)
 2619. Array Prototype Last (Easy)
 2620. Counter (Easy)
