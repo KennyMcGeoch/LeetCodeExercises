@@ -295,6 +295,7 @@ Full List of Completed Projects in Numerical Order:
 2236. Root Equals Sum of Children (Easy)
 2319. Check if Matrix Is X-Matrix (Easy)
 2404. Most Frequent Even Element (Easy)
+2413. Smallest Even Multiple (Easy)
 2418. Sort the People (Easy)
 2455. Average Value of Even Numbers That Are Divisible by Three (Easy)
 2460. Apply Operations to an Array (Easy)
