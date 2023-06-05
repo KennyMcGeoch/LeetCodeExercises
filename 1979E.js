@@ -17,13 +17,16 @@ var findGCD = function(nums) {
 /**
  * @param {number[]} nums
  * @return {number}
- * Runtime: 54 ms, faster than 88.04% of JavaScript online submissions for Find Greatest Common Divisor of Array.
- * Memory Usage: 44.1 MB, less than 23.93% of JavaScript online submissions for Find Greatest Common Divisor of Array.
+ * Runtime: 57 ms, faster than 81.29% of JavaScript online submissions for Find Greatest Common Divisor of Array.
+ * Memory Usage: 42 MB, less than 87.12% of JavaScript online submissions for Find Greatest Common Divisor of Array.
  */
 var findGCDv = function(nums) {
-    nums.sort((a,b)=>a-b)
     let numOne = nums[0]
-    let numTwo = nums[nums.length-1]
+    let numTwo = nums[0]
+    for (let i=1; i < nums.length; i++){
+        if (nums[i] < numOne) numOne = nums[i]
+        else if (nums[i] > numTwo) numTwo = nums[i]
+    }
     while (numOne > 0 && numTwo > 0){
         if (numOne > numTwo) numOne %= numTwo
         else numTwo %= numOne
