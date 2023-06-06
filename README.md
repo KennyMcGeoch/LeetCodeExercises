@@ -297,6 +297,7 @@ Full List of Completed Projects in Numerical Order:
 2235. Add Two Integers (Easy)
 2236. Root Equals Sum of Children (Easy)
 2319. Check if Matrix Is X-Matrix (Easy)
+2348. Number of Zero-Filled Subarrays (Medium)
 2404. Most Frequent Even Element (Easy)
 2413. Smallest Even Multiple (Easy)
 2418. Sort the People (Easy)
