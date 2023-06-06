@@ -13,8 +13,8 @@ var numberOfArithmeticSlices = function(nums) {
     for (let i=1; i<loops; i++){
         let temp = nums[i] - nums[i-1]
         if (temp === gap){
-        total += count
-        count++
+            total += count
+            count++
         }
         else{
             count = 1
