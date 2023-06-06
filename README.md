@@ -156,6 +156,7 @@ Full List of Completed Projects in Numerical Order:
 404. Sum of Left Leaves (Easy)
 409. Longest Palindrome (Easy)
 412. Fizz Buzz (Easy)
+413. Arithmetic Slices (Medium)
 414. Third Maximum Number (Easy)
 417. Pacific Atlantic Water Flow (Medium)
 419. Battleships in a Board (Medium)
