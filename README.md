@@ -328,3 +328,4 @@ Full List of Completed Projects in Numerical Order:
 2667. Create Hello World Function (Easy)
 2677. Chunk Array (Easy)
 2695. Array Wrapper (Easy)
+2703. Return Length of Arguments Passed (Easy)
