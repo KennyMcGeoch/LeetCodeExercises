@@ -292,6 +292,7 @@ Full List of Completed Projects in Numerical Order:
 2130. Maximum Twin Sum of a Linked List (Medium)
 2131. Longest Palindrome by Concatenating Two Letter Words (Medium)
 2136. Earliest Possible Day of Full Bloom (Hard)
+2148. Count Elements With Strictly Smaller and Greater Elements (Easy)
 2206. Divide Array Into Equal Pairs (Easy)
 2225. Find Players With Zero or One Losses (Medium)
 2629. Function Composition (Easy)
