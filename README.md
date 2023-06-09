@@ -89,6 +89,7 @@ Full List of Completed Projects in Numerical Order:
 182. Duplicate Emails (Easy)
 183. Customers Who Never Order (Easy)
 184. Department Highest Salary (Medium)
+189. Rotate Array (Medium)
 191. Number of 1 Bits (Easy)
 196. Delete Duplicate Emails (Easy)
 197. Rising Temperature (Easy)
