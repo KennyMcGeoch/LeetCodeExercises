@@ -112,6 +112,7 @@ Full List of Completed Projects in Numerical Order:
 230. Kth Smallest Element in a BST (Medium)
 231. Power of Two (Easy)
 232. Implement Queue using Stacks (Easy)
+233. Number of Digit One (Hard)
 234. Palindrome Linked List (Easy)
 235. Lowest Common Ancestor of a Binary Search Tree (Medium)
 237. Delete Node in a Linked List (Medium)
