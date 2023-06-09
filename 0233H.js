@@ -9,7 +9,7 @@ var countDigitOne = function(n) {
     let num = n.toString()
     let len = num.length - 1
     
-    while(num.length){
+    while(num){
         if (num.charAt(0) === "1") {
             total += (len--*(10 ** len) + 1)
             if (num.length > 1)total += parseInt(num.slice(1))
