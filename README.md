@@ -109,6 +109,7 @@ Full List of Completed Projects in Numerical Order:
 223. Rectangle Area (Medium)
 225. Implement Stack using Queues (Easy)
 226. Invert Binary Tree (Easy)
+228. Summary Ranges (Easy)
 229. Majority Element II (Medium)
 230. Kth Smallest Element in a BST (Medium)
 231. Power of Two (Easy)
