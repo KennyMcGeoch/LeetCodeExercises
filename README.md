@@ -179,6 +179,7 @@ Full List of Completed Projects in Numerical Order:
 496. Next Greater Element I (Easy)
 509. Fibonacci Number (Easy)
 523. Continuous Subarray Sum (Medium)
+530. Minimum Absolute Difference in BST (Easy)
 541. Reverse String II (Easy)
 543. Diameter of Binary Tree (Easy)
 547. Number of Provinces (Medium)
