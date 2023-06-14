@@ -212,6 +212,7 @@ Full List of Completed Projects in Numerical Order:
 744. Find Smallest Letter Greater Than Target (Easy)
 746. Min Cost Climbing Stairs (Easy)
 766. Toeplitz Matrix (Easy)
+783. Minimum Distance Between BST Nodes (Easy)
 835. Image Overlap (Medium)
 844. Backspace String Compare (Easy)
 852. Peak Index in a Mountain Array (Medium)
