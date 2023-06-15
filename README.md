@@ -290,6 +290,7 @@ Full List of Completed Projects in Numerical Order:
 1871. Jump Game VII (Medium)
 1873. Calculate Special Bonus (Easy)
 1926. Nearest Exit from Entrance in Maze (Medium)
+1929. Concatenation of Array (Easy)
 1965. Employees With Missing Information (Easy)
 1979. Find Greatest Common Divisor of Array (Easy)
 2007. Find Original Array From Doubled Array (Medium)
