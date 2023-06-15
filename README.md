@@ -19,6 +19,7 @@ Full List of Completed Projects in Numerical Order:
 19. Remove Nth Node From End of List (Medium)
 20. Valid Parentheses (Easy)
 21. Merge Two Sorted Lists (Easy)
+23. Merge k Sorted Lists (Hard)
 26. Remove Duplicates from Sorted Array (Easy)
 27. Remove Element (Easy)
 28. Find the Index of the First Occurrence in a String (Medium)
