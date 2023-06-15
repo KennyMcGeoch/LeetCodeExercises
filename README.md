@@ -212,6 +212,7 @@ Full List of Completed Projects in Numerical Order:
 735. Asteroid Collision (Medium)
 744. Find Smallest Letter Greater Than Target (Easy)
 746. Min Cost Climbing Stairs (Easy)
+747. Largest Number At Least Twice of Others (Easy)
 766. Toeplitz Matrix (Easy)
 783. Minimum Distance Between BST Nodes (Easy)
 835. Image Overlap (Medium)
