@@ -342,3 +342,4 @@ Full List of Completed Projects in Numerical Order:
 2726. Calculator with Method Chaining (Easy)
 2730. Find the Longest Semi-Repetitive Substring (Medium)
 2733. Neither Minimum nor Maximum (Easy)
+2734. Lexicographically Smallest String After Substring Operation (Medium)
