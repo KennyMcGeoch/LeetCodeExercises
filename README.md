@@ -338,6 +338,7 @@ Full List of Completed Projects in Numerical Order:
 2635. Apply Transform Over Each Element in Array (Easy)
 2648. Generate Fibonacci Sequence (Easy)
 2649. Nested Array Generator (Medium)
+2652. Sum Multiples (Easy)
 2665. Counter II (Easy)
 2666. Allow One Function Call (Easy)
 2667. Create Hello World Function (Easy)
