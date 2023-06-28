@@ -280,6 +280,7 @@ Full List of Completed Projects in Numerical Order:
 1706. Where Will the Ball Fall (Medium)
 1721. Swapping Nodes in a Linked List (Medium)
 1732. Find the Highest Altitude (Easy)
+1748. Sum of Unique Elements (Easy)
 1757. Recyclable and Low Fat Products (Easy)
 1759. Count Number of Homogenous Substrings (Medium)
 1768. Merge Strings Alternately (Easy)
