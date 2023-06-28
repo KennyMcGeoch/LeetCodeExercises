@@ -224,6 +224,7 @@ Full List of Completed Projects in Numerical Order:
 947. Most Stones Removed with Same Row or Column (Medium)
 953. Verifying an Alien Dictionary (Easy)
 976. Largest Perimeter Triangle (Easy)
+977. Squares of a Sorted Array (Easy)
 985. Sum of Even Numbers After Queries (Medium)
 994. Rotting Oranges (Medium)
 997. Find the Town Judge (Easy)
