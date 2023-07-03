@@ -218,6 +218,7 @@ Full List of Completed Projects in Numerical Order:
 835. Image Overlap (Medium)
 844. Backspace String Compare (Easy)
 852. Peak Index in a Mountain Array (Medium)
+859. Buddy Strings (Easy)
 876. Middle of the Linked List (Easy)
 899. Orderly Queue (Hard)
 933. Number of Recent Calls (Easy)
