@@ -260,6 +260,7 @@ Full List of Completed Projects in Numerical Order:
 1480. Running Sum of 1d Array (Easy)
 1484. Group Sold Products By The Date (Easy)
 1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)
+1493. Longest Subarray of 1's After Deleting One Element (Medium)
 1502. Can Make Arithmetic Progression From Sequence (Easy)
 1513. Number of Substrings With Only 1s (Medium)
 1523. Count Odd Numbers in an Interval Range (Easy)
