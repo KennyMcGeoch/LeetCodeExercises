@@ -10,7 +10,7 @@ var singleNumber = function(nums) {
 
     nums.sort((a,b)=>a-b)
     
-    for (i=0; i<iterations; i+=3){
+    for (let i=0; i<iterations; i+=3){
         if (nums[i] !== nums[i+1])return nums[i]
     }
     return 0
