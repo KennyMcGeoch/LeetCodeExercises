@@ -232,6 +232,7 @@ Full List of Completed Projects in Numerical Order:
 985. Sum of Even Numbers After Queries (Medium)
 994. Rotting Oranges (Medium)
 997. Find the Town Judge (Easy)
+1009. Complement of Base 10 Integer (Easy)
 1046. Last Stone Weight (Easy)
 1047. Remove All Adjacent Duplicates In String (Easy)
 1051. Height Checker (Easy)
