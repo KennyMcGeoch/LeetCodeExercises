@@ -305,6 +305,7 @@ Full List of Completed Projects in Numerical Order:
 1965. Employees With Missing Information (Easy)
 1979. Find Greatest Common Divisor of Array (Easy)
 2007. Find Original Array From Doubled Array (Medium)
+2024. Maximize the Confusion of an Exam (Medium)
 2095. Delete the Middle Node of a Linked List (Medium)
 2099. Find Subsequence of Length K With the Largest Sum (Easy)
 2124. Check if All A's Appears Before All B's (Easy)
