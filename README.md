@@ -204,6 +204,7 @@ Full List of Completed Projects in Numerical Order:
 645. Set Mismatch (Easy)
 649. Dota2 Senate (Medium)
 653. Two Sum IV - Input is a BST (Easy)
+674. Longest Continuous Increasing Subsequence (Easy)
 692. Top K Frequent Words (Medium)
 695. Max Area of Island (Medium)
 700. Search in a Binary Search Tree (Easy)
