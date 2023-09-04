@@ -101,6 +101,7 @@ Full List of Completed Projects in Numerical Order:
 200. Number of Islands (Medium)
 202. Happy Number (Easy)
 203. Remove Linked List Elements (Easy)
+204. Count Primes (Medium)
 205. Isomorphic Strings (Easy)
 206. Reverse Linked List (Easy)
 209. Minimum Size Subarray Sum (Medium)
