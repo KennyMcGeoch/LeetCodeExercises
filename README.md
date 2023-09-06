@@ -217,6 +217,7 @@ Full List of Completed Projects in Numerical Order:
 705. Design HashSet (Easy)
 709. To Lower Case (Easy)
 724. Find Pivot Index (Easy)
+725. Split Linked List in Parts (Medium)
 733. Flood Fill (Easy)
 735. Asteroid Collision (Medium)
 744. Find Smallest Letter Greater Than Target (Easy)
