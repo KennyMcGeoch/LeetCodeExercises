@@ -255,6 +255,7 @@ Full List of Completed Projects in Numerical Order:
 1221. Split a String in Balanced Strings (Easy)
 1232. Check If It Is a Straight Line (Easy)
 1281. Subtract the Product and Sum of Digits of an Integer (Easy)
+1282. Group the People Given the Group Size They Belong To (Medium)
 1290. Convert Binary Number in a Linked List to Integer (Easy)
 1293. Shortest Path in a Grid with Obstacles Elimination (Hard)
 1306. Jump Game III (Medium)
