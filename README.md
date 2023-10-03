@@ -187,6 +187,7 @@ Full List of Completed Projects in Numerical Order:
 492. Construct the Rectangle (Easy)
 495. Teemo Attacking (Easy)
 496. Next Greater Element I (Easy)
+500. Keyboard Row (Easy)
 506. Relative Ranks (Easy)
 509. Fibonacci Number (Easy)
 523. Continuous Subarray Sum (Medium)
