@@ -218,6 +218,7 @@ Full List of Completed Projects in Numerical Order:
 703. Kth Largest Element in a Stream (Easy)
 704. Binary Search (Easy)
 705. Design HashSet (Easy)
+706. Design HashMap (Easy)
 709. To Lower Case (Easy)
 724. Find Pivot Index (Easy)
 725. Split Linked List in Parts (Medium)
