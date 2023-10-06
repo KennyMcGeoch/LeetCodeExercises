@@ -157,6 +157,7 @@ Full List of Completed Projects in Numerical Order:
 347. Top K Frequent Elements (Medium)
 349. Intersection of Two Arrays (Easy)
 350. Intersection of Two Arrays II (Easy)
+357. Count Numbers with Unique Digits (Medium)
 367. Valid Perfect Square (Easy)
 374. Guess Number Higher or Lower (Easy)
 380. Insert Delete GetRandom O(1) (Medium)
