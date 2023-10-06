@@ -151,6 +151,7 @@ Full List of Completed Projects in Numerical Order:
 336. Palindrome Pairs (Hard)
 338. Counting Bits (Easy)
 342. Power of Four (Easy)
+343. Integer Break (Medium)
 344. Reverse String (Easy)
 345. Reverse Vowels of a String (Easy)
 347. Top K Frequent Elements (Medium)
