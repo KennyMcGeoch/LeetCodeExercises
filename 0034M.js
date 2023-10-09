@@ -19,3 +19,8 @@
     
     return [firstVal, iterations]    
 };
+
+var searchRange2 = function(nums, target) {
+    
+    return [nums.indexOf(target), nums.lastIndexOf(target)]    
+};
