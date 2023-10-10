@@ -326,6 +326,7 @@ Full List of Completed Projects in Numerical Order:
 1965. Employees With Missing Information (Easy)
 1979. Find Greatest Common Divisor of Array (Easy)
 2007. Find Original Array From Doubled Array (Medium)
+2009. Minimum Number of Operations to Make Array Continuous (Hard)
 2017. Grid Game (Medium)
 2024. Maximize the Confusion of an Exam (Medium)
 2038. Remove Colored Pieces if Both Neighbors are the Same Color (Medium)
