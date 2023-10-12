@@ -341,6 +341,7 @@ Full List of Completed Projects in Numerical Order:
 2154. Keep Multiplying Found Values by Two (Easy)
 2206. Divide Array Into Equal Pairs (Easy)
 2225. Find Players With Zero or One Losses (Medium)
+2251. Number of Flowers in Full Bloom (Hard)
 2629. Function Composition (Easy)
 2235. Add Two Integers (Easy)
 2236. Root Equals Sum of Children (Easy)
