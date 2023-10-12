@@ -19,8 +19,8 @@
  * @param {number} target
  * @param {MountainArray} mountainArr
  * @return {number}
- * Runtime: 50 ms, faster than 61.90% of JavaScript online submissions for Find in Mountain Array.
-Memory Usage: 42.5 MB, less than 25.40% of JavaScript online submissions for Find in Mountain Array.
+ * Runtime: 37 ms, faster than 98.41% of JavaScript online submissions for Find in Mountain Array.
+ * Memory Usage: 42.1 MB, less than 69.84% of JavaScript online submissions for Find in Mountain Array.
  */
 var findInMountainArray = function(target, mountainArr) {
     
@@ -71,7 +71,7 @@ var findInMountainArray = function(target, mountainArr) {
     if (peak[1] < target) return -1
     else if (peak[1] === target) return peak[0]
     
-    let searchOne = binarySearch(min, Math.floor((min+peak[0])/2),peak[0]-1)
+    binarySearch(min, Math.floor((min+peak[0])/2),peak[0]-1)
     if (answer > -1) return answer
     binarySearchMin(peak[0]+1, Math.floor((max+peak[0])/2),max)
     
