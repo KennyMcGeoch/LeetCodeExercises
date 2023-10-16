@@ -341,6 +341,7 @@ Full List of Completed Projects in Numerical Order:
 2148. Count Elements With Strictly Smaller and Greater Elements (Easy)
 2154. Keep Multiplying Found Values by Two (Easy)
 2206. Divide Array Into Equal Pairs (Easy)
+2221. Find Triangular Sum of an Array (Medium)
 2225. Find Players With Zero or One Losses (Medium)
 2251. Number of Flowers in Full Bloom (Hard)
 2629. Function Composition (Easy)
