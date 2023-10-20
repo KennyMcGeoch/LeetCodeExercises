@@ -150,6 +150,7 @@ Full List of Completed Projects in Numerical Order:
 334. Increasing Triplet Subsequence (Medium)
 336. Palindrome Pairs (Hard)
 338. Counting Bits (Easy)
+341. Flatten Nested List Iterator (Medium)
 342. Power of Four (Easy)
 343. Integer Break (Medium)
 344. Reverse String (Easy)
