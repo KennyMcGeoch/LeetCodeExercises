@@ -193,6 +193,7 @@ Full List of Completed Projects in Numerical Order:
 500. Keyboard Row (Easy)
 506. Relative Ranks (Easy)
 509. Fibonacci Number (Easy)
+515. Find Largest Value in Each Tree Row (Medium)
 523. Continuous Subarray Sum (Medium)
 530. Minimum Absolute Difference in BST (Easy)
 541. Reverse String II (Easy)
