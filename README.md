@@ -234,6 +234,7 @@ Full List of Completed Projects in Numerical Order:
 766. Toeplitz Matrix (Easy)
 783. Minimum Distance Between BST Nodes (Easy)
 796. Rotate String (Easy)
+779. K-th Symbol in Grammar (Medium)
 835. Image Overlap (Medium)
 844. Backspace String Compare (Easy)
 852. Peak Index in a Mountain Array (Medium)
