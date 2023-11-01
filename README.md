@@ -192,6 +192,7 @@ Full List of Completed Projects in Numerical Order:
 495. Teemo Attacking (Easy)
 496. Next Greater Element I (Easy)
 500. Keyboard Row (Easy)
+501. Find Mode in Binary Search Tree (Easy)
 506. Relative Ranks (Easy)
 509. Fibonacci Number (Easy)
 515. Find Largest Value in Each Tree Row (Medium)
