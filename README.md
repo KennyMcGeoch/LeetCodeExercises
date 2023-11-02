@@ -352,6 +352,7 @@ Full List of Completed Projects in Numerical Order:
 2225. Find Players With Zero or One Losses (Medium)
 2243. Calculate Digit Sum of a String (Easy)
 2251. Number of Flowers in Full Bloom (Hard)
+2265. Count Nodes Equal to Average of Subtree (Medium)
 2293. Min Max Game (Easy)
 2629. Function Composition (Easy)
 2235. Add Two Integers (Easy)
