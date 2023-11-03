@@ -282,6 +282,7 @@ Full List of Completed Projects in Numerical Order:
 1365. How Many Numbers Are Smaller Than the Current Number (Easy)
 1385. Find the Distance Value Between Two Arrays (Easy)
 1403. Minimum Subsequence in Non-Increasing Order (Easy)
+1441. Build an Array With Stack Operations (Medium)
 1446. Consecutive Characters (Easy)
 1456. Maximum Number of Vowels in a Substring of Given Length (Medium)
 1480. Running Sum of 1d Array (Easy)
