@@ -296,6 +296,7 @@ Full List of Completed Projects in Numerical Order:
 1523. Count Odd Numbers in an Interval Range (Easy)
 1527. Patients With a Condition (Easy)
 1528. Shuffle String (Easy)
+1535. Find the Winner of an Array Game (Medium)
 1539. Kth Missing Positive Number (Easy)
 1544. Make The String Great (Easy)
 1550. Three Consecutive Odds (Easy)
