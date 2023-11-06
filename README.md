@@ -327,6 +327,7 @@ Full List of Completed Projects in Numerical Order:
 1793. Maximum Score of a Good Subarray (Hard)
 1822. Sign of the Product of an Array (Easy)
 1832. Check if the Sentence Is Pangram (Easy)
+1845. Seat Reservation Manager (Medium)
 1855. Maximum Distance Between a Pair of Values (Medium)
 1869. Longer Contiguous Segments of Ones than Zeros (Easy)
 1871. Jump Game VII (Medium)
