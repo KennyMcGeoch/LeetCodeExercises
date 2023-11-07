@@ -333,6 +333,7 @@ Full List of Completed Projects in Numerical Order:
 1871. Jump Game VII (Medium)
 1873. Calculate Special Bonus (Easy)
 1913. Maximum Product Difference Between Two Pairs (Easy)
+1921. Eliminate Maximum Number of Monsters (Medium)
 1926. Nearest Exit from Entrance in Maze (Medium)
 1929. Concatenation of Array (Easy)
 1965. Employees With Missing Information (Easy)
