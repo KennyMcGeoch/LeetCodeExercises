@@ -408,3 +408,4 @@ Full List of Completed Projects in Numerical Order:
 2733. Neither Minimum nor Maximum (Easy)
 2734. Lexicographically Smallest String After Substring Operation (Medium)
 2739. Total Distance Traveled (Easy)
+2849. Determine if a Cell Is Reachable at a Given Time (Medium)
