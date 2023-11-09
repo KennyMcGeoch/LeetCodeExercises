@@ -28,8 +28,8 @@
 /**
  * @param {string} s
  * @return {number}
- * Runtime: 55 ms, faster than 95.56% of JavaScript online submissions for Count Number of Homogenous Substrings.
- * Memory Usage: 45.2 MB, less than 95.56% of JavaScript online submissions for Count Number of Homogenous Substrings.
+ * Runtime: 54 ms, faster than 97.78% of JavaScript online submissions for Count Number of Homogenous Substrings.
+ * Memory Usage: 44.3 MB, less than 100.00% of JavaScript online submissions for Count Number of Homogenous Substrings.
  */
 var countHomogenous = function(s) {
 
@@ -48,6 +48,6 @@ var countHomogenous = function(s) {
         runningCount %= 1000000007 // Adding this is more efficient with test cases
     }
 
-    return runningCount % 1000000007
+    return runningCount
     
 };
