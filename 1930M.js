@@ -28,3 +28,31 @@ var countPalindromicSubsequence = function(s) {
     return ans
     
 };
+
+/**
+ * @param {string} s
+ * @return {number}
+ * Runtime: 378 ms, faster than 91.21% of JavaScript online submissions for Unique Length-3 Palindromic Subsequences.
+ * Memory Usage: 55.1 MB, less than 8.79% of JavaScript online submissions for Unique Length-3 Palindromic Subsequences.
+ */
+var countPalindromicSubsequence = function(s) {
+    
+    let hashMax = {}
+    let ans = 0
+    
+    for (let i=0; i<s.length; i++){
+        hashMax[s[i]] = i
+    }
+    
+    for (let i=0; i<s.length; i++){
+        if (hashMax[s[i]] === undefined)continue
+        else if (hashMax[s[i]] !== i){
+            let temp = s.slice(i+1, hashMax[s[i]]).split("")
+            temp = new Set(temp)
+            ans += temp.size
+            hashMax[s[i]] = undefined
+        }
+    }
+    return ans
+    
+};
