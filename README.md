@@ -338,6 +338,7 @@ Full List of Completed Projects in Numerical Order:
 1921. Eliminate Maximum Number of Monsters (Medium)
 1926. Nearest Exit from Entrance in Maze (Medium)
 1929. Concatenation of Array (Easy)
+1930. Unique Length-3 Palindromic Subsequences (Medium)
 1965. Employees With Missing Information (Easy)
 1979. Find Greatest Common Divisor of Array (Easy)
 2007. Find Original Array From Doubled Array (Medium)
