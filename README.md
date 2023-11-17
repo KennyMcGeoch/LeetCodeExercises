@@ -335,6 +335,7 @@ Full List of Completed Projects in Numerical Order:
 1869. Longer Contiguous Segments of Ones than Zeros (Easy)
 1871. Jump Game VII (Medium)
 1873. Calculate Special Bonus (Easy)
+1877. Minimize Maximum Pair Sum in Array (Medium)
 1913. Maximum Product Difference Between Two Pairs (Easy)
 1921. Eliminate Maximum Number of Monsters (Medium)
 1926. Nearest Exit from Entrance in Maze (Medium)
