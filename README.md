@@ -243,6 +243,7 @@ Full List of Completed Projects in Numerical Order:
 852. Peak Index in a Mountain Array (Medium)
 859. Buddy Strings (Easy)
 876. Middle of the Linked List (Easy)
+881. Boats to Save People (Medium)
 899. Orderly Queue (Hard)
 933. Number of Recent Calls (Easy)
 947. Most Stones Removed with Same Row or Column (Medium)
