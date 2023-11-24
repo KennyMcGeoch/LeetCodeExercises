@@ -303,6 +303,7 @@ Full List of Completed Projects in Numerical Order:
 1544. Make The String Great (Easy)
 1550. Three Consecutive Odds (Easy)
 1556. Thousand Separator (Easy)
+1561. Maximum Number of Coins You Can Get (Medium)
 1566. Detect Pattern of Length M Repeated K or More Times (Easy)
 1572. Matrix Diagonal Sum (Easy)
 1588. Sum of All Odd Length Subarrays (Easy)
