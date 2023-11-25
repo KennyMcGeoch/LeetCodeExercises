@@ -313,6 +313,7 @@ Full List of Completed Projects in Numerical Order:
 1647. Minimum Deletions to Make Character Frequencies Unique (Medium)
 1662. Check If Two String Arrays are Equivalent (Easy)
 1667. Fix Names in a Table (Easy)
+1685. Sum of Absolute Differences in a Sorted Array (Medium)
 1688. Count of Matches in Tournament (Easy)
 1672. Richest Customer Wealth (Easy)
 1678. Goal Parser Interpretation (Easy)
