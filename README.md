@@ -320,6 +320,7 @@ Full List of Completed Projects in Numerical Order:
 1704. Determine if String Halves Are Alike (Easy)
 1706. Where Will the Ball Fall (Medium)
 1721. Swapping Nodes in a Linked List (Medium)
+1727. Largest Submatrix With Rearrangements (Medium)
 1732. Find the Highest Altitude (Easy)
 1743. Restore the Array From Adjacent Pairs (Medium)
 1748. Sum of Unique Elements (Easy)
