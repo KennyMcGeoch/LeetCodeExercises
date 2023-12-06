@@ -23,3 +23,15 @@
     }
     return compOne === compTwo
 };
+
+/**
+ * @param {string[]} word1
+ * @param {string[]} word2
+ * @return {boolean}
+ Runtime: 42 ms, faster than 95.47% of JavaScript online submissions for Check If Two String Arrays are Equivalent.
+Memory Usage: 41.4 MB, less than 97.79% of JavaScript online submissions for Check If Two String Arrays are Equivalent.
+ */
+var arrayStringsAreEqual = function(word1, word2) {
+
+    return word1.join("") === word2.join("")
+};
