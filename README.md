@@ -344,6 +344,7 @@ Full List of Completed Projects in Numerical Order:
 1873. Calculate Special Bonus (Easy)
 1877. Minimize Maximum Pair Sum in Array (Medium)
 1887. Reduction Operations to Make the Array Elements Equal (Medium)
+1903. Largest Odd Number in String (Easy)
 1913. Maximum Product Difference Between Two Pairs (Easy)
 1921. Eliminate Maximum Number of Monsters (Medium)
 1926. Nearest Exit from Entrance in Maze (Medium)
