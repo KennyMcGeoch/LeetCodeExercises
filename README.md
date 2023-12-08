@@ -209,6 +209,7 @@ Full List of Completed Projects in Numerical Order:
 595. Big Countries (Easy)
 596. Classes More Than 5 Students (Easy)
 605. Can Place Flowers (Easy)
+606. Construct String from Binary Tree (Easy)
 620. Not Boring Movies (Easy)
 621. Task Scheduler (Medium)
 627. Swap Salary (Easy)
