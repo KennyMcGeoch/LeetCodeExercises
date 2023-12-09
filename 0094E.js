@@ -26,3 +26,24 @@
     return solution
     
 };
+
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val, left, right) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.left = (left===undefined ? null : left)
+ *     this.right = (right===undefined ? null : right)
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @return {number[]}
+ * Runtime: 42 ms, faster than 95.00% of JavaScript online submissions for Binary Tree Inorder Traversal.
+ * Memory Usage: 42.8 MB, less than 8.18% of JavaScript online submissions for Binary Tree Inorder Traversal.
+ */
+var inorderTraversal = function(root) {
+
+    if (root === null)return []
+        return [...inorderTraversal(root.left), root.val, ...inorderTraversal(root.right)]
+    
+};
