@@ -274,6 +274,7 @@ Full List of Completed Projects in Numerical Order:
 1266. Minimum Time Visiting All Points (Easy)
 1281. Subtract the Product and Sum of Digits of an Integer (Easy)
 1282. Group the People Given the Group Size They Belong To (Medium)
+1287. Element Appearing More Than 25% In Sorted Array (Easy)
 1290. Convert Binary Number in a Linked List to Integer (Easy)
 1293. Shortest Path in a Grid with Obstacles Elimination (Hard)
 1306. Jump Game III (Medium)
