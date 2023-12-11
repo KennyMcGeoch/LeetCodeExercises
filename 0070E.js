@@ -1,12 +1,12 @@
 /**
  * @param {number} n
  * @return {number}
- * Runtime: 76 ms, faster than 69.67% of JavaScript online submissions for Climbing Stairs.
-Memory Usage: 41.8 MB, less than 56.47% of JavaScript online submissions for Climbing Stairs.
+ * Runtime: 43 ms, faster than 91.04% of JavaScript online submissions for Climbing Stairs.
+ * Memory Usage: 41.4 MB, less than 79.84% of JavaScript online submissions for Climbing Stairs.
  */
- var climbStairs = function(n) {
+var climbStairs = function(n) {
 
-    const fibonacci = [0,     1,      2,      3,
+    let fibonacci = [0,     1,      2,      3,
         5,      8,     13,     21,     34,
        55,     89,    144,    233,    377,
       610,    987,   1597,   2584,   4181,
@@ -16,8 +16,9 @@ Memory Usage: 41.8 MB, less than 56.47% of JavaScript online submissions for Cli
     14930352, 24157817, 39088169, 63245986, 102334155, 165580141,
     267914296, 433494437, 701408733, 1134903170, 1836311903]
 
-    return fibonacci[n]
+    function memoize(){
+        return fibonacci[n]
+    }
+    return memoize(n)
     
 };
-
-climbStairs(10)
