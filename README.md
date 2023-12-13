@@ -311,6 +311,7 @@ Full List of Completed Projects in Numerical Order:
 1561. Maximum Number of Coins You Can Get (Medium)
 1566. Detect Pattern of Length M Repeated K or More Times (Easy)
 1572. Matrix Diagonal Sum (Easy)
+1582. Special Positions in a Binary Matrix (Easy)
 1588. Sum of All Odd Length Subarrays (Easy)
 1603. Design Parking System (Easy)
 1608. Special Array With X Elements Greater Than or Equal X (Easy)
