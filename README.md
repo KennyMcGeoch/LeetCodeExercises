@@ -398,6 +398,7 @@ Full List of Completed Projects in Numerical Order:
 2465. Number of Distinct Averages (Easy)
 2469. Convert the Temperature (Easy)
 2481. Minimum Cuts to Divide a Circle (Easy)
+2482. Difference Between Ones and Zeros in Row and Column (Medium)
 2483. Minimum Penalty for a Shop (Medium)
 2529. Maximum Count of Positive Integer and Negative Integer (Easy)
 2562. Find the Array Concatenation Value (Easy)
