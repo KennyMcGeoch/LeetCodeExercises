@@ -38,3 +38,22 @@ var destCity = function(paths) {
     }
     return curr
 };
+
+/**
+ * @param {string[][]} paths
+ * @return {string}
+ * Runtime: 51 ms, faster than 83.06% of JavaScript online submissions for Destination City.
+ * Memory Usage: 43.3 MB, less than 88.70% of JavaScript online submissions for Destination City.
+ */
+var destCity = function(paths) {
+    
+    let hash = new Set()
+    
+    for (let i=0; i<paths.length; i++){
+        hash.add(paths[i][0])
+    }
+    for (let i=0; i<paths.length; i++){
+        if (hash.has(paths[i][1]) === false) return paths[i][1]
+    }
+    
+};
