@@ -34,3 +34,42 @@ var maxProductDifference2 = function(nums) {
     return (max[0]*max[1]) - (min[0]*min[1])
     
 };
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ * Runtime: 45 ms, faster than 100.00% of JavaScript online submissions for Maximum Product Difference Between Two Pairs.
+ * Memory Usage: 44.3 MB, less than 91.13% of JavaScript online submissions for Maximum Product Difference Between Two Pairs.
+ */
+var maxProductDifference = function(nums) {
+    let temp = []
+    for (let i=0; i<4; i++){
+        temp.push(nums[i])
+    }
+    temp.sort((a,b)=>a-b)
+    
+    let min = temp[0]
+    let minS = temp[1]
+    let maxS = temp[2]
+    let max = temp[3]
+    
+    for (let i=4; i<nums.length; i++){
+        if (nums[i] > maxS){
+            if (nums[i] > max){
+                maxS = max
+                max = nums[i]
+            }
+            else maxS = nums[i]
+        }
+        else if (nums[i] < minS){
+            if (nums[i] < min){
+                minS = min
+                min = nums[i]
+            }
+            else minS = nums[i]
+        }
+    }
+    
+    return (max * maxS) - (min * minS)
+    
+};
