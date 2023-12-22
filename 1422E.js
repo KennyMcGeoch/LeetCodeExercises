@@ -43,3 +43,31 @@ var maxScore = function(s) {
     }
     return max    
 };
+
+/**
+ * @param {string} s
+ * @return {number}
+ * Runtime: 50 ms, faster than 92.73% of JavaScript online submissions for Maximum Score After Splitting a String.
+ * Memory Usage: 42 MB, less than 85.45% of JavaScript online submissions for Maximum Score After Splitting a String.
+ */
+var maxScore = function(s) {
+    
+    let ones = 0
+    let max = -1
+    let temp = 0
+    let loops = s.length-1
+    
+    for (let i=0; i<loops; i++){
+        if (s[i] === "1"){
+            ones++
+            temp--
+        }
+        else{
+            temp++
+            max = Math.max(max, temp)
+        }
+        
+    }
+    if (s[s.length-1] === "1") ones++
+    return max + ones
+};
