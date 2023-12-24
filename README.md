@@ -337,6 +337,7 @@ Full List of Completed Projects in Numerical Order:
 1743. Restore the Array From Adjacent Pairs (Medium)
 1748. Sum of Unique Elements (Easy)
 1757. Recyclable and Low Fat Products (Easy)
+1758. Minimum Changes To Make Alternating Binary String (Easy)
 1759. Count Number of Homogenous Substrings (Medium)
 1768. Merge Strings Alternately (Easy)
 1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy)
