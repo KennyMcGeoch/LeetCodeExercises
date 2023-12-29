@@ -90,6 +90,7 @@ Full List of Completed Projects in Numerical Order:
 167. Two Sum II - Input Array Is Sorted (Medium)
 168. Excel Sheet Column Title (Easy)
 169. Majority Element (Easy)
+171. Excel Sheet Column Number (Easy)
 175. Combine Two Tables (Easy)
 181. Employees Earning More Than Their Managers (Easy)
 182. Duplicate Emails (Easy)
