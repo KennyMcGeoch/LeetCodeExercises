@@ -85,6 +85,7 @@ Full List of Completed Projects in Numerical Order:
 151. Reverse Words in a String (Medium)
 152. Maximum Product Subarray (Medium)
 153. Find Minimum in Rotated Sorted Array (Medium)
+160. Intersection of Two Linked Lists (Easy)
 162. Find Peak Element (Medium)
 167. Two Sum II - Input Array Is Sorted (Medium)
 168. Excel Sheet Column Title (Easy)
