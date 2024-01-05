@@ -144,6 +144,7 @@ Full List of Completed Projects in Numerical Order:
 290. Word Pattern (Easy)
 292. Nim Game (Easy)
 299. Bulls and Cows (Medium)
+300. Longest Increasing Subsequence (Medium)
 303. Range Sum Query - Immutable (Easy)
 319. Bulb Switcher (Medium)
 322. Coin Change (Medium)
