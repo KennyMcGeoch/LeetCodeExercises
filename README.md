@@ -291,6 +291,7 @@ Full List of Completed Projects in Numerical Order:
 1337. The K Weakest Rows in a Matrix (Easy)
 1342. Number of Steps to Reduce a Number to Zero (Easy)
 1346. Check If N and Its Double Exist (Easy)
+1347. Minimum Number of Steps to Make Two Strings Anagram (Medium)
 1351. Count Negative Numbers in a Sorted Matrix (Easy)
 1356. Sort Integers by The Number of 1 Bits (Easy)
 1365. How Many Numbers Are Smaller Than the Current Number (Easy)
