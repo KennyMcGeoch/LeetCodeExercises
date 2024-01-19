@@ -252,6 +252,7 @@ Full List of Completed Projects in Numerical Order:
 876. Middle of the Linked List (Easy)
 881. Boats to Save People (Medium)
 899. Orderly Queue (Hard)
+931. Minimum Falling Path Sum (Medium)
 933. Number of Recent Calls (Easy)
 937. Reorder Data in Log Files (Medium)
 938. Range Sum of BST (Easy)
