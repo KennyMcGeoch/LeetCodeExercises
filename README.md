@@ -303,6 +303,7 @@ Full List of Completed Projects in Numerical Order:
 1441. Build an Array With Stack Operations (Medium)
 1446. Consecutive Characters (Easy)
 1456. Maximum Number of Vowels in a Substring of Given Length (Medium)
+1457. Pseudo-Palindromic Paths in a Binary Tree (Medium)
 1464. Maximum Product of Two Elements in an Array (Easy)
 1480. Running Sum of 1d Array (Easy)
 1484. Group Sold Products By The Date (Easy)
