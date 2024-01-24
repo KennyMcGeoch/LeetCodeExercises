@@ -37,3 +37,42 @@ var pseudoPalindromicPaths  = function(root) {
     return ans
     
 };
+
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val, left, right) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.left = (left===undefined ? null : left)
+ *     this.right = (right===undefined ? null : right)
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @return {number}
+ * Runtime: 431 ms, faster than 15.00% of JavaScript online submissions for Pseudo-Palindromic Paths in a Binary Tree.
+ * Memory Usage: 102.6 MB, less than 100.00% of JavaScript online submissions for Pseudo-Palindromic Paths in a Binary Tree.
+ */
+var pseudoPalindromicPaths  = function(root) {
+    
+    let ans = 0
+    
+    function trav(node, arr){
+        if (node === null) return
+        
+        let newArr = [...arr]
+        if (arr.includes(node.val)) newArr = newArr.filter((a)=> a !== node.val)
+        else newArr.push(node.val)
+
+        if (node.left === null && node.right === null){
+            if (newArr.length < 2) ans++
+            return
+        }
+        
+        return trav(node.left, newArr) + trav(node.right, newArr)
+    }
+    
+    trav(root, [])
+    
+    return ans
+    
+};
