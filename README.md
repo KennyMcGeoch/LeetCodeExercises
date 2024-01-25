@@ -271,6 +271,7 @@ Full List of Completed Projects in Numerical Order:
 1078. Occurrences After Bigram (Easy)
 1089. Duplicate Zeros (Easy)
 1095. Find in Mountain Array (Hard)
+1143. Longest Common Subsequence (Medium)
 1148. Article Views I (Easy)
 1154. Day of the Year (Easy)
 1160. Find Words That Can Be Formed by Characters (Easy)
