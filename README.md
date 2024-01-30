@@ -83,6 +83,7 @@ Full List of Completed Projects in Numerical Order:
 144. Binary Tree Preorder Traversal (Easy)
 145. Binary Tree Postorder Traversal (Easy)
 148. Sort List (Medium)
+150. Evaluate Reverse Polish Notation (Medium)
 151. Reverse Words in a String (Medium)
 152. Maximum Product Subarray (Medium)
 153. Find Minimum in Rotated Sorted Array (Medium)
