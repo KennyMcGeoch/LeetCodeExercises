@@ -237,6 +237,7 @@ Full List of Completed Projects in Numerical Order:
 725. Split Linked List in Parts (Medium)
 733. Flood Fill (Easy)
 735. Asteroid Collision (Medium)
+739. Daily Temperatures (Medium)
 744. Find Smallest Letter Greater Than Target (Easy)
 746. Min Cost Climbing Stairs (Easy)
 747. Largest Number At Least Twice of Others (Easy)
