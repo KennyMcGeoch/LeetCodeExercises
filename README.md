@@ -259,6 +259,7 @@ Full List of Completed Projects in Numerical Order:
 933. Number of Recent Calls (Easy)
 937. Reorder Data in Log Files (Medium)
 938. Range Sum of BST (Easy)
+946. Validate Stack Sequences (Medium)
 947. Most Stones Removed with Same Row or Column (Medium)
 953. Verifying an Alien Dictionary (Easy)
 976. Largest Perimeter Triangle (Easy)
