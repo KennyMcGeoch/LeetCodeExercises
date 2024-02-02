@@ -290,6 +290,7 @@ Full List of Completed Projects in Numerical Order:
 1282. Group the People Given the Group Size They Belong To (Medium)
 1287. Element Appearing More Than 25% In Sorted Array (Easy)
 1290. Convert Binary Number in a Linked List to Integer (Easy)
+1291. Sequential Digits (Medium)
 1293. Shortest Path in a Grid with Obstacles Elimination (Hard)
 1306. Jump Game III (Medium)
 1309. Decrypt String from Alphabet to Integer Mapping (Easy)
