@@ -341,6 +341,7 @@ Full List of Completed Projects in Numerical Order:
 1608. Special Array With X Elements Greater Than or Equal X (Easy)
 1624. Largest Substring Between Two Equal Characters (Easy)
 1630. Arithmetic Subarrays (Medium)
+1636. Sort Array by Increasing Frequency (Easy)
 1637. Widest Vertical Area Between Two Points Containing No Points (Medium)
 1647. Minimum Deletions to Make Character Frequencies Unique (Medium)
 1657. Determine if Two Strings Are Close (Medium)
