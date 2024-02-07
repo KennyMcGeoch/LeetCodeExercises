@@ -432,6 +432,7 @@ Full List of Completed Projects in Numerical Order:
 2481. Minimum Cuts to Divide a Circle (Easy)
 2482. Difference Between Ones and Zeros in Row and Column (Medium)
 2483. Minimum Penalty for a Shop (Medium)
+2506. Count Pairs Of Similar Strings (Easy)
 2529. Maximum Count of Positive Integer and Negative Integer (Easy)
 2562. Find the Array Concatenation Value (Easy)
 2578. Split With Minimum Sum (Easy)
