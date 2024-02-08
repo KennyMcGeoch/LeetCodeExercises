@@ -31,3 +31,38 @@
 
     return 4
 };
+
+/**
+ * @param {number} n
+ * @return {number}
+ * Runtime: 93 ms, faster than 83.66% of JavaScript online submissions for Perfect Squares.
+ * Memory Usage: 49.2 MB, less than 50.97% of JavaScript online submissions for Perfect Squares.
+ */
+let squares = []
+for (let i=1; i<101; i++)squares.push(i*i)
+ var numSquares = function(n) {
+    
+     if (squares.includes(n)) return 1
+     let rightMax =0
+     while(rightMax < n)rightMax++
+     
+     if (twoPointer(n)) return 2
+     
+     for (let i=0; i<squares.length; i++){
+         if (twoPointer(n-squares[i])) return 3
+     } 
+       
+     function twoPointer(target){
+         let left = 0
+         let right = rightMax
+
+         while(left <= right){
+             if (squares[left] + squares[right] === target) return true
+             else if (squares[left] + squares[right] < target)left++
+             else right--
+         }
+         return false
+     }
+
+    return 4
+};
