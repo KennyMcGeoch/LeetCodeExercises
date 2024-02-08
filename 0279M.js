@@ -66,3 +66,35 @@ for (let i=1; i<101; i++)squares.push(i*i)
 
     return 4
 };
+
+/**
+ * @param {number} n
+ * @return {number}
+ * Runtime: 45 ms, faster than 99.45% of JavaScript online submissions for Perfect Squares.
+ * Memory Usage: 51 MB, less than 38.78% of JavaScript online submissions for Perfect Squares.
+ */
+let square = []
+for (let i=1; i<101; i++)square.push(i*i)
+let squaresTwo = {}
+for (let i=0; i<square.length; i++){
+    for (let j=i; j<square.length; j++){
+        let temp = square[i] + square[j]
+        if (temp > 9999) j = square.length
+        squaresTwo[temp] = true
+    }
+}
+let squaresThree = {}
+for (x in squaresTwo){
+    for (let i=0; i<square.length; i++){
+        let temp = square[i] + Number(x)
+        if (temp > 9999) i = square.length
+        squaresThree[temp] = true
+    }
+}
+ var numSquares = function(n) {
+    if (square.includes(n))return 1
+    else if (squaresTwo[n]) return 2
+    else if (squaresThree[n]) return 3
+    else return 4
+
+};
