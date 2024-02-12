@@ -25,3 +25,29 @@ Memory Usage: 43.5 MB, less than 79.25% of JavaScript online submissions for Maj
     return
     
 };
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ * Runtime: 54 ms, faster than 82.21% of JavaScript online submissions for Majority Element.
+ * Memory Usage: 50.2 MB, less than 37.47% of JavaScript online submissions for Majority Element.
+ */
+var majorityElement = function(nums) {
+
+    let lead = nums[0]
+    let max = 1
+    
+    for (let i=0; i<nums.length; i++){
+        if (nums[i] === lead) max++
+        else{
+            max--
+            if (max === 0){
+                lead = nums[i]
+                max++
+            }
+        }
+    }
+     
+     return lead
+    
+};
