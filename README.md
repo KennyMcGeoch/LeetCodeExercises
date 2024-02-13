@@ -400,6 +400,7 @@ Full List of Completed Projects in Numerical Order:
 2089. Find Target Indices After Sorting Array (Easy)
 2095. Delete the Middle Node of a Linked List (Medium)
 2099. Find Subsequence of Length K With the Largest Sum (Easy)
+2108. Find First Palindromic String in the Array (Easy)
 2124. Check if All A's Appears Before All B's (Easy)
 2125. Number of Laser Beams in a Bank (Medium)
 2130. Maximum Twin Sum of a Linked List (Medium)
