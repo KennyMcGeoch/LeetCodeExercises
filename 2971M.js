@@ -39,3 +39,26 @@ var largestPerimeter = function(nums) {
     return -1
     
 };
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ * Runtime: 93 ms, faster than 99.44% of JavaScript online submissions for Find Polygon With the Largest Perimeter.
+ * Memory Usage: 66.9 MB, less than 11.30% of JavaScript online submissions for Find Polygon With the Largest Perimeter.
+ */
+var largestPerimeter = function(nums) {
+    
+    let total = nums.reduce((a,b)=>a+b)
+    
+    while(nums.length > 2){
+        let max = Math.max(...nums)
+        if (max < total - max) return total
+        else{
+            total -= max
+            nums = nums.filter((a)=> a !== max)
+        }
+    }
+    
+    return -1
+    
+};
