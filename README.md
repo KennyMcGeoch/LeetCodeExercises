@@ -477,3 +477,4 @@ Full List of Completed Projects in Numerical Order:
 2849. Determine if a Cell Is Reachable at a Given Time (Medium)
 2870. Minimum Number of Operations to Make Array Empty (Medium)
 2966. Divide Array Into Arrays With Max Difference (Medium)
+2971. Find Polygon With the Largest Perimeter (Medium)
