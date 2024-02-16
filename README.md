@@ -317,6 +317,7 @@ Full List of Completed Projects in Numerical Order:
 1457. Pseudo-Palindromic Paths in a Binary Tree (Medium)
 1464. Maximum Product of Two Elements in an Array (Easy)
 1480. Running Sum of 1d Array (Easy)
+1481. Least Number of Unique Integers after K Removals (Medium)
 1484. Group Sold Products By The Date (Easy)
 1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)
 1493. Longest Subarray of 1's After Deleting One Element (Medium)
