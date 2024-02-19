@@ -37,3 +37,41 @@ var isPowerOfTwo = function(n) {
     
     return n > 0
 };
+
+/**
+ * @param {number} n
+ * @return {boolean}
+ * Runtime: 72 ms, faster than 51.88% of JavaScript online submissions for Power of Two.
+ * Memory Usage: 51.8 MB, less than 49.47% of JavaScript online submissions for Power of Two.
+ */
+var isPowerOfTwo = function(n) {
+        
+    while (n > 1) n /= 2
+    
+    return n === 1
+};
+
+/**
+ * @param {number} n
+ * @return {boolean}
+ * Runtime: 69 ms, faster than 60.52% of JavaScript online submissions for Power of Two.
+ * Memory Usage: 53.2 MB, less than 21.25% of JavaScript online submissions for Power of Two.
+ */
+
+let powers = [
+    1,          2,         4,
+    8,         16,        32,
+   64,        128,       256,
+  512,       1024,      2048,
+ 4096,       8192,     16384,
+32768,      65536,    131072,
+262144,     524288,   1048576,
+2097152,    4194304,   8388608,
+16777216,   33554432,  67108864,
+134217728,  268435456, 536870912,
+1073741824, 2147483648
+]
+var isPowerOfTwo = function(n) {
+ 
+return powers.includes(n)
+};
