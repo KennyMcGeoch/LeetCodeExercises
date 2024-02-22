@@ -25,3 +25,29 @@
     if (candidate[solution[0]] + 1 == n)return solution[0]
     return -1
 };
+
+/**
+ * @param {number} n
+ * @param {number[][]} trust
+ * @return {number}
+ * Runtime: 85 ms, faster than 71.00% of JavaScript online submissions for Find the Town Judge.
+ * Memory Usage: 57.4 MB, less than 42.00% of JavaScript online submissions for Find the Town Judge.
+ */
+var findJudge = function(n, trust) {
+     
+     
+    if (n === 1) return 1
+    let people = new Set()
+    let trusted = {}
+    
+    for (let i=0; i< trust.length; i++){
+        people.add(trust[i][0])
+        trusted[trust[i][1]] = (trusted[trust[i][1]] || 0 ) + 1
+    }
+
+    for (x in trusted){
+        if (people.has(Number(x)) !== true && trusted[x] === n-1) return x
+    }     
+    
+    return -1
+};
