@@ -51,3 +51,26 @@ var findJudge = function(n, trust) {
     
     return -1
 };
+
+/**
+ * @param {number} n
+ * @param {number[][]} trust
+ * @return {number}
+ * Runtime: 77 ms, faster than 90.50% of JavaScript online submissions for Find the Town Judge.
+ * Memory Usage: 56.8 MB, less than 53.50% of JavaScript online submissions for Find the Town Judge.
+ */
+var findJudge = function(n, trust) {
+     
+     
+    if (n === 1) return 1
+    let arr = new Array(n+1).fill(0)
+    
+    for (let i=0; i<trust.length; i++){
+        arr[trust[i][0]] = -1
+        arr[trust[i][1]]++
+    }
+     
+    for (let i=1; i<arr.length; i++) if (arr[i] === n-1) return i
+    
+    return -1
+};
