@@ -247,6 +247,7 @@ Full List of Completed Projects in Numerical Order:
 746. Min Cost Climbing Stairs (Easy)
 747. Largest Number At Least Twice of Others (Easy)
 766. Toeplitz Matrix (Easy)
+787. Cheapest Flights Within K Stops (Medium)
 783. Minimum Distance Between BST Nodes (Easy)
 796. Rotate String (Easy)
 779. K-th Symbol in Grammar (Medium)
