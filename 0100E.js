@@ -41,3 +41,61 @@
     return JSON.stringify(a1)==JSON.stringify(a2)
     
 };
+
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val, left, right) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.left = (left===undefined ? null : left)
+ *     this.right = (right===undefined ? null : right)
+ * }
+ */
+/**
+ * @param {TreeNode} p
+ * @param {TreeNode} q
+ * @return {boolean}
+ * Runtime: 33 ms, faster than 99.83% of JavaScript online submissions for Same Tree.
+ * Memory Usage: 49.4 MB, less than 14.17% of JavaScript online submissions for Same Tree.
+ */
+var isSameTree = function(p, q) {
+    
+    let diff = false
+    
+    function check(nodeA, nodeB){
+        if (diff) return
+        if (nodeA === null || nodeB === null){
+            if (nodeA !== null || nodeB !== null) diff = true
+            return
+        }
+        if (nodeA.val !== nodeB.val){
+            diff = true
+            return
+        }
+        return check(nodeA.left, nodeB.left) + check(nodeA.right, nodeB.right)
+    }
+    
+    check(p,q)
+    
+    return !(diff)
+    
+};
+
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val, left, right) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.left = (left===undefined ? null : left)
+ *     this.right = (right===undefined ? null : right)
+ * }
+ */
+/**
+ * @param {TreeNode} p
+ * @param {TreeNode} q
+ * @return {boolean}
+ * Runtime: 55 ms, faster than 42.26% of JavaScript online submissions for Same Tree.
+ * Memory Usage: 49.2 MB, less than 21.81% of JavaScript online submissions for Same Tree.
+ */
+var isSameTree = function(p, q) {
+    
+    return JSON.stringify(p) === JSON.stringify(q)
+};
