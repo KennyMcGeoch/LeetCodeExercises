@@ -204,6 +204,7 @@ Full List of Completed Projects in Numerical Order:
 501. Find Mode in Binary Search Tree (Easy)
 506. Relative Ranks (Easy)
 509. Fibonacci Number (Easy)
+513. Find Bottom Left Tree Value (Medium)
 515. Find Largest Value in Each Tree Row (Medium)
 523. Continuous Subarray Sum (Medium)
 530. Minimum Absolute Difference in BST (Easy)
