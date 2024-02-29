@@ -345,6 +345,7 @@ Full List of Completed Projects in Numerical Order:
 1588. Sum of All Odd Length Subarrays (Easy)
 1603. Design Parking System (Easy)
 1608. Special Array With X Elements Greater Than or Equal X (Easy)
+1609. Even Odd Tree (Medium)
 1624. Largest Substring Between Two Equal Characters (Easy)
 1630. Arithmetic Subarrays (Medium)
 1636. Sort Array by Increasing Frequency (Easy)
