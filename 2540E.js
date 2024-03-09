@@ -46,8 +46,8 @@ var getCommon = function(nums1, nums2) {
  * @param {number[]} nums1
  * @param {number[]} nums2
  * @return {number}
- * Runtime: 61 ms, faster than 90.82% of JavaScript online submissions for Minimum Common Value.
- * Memory Usage: 57.5 MB, less than 65.05% of JavaScript online submissions for Minimum Common Value.
+ * Runtime: 57 ms, faster than 96.43% of JavaScript online submissions for Minimum Common Value.
+ * Memory Usage: 56.4 MB, less than 86.99% of JavaScript online submissions for Minimum Common Value.
  */
 var getCommon = function(nums1, nums2) {
     
