@@ -252,6 +252,7 @@ Full List of Completed Projects in Numerical Order:
 783. Minimum Distance Between BST Nodes (Easy)
 796. Rotate String (Easy)
 779. K-th Symbol in Grammar (Medium)
+791. Custom Sort String (Medium)
 815. Bus Routes (Hard)
 835. Image Overlap (Medium)
 844. Backspace String Compare (Easy)
