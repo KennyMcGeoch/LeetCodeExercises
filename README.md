@@ -295,6 +295,7 @@ Full List of Completed Projects in Numerical Order:
 1209. Remove All Adjacent Duplicates in String II (Medium)
 1220. Count Vowels Permutation (Hard)
 1221. Split a String in Balanced Strings (Easy)
+1227. Airplane Seat Assignment Probability (Medium)
 1232. Check If It Is a Straight Line (Easy)
 1266. Minimum Time Visiting All Points (Easy)
 1281. Subtract the Product and Sum of Digits of an Integer (Easy)
