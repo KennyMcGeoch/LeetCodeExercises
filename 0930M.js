@@ -31,3 +31,40 @@ var numSubarraysWithSum = function(nums, goal) {
     
     return total
 };
+
+/**
+ * @param {number[]} nums
+ * @param {number} goal
+ * @return {number}
+ * Runtime: 58 ms, faster than 91.41% of JavaScript online submissions for Binary Subarrays With Sum.
+ * Memory Usage: 56.9 MB, less than 13.50% of JavaScript online submissions for Binary Subarrays With Sum.
+ */
+var numSubarraysWithSum = function(nums, goal) {
+    
+    let total = 0
+    if (goal === 0){
+        let i = 0
+        let count = 0
+        while(i < nums.length){
+            if (nums[i++] === 0){
+                total += ++count
+            }
+            else count = 0
+        }
+        return total
+    }
+    let freq = {0:1}
+    freq[nums[0]] = (freq[nums[0]] || 0) + 1
+    
+    for (let i=1; i<nums.length;i++) {
+        nums[i] += nums[i-1]
+        freq[nums[i]] = (freq[nums[i]] || 0) + 1
+    }
+    
+    
+    for (x in freq){
+        total += (freq[x] * (freq[x-goal] || 0))
+    }
+    
+    return total
+};
