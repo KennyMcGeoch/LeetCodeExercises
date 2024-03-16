@@ -208,6 +208,7 @@ Full List of Completed Projects in Numerical Order:
 513. Find Bottom Left Tree Value (Medium)
 515. Find Largest Value in Each Tree Row (Medium)
 523. Continuous Subarray Sum (Medium)
+525. Contiguous Array (Medium)
 530. Minimum Absolute Difference in BST (Easy)
 541. Reverse String II (Easy)
 543. Diameter of Binary Tree (Easy)
