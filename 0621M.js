@@ -4,6 +4,8 @@
  * @return {number}
  * Runtime: 177 ms, faster than 48.21% of JavaScript online submissions for Task Scheduler.
  * Memory Usage: 45.2 MB, less than 97.46% of JavaScript online submissions for Task Scheduler.
+ * Runtime: 88 ms, faster than 65.58% of JavaScript online submissions for Task Scheduler.
+ * Memory Usage: 52.2 MB, less than 92.21% of JavaScript online submissions for Task Scheduler.
  */
  var leastInterval = function(tasks, n) {
      
@@ -37,5 +39,40 @@
     }
      
     return Math.max(iterations, total)
+    
+};
+
+/**
+ * @param {character[]} tasks
+ * @param {number} n
+ * @return {number}
+ * Runtime: 73 ms, faster than 87.69% of JavaScript online submissions for Task Scheduler.
+ * Memory Usage: 52.1 MB, less than 95.48% of JavaScript online submissions for Task Scheduler.
+ */
+var leastInterval = function(tasks, n) {
+     
+    if (n === 0) return tasks.length
+
+    let freq = {}
+
+    for (i=0; i<tasks.length; i++) freq[tasks[i]] = (freq[tasks[i]] || 0) + 1
+
+    let max = 1
+    let quant = 0
+    
+    for (x in freq){
+        if (freq[x] > max){
+            max = freq[x]
+            quant = 1
+        }
+        else if (freq[x] === max) quant++
+    }
+
+    max--
+    quant
+
+    let total = ((n+1) * max) + quant
+    
+    return Math.max(total, tasks.length)    
     
 };
