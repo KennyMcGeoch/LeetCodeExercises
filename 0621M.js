@@ -75,3 +75,35 @@ var leastInterval = function(tasks, n) {
     return Math.max(total, tasks.length)    
     
 };
+
+/**
+ * @param {character[]} tasks
+ * @param {number} n
+ * @return {number}
+ * Runtime: 66 ms, faster than 96.23% of JavaScript online submissions for Task Scheduler.
+ * Memory Usage: 52.1 MB, less than 93.72% of JavaScript online submissions for Task Scheduler.
+ */
+var leastInterval = function(tasks, n) {
+     
+    if (n === 0) return tasks.length
+
+    let freq = {}
+
+    for (i=0; i<tasks.length; i++) freq[tasks[i]] = (freq[tasks[i]] || 0) + 1
+
+    let max = 1
+    let quant = 0
+    
+    for (x in freq){
+        if (freq[x] > max){
+            max = freq[x]
+            quant = 1
+        }
+        else if (freq[x] === max) quant++
+    }
+
+    max--
+    
+    return Math.max(((n+1) * max) + quant, tasks.length)    
+    
+};
