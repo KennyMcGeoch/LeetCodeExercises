@@ -69,7 +69,6 @@ var leastInterval = function(tasks, n) {
     }
 
     max--
-    quant
 
     let total = ((n+1) * max) + quant
     
