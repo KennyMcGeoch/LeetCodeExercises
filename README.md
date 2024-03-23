@@ -81,6 +81,7 @@ Full List of Completed Projects in Numerical Order:
 137. Single Number II (Medium)
 141. Linked List Cycle (Easy)
 142. Linked List Cycle II (Medium)
+143. Reorder List (Medium)
 144. Binary Tree Preorder Traversal (Easy)
 145. Binary Tree Postorder Traversal (Easy)
 148. Sort List (Medium)
