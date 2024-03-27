@@ -243,6 +243,7 @@ Full List of Completed Projects in Numerical Order:
 705. Design HashSet (Easy)
 706. Design HashMap (Easy)
 709. To Lower Case (Easy)
+713. Subarray Product Less Than K (Medium)
 724. Find Pivot Index (Easy)
 725. Split Linked List in Parts (Medium)
 733. Flood Fill (Easy)
