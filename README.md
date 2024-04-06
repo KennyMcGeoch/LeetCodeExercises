@@ -303,6 +303,7 @@ Full List of Completed Projects in Numerical Order:
 1221. Split a String in Balanced Strings (Easy)
 1227. Airplane Seat Assignment Probability (Medium)
 1232. Check If It Is a Straight Line (Easy)
+1249. Minimum Remove to Make Valid Parentheses (Medium)
 1266. Minimum Time Visiting All Points (Easy)
 1281. Subtract the Product and Sum of Digits of an Integer (Easy)
 1282. Group the People Given the Group Size They Belong To (Medium)
