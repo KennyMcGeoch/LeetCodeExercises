@@ -10,6 +10,19 @@ var timeRequiredToBuy = function(tickets, k) {
     return tickets.reduce((a,b)=> a + Math.min(b,tickets[k]),0) - tickets.reduce((a,b,c)=> a + (b >= tickets[k] && c > k),0)
 };
 
+/**
+ * @param {number[]} tickets
+ * @param {number} k
+ * @return {number}
+ * Runtime: 55 ms, faster than 57.38% of JavaScript online submissions for Time Needed to Buy Tickets.
+ ( Memory Usage: 48.8 MB, less than 76.50% of JavaScript online submissions for Time Needed to Buy Tickets.
+ */
+var timeRequiredToBuy = function(tickets, k) {
+    
+    return tickets.reduce((a,b,c)=> a + Math.min(b,tickets[k] - (c > k)),0)
+}
+
+
 
 /**
  * @param {number[]} tickets
