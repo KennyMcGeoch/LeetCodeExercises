@@ -418,6 +418,7 @@ Full List of Completed Projects in Numerical Order:
 2017. Grid Game (Medium)
 2024. Maximize the Confusion of an Exam (Medium)
 2038. Remove Colored Pieces if Both Neighbors are the Same Color (Medium)
+2073. Time Needed to Buy Tickets (Easy)
 2089. Find Target Indices After Sorting Array (Easy)
 2095. Delete the Middle Node of a Linked List (Medium)
 2099. Find Subsequence of Length K With the Largest Sum (Easy)
