@@ -277,6 +277,7 @@ Full List of Completed Projects in Numerical Order:
 946. Validate Stack Sequences (Medium)
 947. Most Stones Removed with Same Row or Column (Medium)
 948. Bag of Tokens (Medium)
+950. Reveal Cards In Increasing Order (Medium)
 953. Verifying an Alien Dictionary (Easy)
 976. Largest Perimeter Triangle (Easy)
 977. Squares of a Sorted Array (Easy)
