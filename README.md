@@ -371,6 +371,7 @@ Full List of Completed Projects in Numerical Order:
 1662. Check If Two String Arrays are Equivalent (Easy)
 1667. Fix Names in a Table (Easy)
 1669. Merge In Between Linked Lists (Medium)
+1683. Invalid Tweets (Easy)
 1684. Count the Number of Consistent Strings (Easy)
 1685. Sum of Absolute Differences in a Sorted Array (Medium)
 1688. Count of Matches in Tournament (Easy)
