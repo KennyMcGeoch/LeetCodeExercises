@@ -325,6 +325,7 @@ Full List of Completed Projects in Numerical Order:
 1351. Count Negative Numbers in a Sorted Matrix (Easy)
 1356. Sort Integers by The Number of 1 Bits (Easy)
 1365. How Many Numbers Are Smaller Than the Current Number (Easy)
+1378. Replace Employee ID With The Unique Identifier (Easy)
 1385. Find the Distance Value Between Two Arrays (Easy)
 1403. Minimum Subsequence in Non-Increasing Order (Easy)
 1422. Maximum Score After Splitting a String (Easy)
