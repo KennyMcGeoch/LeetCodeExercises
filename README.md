@@ -32,6 +32,7 @@ Full List of Completed Projects in Numerical Order:
 37. Sudoku Solver (Hard)
 39. Combination Sum (Medium)
 41. First Missing Positive (Hard)
+42. Trapping Rain Water (Hard)
 45. Jump Game II (Medium)
 46. Permutations (Medium)
 48. Rotate Image (Medium)
