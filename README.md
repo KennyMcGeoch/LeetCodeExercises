@@ -374,6 +374,7 @@ Full List of Completed Projects in Numerical Order:
 1637. Widest Vertical Area Between Two Points Containing No Points (Medium)
 1647. Minimum Deletions to Make Character Frequencies Unique (Medium)
 1657. Determine if Two Strings Are Close (Medium)
+1661. Average Time of Process per Machine (Easy)
 1662. Check If Two String Arrays are Equivalent (Easy)
 1667. Fix Names in a Table (Easy)
 1669. Merge In Between Linked Lists (Medium)
