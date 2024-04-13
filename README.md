@@ -220,6 +220,7 @@ Full List of Completed Projects in Numerical Order:
 557. Reverse Words in a String III (Easy)
 566. Reshape the Matrix (Easy)
 575. Distribute Candies (Easy)
+577. Employee Bonus (Easy)
 584. Find Customer Referee (Easy)
 589. N-ary Tree Preorder Traversal (Easy)
 595. Big Countries (Easy)
