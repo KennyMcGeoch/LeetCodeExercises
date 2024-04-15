@@ -98,6 +98,7 @@ Full List of Completed Projects in Numerical Order:
 169. Majority Element (Easy)
 171. Excel Sheet Column Number (Easy)
 175. Combine Two Tables (Easy)
+180. Consecutive Numbers (Medium)
 181. Employees Earning More Than Their Managers (Easy)
 182. Duplicate Emails (Easy)
 183. Customers Who Never Order (Easy)
