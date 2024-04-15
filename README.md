@@ -306,6 +306,7 @@ Full List of Completed Projects in Numerical Order:
 1160. Find Words That Can Be Formed by Characters (Easy)
 1161. Maximum Level Sum of a Binary Tree (Medium)
 1171. Remove Zero Sum Consecutive Nodes from Linked List (Medium)
+1193. Monthly Transactions I (Medium)
 1207. Unique Number of Occurrences (Easy)
 1209. Remove All Adjacent Duplicates in String II (Medium)
 1211. Queries Quality and Percentage (Easy)
