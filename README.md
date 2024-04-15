@@ -296,6 +296,7 @@ Full List of Completed Projects in Numerical Order:
 1047. Remove All Adjacent Duplicates In String (Easy)
 1051. Height Checker (Easy)
 1068. Product Sales Analysis I (Easy)
+1070. Product Sales Analysis III (Medium)
 1075. Project Employees I (Easy)
 1078. Occurrences After Bigram (Easy)
 1089. Duplicate Zeros (Easy)
