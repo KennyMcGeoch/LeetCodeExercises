@@ -373,6 +373,7 @@ Full List of Completed Projects in Numerical Order:
 1614. Maximum Nesting Depth of the Parentheses (Easy)
 1624. Largest Substring Between Two Equal Characters (Easy)
 1630. Arithmetic Subarrays (Medium)
+1633. Percentage of Users Attended a Contest (Easy)
 1636. Sort Array by Increasing Frequency (Easy)
 1637. Widest Vertical Area Between Two Points Containing No Points (Medium)
 1647. Minimum Deletions to Make Character Frequencies Unique (Medium)
