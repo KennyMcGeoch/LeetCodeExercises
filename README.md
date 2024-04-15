@@ -293,6 +293,7 @@ Full List of Completed Projects in Numerical Order:
 1009. Complement of Base 10 Integer (Easy)
 1026. Maximum Difference Between Node and Ancestor (Medium)
 1043. Partition Array for Maximum Sum (Medium)
+1045. Customers Who Bought All Products (Medium)
 1046. Last Stone Weight (Easy)
 1047. Remove All Adjacent Duplicates In String (Easy)
 1051. Height Checker (Easy)
