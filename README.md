@@ -78,6 +78,7 @@ Full List of Completed Projects in Numerical Order:
 120. Triangle (Medium)
 121. Best Time to Buy and Sell Stock (Easy)
 125. Valid Palindrome (Easy)
+129. Sum Root to Leaf Numbers (Medium)
 136. Single Number (Easy)
 137. Single Number II (Medium)
 141. Linked List Cycle (Easy)
