@@ -308,6 +308,7 @@ Full List of Completed Projects in Numerical Order:
 1171. Remove Zero Sum Consecutive Nodes from Linked List (Medium)
 1207. Unique Number of Occurrences (Easy)
 1209. Remove All Adjacent Duplicates in String II (Medium)
+1211. Queries Quality and Percentage (Easy)
 1220. Count Vowels Permutation (Hard)
 1221. Split a String in Balanced Strings (Easy)
 1227. Airplane Seat Assignment Probability (Medium)
