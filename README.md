@@ -460,6 +460,7 @@ Full List of Completed Projects in Numerical Order:
 2264. Largest 3-Same-Digit Number in String (Easy)
 2265. Count Nodes Equal to Average of Subtree (Medium)
 2293. Min Max Game (Easy)
+2356. Number of Unique Subjects Taught by Each Teacher (Easy)
 2391. Minimum Amount of Time to Collect Garbage (Medium)
 2629. Function Composition (Easy)
 2235. Add Two Integers (Easy)
