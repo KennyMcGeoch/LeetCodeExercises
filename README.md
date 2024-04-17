@@ -313,6 +313,7 @@ Full List of Completed Projects in Numerical Order:
 1154. Day of the Year (Easy)
 1160. Find Words That Can Be Formed by Characters (Easy)
 1161. Maximum Level Sum of a Binary Tree (Medium)
+1164. Product Price at a Given Date (Medium)
 1171. Remove Zero Sum Consecutive Nodes from Linked List (Medium)
 1174. Immediate Food Delivery II (Medium)
 1193. Monthly Transactions I (Medium)
