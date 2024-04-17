@@ -291,6 +291,7 @@ Full List of Completed Projects in Numerical Order:
 976. Largest Perimeter Triangle (Easy)
 977. Squares of a Sorted Array (Easy)
 985. Sum of Even Numbers After Queries (Medium)
+988. Smallest String Starting From Leaf (Medium)
 994. Rotting Oranges (Medium)
 997. Find the Town Judge (Easy)
 1009. Complement of Base 10 Integer (Easy)
