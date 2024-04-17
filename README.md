@@ -444,6 +444,7 @@ Full List of Completed Projects in Numerical Order:
 1934. Confirmation Rate (Medium)
 1946. Largest Number After Mutating Substring (Medium)
 1965. Employees With Missing Information (Easy)
+1978. Employees Whose Manager Left the Company (Easy)
 1979. Find Greatest Common Divisor of Array (Easy)
 1980. Find Unique Binary String (Medium)
 2007. Find Original Array From Doubled Array (Medium)
