@@ -235,6 +235,7 @@ Full List of Completed Projects in Numerical Order:
 620. Not Boring Movies (Easy)
 621. Task Scheduler (Medium)
 623. Add One Row to Tree (Medium)
+626. Exchange Seats (Medium)
 627. Swap Salary (Easy)
 633. Sum of Square Numbers (Medium)
 645. Set Mismatch (Easy)
