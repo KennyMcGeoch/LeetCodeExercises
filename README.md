@@ -228,6 +228,7 @@ Full List of Completed Projects in Numerical Order:
 589. N-ary Tree Preorder Traversal (Easy)
 595. Big Countries (Easy)
 596. Classes More Than 5 Students (Easy)
+602. Friend Requests II: Who Has the Most Friends (Medium)
 605. Can Place Flowers (Easy)
 606. Construct String from Binary Tree (Easy)
 610. Triangle Judgement (Easy)
