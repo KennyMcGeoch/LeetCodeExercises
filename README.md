@@ -304,6 +304,7 @@ Full List of Completed Projects in Numerical Order:
 1045. Customers Who Bought All Products (Medium)
 1046. Last Stone Weight (Easy)
 1047. Remove All Adjacent Duplicates In String (Easy)
+1050. Actors and Directors Who Cooperated At Least Three Times (Easy)
 1051. Height Checker (Easy)
 1068. Product Sales Analysis I (Easy)
 1070. Product Sales Analysis III (Medium)
