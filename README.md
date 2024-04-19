@@ -227,6 +227,7 @@ Full List of Completed Projects in Numerical Order:
 577. Employee Bonus (Easy)
 584. Find Customer Referee (Easy)
 585. Investments in 2016 (Medium)
+586. Customer Placing the Largest Number of Orders (Easy)
 589. N-ary Tree Preorder Traversal (Easy)
 595. Big Countries (Easy)
 596. Classes More Than 5 Students (Easy)
