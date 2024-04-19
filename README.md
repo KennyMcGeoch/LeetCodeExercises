@@ -341,6 +341,7 @@ Full List of Completed Projects in Numerical Order:
 1306. Jump Game III (Medium)
 1309. Decrypt String from Alphabet to Integer Mapping (Easy)
 1323. Maximum 69 Number (Easy)
+1327. List the Products Ordered in a Period (Easy)
 1337. The K Weakest Rows in a Matrix (Easy)
 1341. Movie Rating (Medium)
 1342. Number of Steps to Reduce a Number to Zero (Easy)
