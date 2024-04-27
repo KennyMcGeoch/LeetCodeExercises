@@ -213,6 +213,7 @@ Full List of Completed Projects in Numerical Order:
 506. Relative Ranks (Easy)
 509. Fibonacci Number (Easy)
 513. Find Bottom Left Tree Value (Medium)
+514. Freedom Trail (Hard)
 515. Find Largest Value in Each Tree Row (Medium)
 523. Continuous Subarray Sum (Medium)
 525. Contiguous Array (Medium)
