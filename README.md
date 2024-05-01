@@ -461,6 +461,7 @@ Full List of Completed Projects in Numerical Order:
 1979. Find Greatest Common Divisor of Array (Easy)
 1980. Find Unique Binary String (Medium)
 1992. Find All Groups of Farmland (Medium)
+2000. Reverse Prefix of Word (Easy)
 2007. Find Original Array From Doubled Array (Medium)
 2009. Minimum Number of Operations to Make Array Continuous (Hard)
 2017. Grid Game (Medium)
