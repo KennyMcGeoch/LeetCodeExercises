@@ -93,6 +93,7 @@ Full List of Completed Projects in Numerical Order:
 153. Find Minimum in Rotated Sorted Array (Medium)
 160. Intersection of Two Linked Lists (Easy)
 162. Find Peak Element (Medium)
+165. Compare Version Numbers (Medium)
 167. Two Sum II - Input Array Is Sorted (Medium)
 168. Excel Sheet Column Title (Easy)
 169. Majority Element (Easy)
