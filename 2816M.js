@@ -59,3 +59,37 @@ var doubleIt = function(head) {
     return head
     
 };
+
+/**
+ * Definition for singly-linked list.
+ * function ListNode(val, next) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.next = (next===undefined ? null : next)
+ * }
+ */
+/**
+ * @param {ListNode} head
+ * @return {ListNode}
+ * Runtime: 157 ms, faster than 100.00% of JavaScript online submissions for Double a Number Represented as a Linked List.
+ * Memory Usage: 61 MB, less than 93.60% of JavaScript online submissions for Double a Number Represented as a Linked List.
+ */
+var doubleIt = function(head) {
+    let node = {val:0, next:null}
+    if (head.val > 4){
+        node.next = head
+        node.val = 0
+    }
+    else node = head
+    head = node
+    
+    while(head.next !== null){
+        head.val = (head.val *=2) + (head.next.val > 4)
+        head.val %= 10
+        head = head.next
+    }
+    head.val = (head.val *=2)
+    head.val %= 10
+    
+    return node
+    
+};
