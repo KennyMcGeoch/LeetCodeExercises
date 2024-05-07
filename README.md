@@ -553,6 +553,7 @@ Full List of Completed Projects in Numerical Order:
 2734. Lexicographically Smallest String After Substring Operation (Medium)
 2739. Total Distance Traveled (Easy)
 2785. Sort Vowels in a String (Medium)
+2816. Double a Number Represented as a Linked List (Medium)
 2849. Determine if a Cell Is Reachable at a Given Time (Medium)
 2864. Maximum Odd Binary Number (Easy)
 2870. Minimum Number of Operations to Make Array Empty (Medium)
