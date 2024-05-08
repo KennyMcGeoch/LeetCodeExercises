@@ -16,6 +16,27 @@ var findRelativeRanks = function(score) {
         else score[i] = temp.toString()
     }
     return score
+    
+};
+
+/**
+ * @param {number[]} score
+ * @return {string[]}
+ * Runtime: 61 ms, faster than 95.97% of JavaScript online submissions for Relative Ranks.
+ * Memory Usage: 51.8 MB, less than 92.74% of JavaScript online submissions for Relative Ranks.
+ */
+var findRelativeRanks = function(score) {
+    
+    let pos = [...score].sort((a,b)=>b-a)
+    let hash = {}
+    for (let i=0; i<score.length; i++){
+        if (i > 2) hash[pos[i]] = [i+1].toString()
+        else if (i === 0) hash[pos[i]] = "Gold Medal"
+        else if (i === 1) hash[pos[i]] = "Silver Medal"
+        else if (i === 2) hash[pos[i]]= "Bronze Medal"
+    }
+    for (let i=0; i< score.length; i++) score[i] = hash[score[i]]
+    return score
 
     
 };
