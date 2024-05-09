@@ -563,3 +563,4 @@ Full List of Completed Projects in Numerical Order:
 2966. Divide Array Into Arrays With Max Difference (Medium)
 2971. Find Polygon With the Largest Perimeter (Medium)
 3005. Count Elements With Maximum Frequency (Easy)
+3075. Maximize Happiness of Selected Children
