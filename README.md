@@ -30,6 +30,7 @@ Full List of Completed Projects in Numerical Order:
 35. Search Insert Position (Easy)
 36. Valid Sudoku (Medium)
 37. Sudoku Solver (Hard)
+38. Count and Say (Medium)
 39. Combination Sum (Medium)
 41. First Missing Positive (Hard)
 42. Trapping Rain Water (Hard)
