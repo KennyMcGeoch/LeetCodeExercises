@@ -282,6 +282,7 @@ Full List of Completed Projects in Numerical Order:
 844. Backspace String Compare (Easy)
 852. Peak Index in a Mountain Array (Medium)
 859. Buddy Strings (Easy)
+861. Score After Flipping Matrix (Medium)
 867. Transpose Matrix (Easy)
 872. Leaf-Similar Trees (Easy)
 876. Middle of the Linked List (Easy)
