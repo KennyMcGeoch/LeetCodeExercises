@@ -497,6 +497,7 @@ Full List of Completed Projects in Numerical Order:
 2265. Count Nodes Equal to Average of Subtree (Medium)
 2293. Min Max Game (Easy)
 2319. Check if Matrix Is X-Matrix (Easy)
+2331. Evaluate Boolean Binary Tree (Easy)
 2341. Maximum Number of Pairs in Array (Easy)
 2348. Number of Zero-Filled Subarrays (Medium)
 2356. Number of Unique Subjects Taught by Each Teacher (Easy)
