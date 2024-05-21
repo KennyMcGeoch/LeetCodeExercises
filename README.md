@@ -56,6 +56,7 @@ Full List of Completed Projects in Numerical Order:
 74. Search a 2D Matrix (Medium)
 75. Sort Colors (Medium)
 76. Minimum Window Substring (Hard)
+78. Subsets (Medium)
 79. Word Search (Medium)
 80. Remove Duplicates from Sorted Array II (Medium)
 81. Search in Rotated Sorted Array II (Medium)
