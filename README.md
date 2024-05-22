@@ -81,6 +81,7 @@ Full List of Completed Projects in Numerical Order:
 121. Best Time to Buy and Sell Stock (Easy)
 125. Valid Palindrome (Easy)
 129. Sum Root to Leaf Numbers (Medium)
+131. Palindrome Partitioning (Medium)
 136. Single Number (Easy)
 137. Single Number II (Medium)
 141. Linked List Cycle (Easy)
