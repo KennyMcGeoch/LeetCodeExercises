@@ -341,6 +341,7 @@ Full List of Completed Projects in Numerical Order:
 1232. Check If It Is a Straight Line (Easy)
 1249. Minimum Remove to Make Valid Parentheses (Medium)
 1251. Average Selling Price (Easy)
+1255. Maximum Score Words Formed by Letters (Hard)
 1266. Minimum Time Visiting All Points (Easy)
 1280. Students and Examinations (Easy)
 1281. Subtract the Product and Sum of Digits of an Integer (Easy)
