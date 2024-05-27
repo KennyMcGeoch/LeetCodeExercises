@@ -257,6 +257,7 @@ Full List of Completed Projects in Numerical Order:
 678. Valid Parenthesis String (Medium)
 692. Top K Frequent Words (Medium)
 695. Max Area of Island (Medium)
+697. Degree of an Array (Easy)
 700. Search in a Binary Search Tree (Easy)
 701. Insert into a Binary Search Tree (Medium)
 703. Kth Largest Element in a Stream (Easy)
