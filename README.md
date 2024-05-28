@@ -335,6 +335,7 @@ Full List of Completed Projects in Numerical Order:
 1193. Monthly Transactions I (Medium)
 1204. Last Person to Fit in the Bus (Medium)
 1207. Unique Number of Occurrences (Easy)
+1208. Get Equal Substrings Within Budget (Medium)
 1209. Remove All Adjacent Duplicates in String II (Medium)
 1211. Queries Quality and Percentage (Easy)
 1220. Count Vowels Permutation (Hard)
