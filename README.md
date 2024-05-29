@@ -370,6 +370,7 @@ Full List of Completed Projects in Numerical Order:
 1378. Replace Employee ID With The Unique Identifier (Easy)
 1385. Find the Distance Value Between Two Arrays (Easy)
 1403. Minimum Subsequence in Non-Increasing Order (Easy)
+1404. Number of Steps to Reduce a Number in Binary Representation to One (Medium)
 1422. Maximum Score After Splitting a String (Easy)
 1436. Destination City (Easy)
 1441. Build an Array With Stack Operations (Medium)
