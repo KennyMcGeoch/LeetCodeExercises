@@ -527,6 +527,7 @@ Full List of Completed Projects in Numerical Order:
 2482. Difference Between Ones and Zeros in Row and Column (Medium)
 2483. Minimum Penalty for a Shop (Medium)
 2485. Find the Pivot Integer (Easy)
+2486. Append Characters to String to Make Subsequence (Medium)
 2487. Remove Nodes From Linked List (Medium)
 2506. Count Pairs Of Similar Strings (Easy)
 2529. Maximum Count of Positive Integer and Negative Integer (Easy)
