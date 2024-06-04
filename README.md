@@ -216,6 +216,7 @@ Full List of Completed Projects in Numerical Order:
 500. Keyboard Row (Easy)
 501. Find Mode in Binary Search Tree (Easy)
 506. Relative Ranks (Easy)
+507. Perfect Number (Easy)
 509. Fibonacci Number (Easy)
 513. Find Bottom Left Tree Value (Medium)
 514. Freedom Trail (Hard)
