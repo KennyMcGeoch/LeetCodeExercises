@@ -221,6 +221,7 @@ Full List of Completed Projects in Numerical Order:
 513. Find Bottom Left Tree Value (Medium)
 514. Freedom Trail (Hard)
 515. Find Largest Value in Each Tree Row (Medium)
+520. Detect Capital (Easy)
 523. Continuous Subarray Sum (Medium)
 525. Contiguous Array (Medium)
 530. Minimum Absolute Difference in BST (Easy)
