@@ -26,4 +26,28 @@ Memory Usage: 46.1 MB, less than 5.40% of JavaScript online submissions for Long
     return lengthPal
 };
 
-longestPalindrome("dakfnaaaald")
+/**
+ * @param {string} s
+ * @return {number}
+ * Runtime: 52 ms, faster than 86.66% of JavaScript online submissions for Longest Palindrome.
+ * Memory Usage: 50.1 MB, less than 76.44% of JavaScript online submissions for Longest Palindrome.
+ */
+var longestPalindrome = function(s) {
+    let ans = 0
+    let odd = false
+    let hash = {}
+    
+    for (let i=0; i<s.length; i++) hash[s[i]] = (hash[s[i]] || 0) + 1
+     
+    for (x in hash){
+        if (hash[x] % 2 === 1){
+            ans -= 1
+            odd = true
+        }
+        ans += hash[x]
+
+    }
+
+    return ans + odd
+};
+
