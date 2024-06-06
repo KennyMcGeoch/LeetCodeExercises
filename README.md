@@ -286,6 +286,7 @@ Full List of Completed Projects in Numerical Order:
 815. Bus Routes (Hard)
 835. Image Overlap (Medium)
 844. Backspace String Compare (Easy)
+846. Hand of Straights (Medium)
 852. Peak Index in a Mountain Array (Medium)
 859. Buddy Strings (Easy)
 861. Score After Flipping Matrix (Medium)
