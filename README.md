@@ -252,6 +252,7 @@ Full List of Completed Projects in Numerical Order:
 633. Sum of Square Numbers (Medium)
 645. Set Mismatch (Easy)
 647. Palindromic Substrings (Medium)
+648. Replace Words (Medium)
 649. Dota2 Senate (Medium)
 653. Two Sum IV - Input is a BST (Easy)
 661. Image Smoother (Easy)
