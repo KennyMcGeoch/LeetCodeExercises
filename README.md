@@ -285,6 +285,7 @@ Full List of Completed Projects in Numerical Order:
 779. K-th Symbol in Grammar (Medium)
 791. Custom Sort String (Medium)
 815. Bus Routes (Hard)
+826. Most Profit Assigning Work (Medium)
 835. Image Overlap (Medium)
 844. Backspace String Compare (Easy)
 846. Hand of Straights (Medium)
