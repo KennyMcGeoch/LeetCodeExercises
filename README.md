@@ -453,6 +453,7 @@ Full List of Completed Projects in Numerical Order:
 1768. Merge Strings Alternately (Easy)
 1971. Find if Path Exists in Graph (Easy)
 1731. The Number of Employees Which Report to Each Employee (Easy)
+1791. Find Center of Star Graph (Easy)
 1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy)
 1780. Check if Number is a Sum of Powers of Three (Medium)
 1789. Primary Department for Each Employee (Easy)
