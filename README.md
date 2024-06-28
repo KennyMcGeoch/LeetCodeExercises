@@ -516,6 +516,7 @@ Full List of Completed Projects in Numerical Order:
 2255. Count Prefixes of a Given String (Easy)
 2264. Largest 3-Same-Digit Number in String (Easy)
 2265. Count Nodes Equal to Average of Subtree (Medium)
+2285. Maximum Total Importance of Roads (Medium)
 2293. Min Max Game (Easy)
 2319. Check if Matrix Is X-Matrix (Easy)
 2331. Evaluate Boolean Binary Tree (Easy)
