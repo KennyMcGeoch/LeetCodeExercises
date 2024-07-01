@@ -23,7 +23,6 @@ var maxNumEdgesToRemove = function(n, edges) {
     if (bob.length < n-1 || alice.length < n-1) return -1
     
     let mutualSet = new Set()
-    let mutLen = mut.length
     
     let groups = -1
     while (mut.length){
