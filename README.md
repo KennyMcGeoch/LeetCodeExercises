@@ -412,6 +412,7 @@ Full List of Completed Projects in Numerical Order:
 1566. Detect Pattern of Length M Repeated K or More Times (Easy)
 1572. Matrix Diagonal Sum (Easy)
 1578. Minimum Time to Make Rope Colorful (Medium)
+1579. Remove Max Number of Edges to Keep Graph Fully Traversable (Hard)
 1581. Customer Who Visited but Did Not Make Any Transactions (Easy)
 1582. Special Positions in a Binary Matrix (Easy)
 1588. Sum of All Odd Length Subarrays (Easy)
