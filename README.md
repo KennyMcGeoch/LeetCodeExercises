@@ -508,6 +508,7 @@ Full List of Completed Projects in Numerical Order:
 2148. Count Elements With Strictly Smaller and Greater Elements (Easy)
 2149. Rearrange Array Elements by Sign (Medium)
 2154. Keep Multiplying Found Values by Two (Easy)
+2181. Merge Nodes in Between Zeros (Medium)
 2206. Divide Array Into Equal Pairs (Easy)
 2221. Find Triangular Sum of an Array (Medium)
 2225. Find Players With Zero or One Losses (Medium)
