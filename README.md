@@ -553,6 +553,7 @@ Full List of Completed Projects in Numerical Order:
 2562. Find the Array Concatenation Value (Easy)
 2578. Split With Minimum Sum (Easy)
 2579. Count Total Number of Colored Cells (Medium)
+2582. Pass the Pillow (Easy)
 2583. Kth Largest Sum in a Binary Tree (Medium)
 2591. Distribute Money to Maximum Children (Easy)
 2610. Convert an Array Into a 2D Array With Conditions (Medium)
