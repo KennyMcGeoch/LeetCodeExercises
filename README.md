@@ -225,6 +225,7 @@ Full List of Completed Projects in Numerical Order:
 523. Continuous Subarray Sum (Medium)
 525. Contiguous Array (Medium)
 530. Minimum Absolute Difference in BST (Easy)
+539. Minimum Time Difference (Medium)
 541. Reverse String II (Easy)
 543. Diameter of Binary Tree (Easy)
 547. Number of Provinces (Medium)
