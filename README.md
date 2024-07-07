@@ -401,6 +401,7 @@ Full List of Completed Projects in Numerical Order:
 1509. Minimum Difference Between Largest and Smallest Value in Three Moves (Medium)
 1512. Number of Good Pairs (Easy)
 1513. Number of Substrings With Only 1s (Medium)
+1518. Water Bottles (Easy)
 1523. Count Odd Numbers in an Interval Range (Easy)
 1527. Patients With a Condition (Easy)
 1528. Shuffle String (Easy)
