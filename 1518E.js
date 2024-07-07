@@ -38,3 +38,15 @@ var numWaterBottles = function(numBottles, numExchange) {
     return ans
     
 };
+
+/**
+ * @param {number} numBottles
+ * @param {number} numExchange
+ * @return {number}
+ * Runtime: 48 ms, faster than 72.88% of JavaScript online submissions for Water Bottles.
+ * Memory Usage: 48.8 MB, less than 28.81% of JavaScript online submissions for Water Bottles.
+ */
+var numWaterBottles = function(numBottles, numExchange) {
+    
+    return Math.floor(numBottles + (numBottles - 1) / (numExchange - 1))
+};
