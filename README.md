@@ -441,6 +441,7 @@ Full List of Completed Projects in Numerical Order:
 1672. Richest Customer Wealth (Easy)
 1678. Goal Parser Interpretation (Easy)
 1700. Number of Students Unable to Eat Lunch (Easy)
+1701. Average Waiting Time (Medium)
 1704. Determine if String Halves Are Alike (Easy)
 1706. Where Will the Ball Fall (Medium)
 1716. Calculate Money in Leetcode Bank (Easy)
