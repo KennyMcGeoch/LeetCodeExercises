@@ -344,6 +344,7 @@ Full List of Completed Projects in Numerical Order:
 1164. Product Price at a Given Date (Medium)
 1171. Remove Zero Sum Consecutive Nodes from Linked List (Medium)
 1174. Immediate Food Delivery II (Medium)
+1190. Reverse Substrings Between Each Pair of Parentheses (Medium)
 1193. Monthly Transactions I (Medium)
 1204. Last Person to Fit in the Bus (Medium)
 1207. Unique Number of Occurrences (Easy)
