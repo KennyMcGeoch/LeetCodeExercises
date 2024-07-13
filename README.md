@@ -592,6 +592,7 @@ Full List of Completed Projects in Numerical Order:
 2733. Neither Minimum nor Maximum (Easy)
 2734. Lexicographically Smallest String After Substring Operation (Medium)
 2739. Total Distance Traveled (Easy)
+2751. Robot Collisions (Hard)
 2785. Sort Vowels in a String (Medium)
 2816. Double a Number Represented as a Linked List (Medium)
 2843. Count Symmetric Integers (Easy)
