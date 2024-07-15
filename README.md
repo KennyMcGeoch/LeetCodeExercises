@@ -272,6 +272,7 @@ Full List of Completed Projects in Numerical Order:
 713. Subarray Product Less Than K (Medium)
 724. Find Pivot Index (Easy)
 725. Split Linked List in Parts (Medium)
+726. Number of Atoms (Hard)
 733. Flood Fill (Easy)
 735. Asteroid Collision (Medium)
 739. Daily Temperatures (Medium)
