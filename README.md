@@ -75,6 +75,7 @@ Full List of Completed Projects in Numerical Order:
 110. Balanced Binary Tree (Easy)
 111. Minimum Depth of Binary Tree (Easy)
 112. Path Sum (Easy)
+113. Path Sum II (Medium)
 118. Pascal's Triangle (Easy)
 119. Pascal's Triangle II (Easy)
 120. Triangle (Medium)
