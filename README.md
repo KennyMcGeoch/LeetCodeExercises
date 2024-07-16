@@ -506,6 +506,7 @@ Full List of Completed Projects in Numerical Order:
 2073. Time Needed to Buy Tickets (Easy)
 2089. Find Target Indices After Sorting Array (Easy)
 2095. Delete the Middle Node of a Linked List (Medium)
+2096. Step-By-Step Directions From a Binary Tree Node to Another (Medium)
 2099. Find Subsequence of Length K With the Largest Sum (Easy)
 2108. Find First Palindromic String in the Array (Easy)
 2124. Check if All A's Appears Before All B's (Easy)
