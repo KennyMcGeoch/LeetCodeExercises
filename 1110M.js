@@ -10,8 +10,8 @@
  * @param {TreeNode} root
  * @param {number[]} to_delete
  * @return {TreeNode[]}
- * Runtime: 78 ms, faster than 77.68% of JavaScript online submissions for Delete Nodes And Return Forest.
- * Memory Usage: 56.4 MB, less than 76.82% of JavaScript online submissions for Delete Nodes And Return Forest.
+ * Runtime: 64 ms, faster than 98.71% of JavaScript online submissions for Delete Nodes And Return Forest.
+ * Memory Usage: 56.2 MB, less than 87.55% of JavaScript online submissions for Delete Nodes And Return Forest.
  */
 var delNodes = function(root, to_delete) {
     
