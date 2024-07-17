@@ -261,6 +261,7 @@ Full List of Completed Projects in Numerical Order:
 661. Image Smoother (Easy)
 674. Longest Continuous Increasing Subsequence (Easy)
 678. Valid Parenthesis String (Medium)
+680. Valid Palindrome II (Easy)
 692. Top K Frequent Words (Medium)
 695. Max Area of Island (Medium)
 697. Degree of an Array (Easy)
