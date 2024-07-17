@@ -44,3 +44,51 @@ var delNodes = function(root, to_delete) {
     startTrav(root)
     return ans
 };
+
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val, left, right) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.left = (left===undefined ? null : left)
+ *     this.right = (right===undefined ? null : right)
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @param {number[]} to_delete
+ * @return {TreeNode[]}
+ * Runtime: 77 ms, faster than 81.54% of JavaScript online submissions for Delete Nodes And Return Forest.
+ * Memory Usage: 56.2 MB, less than 84.55% of JavaScript online submissions for Delete Nodes And Return Forest.
+ */
+var delNodes = function(root, to_delete) {
+    
+    let ans = []
+    to_delete = new Set(to_delete)
+    
+    function startTrav(node){
+        if (node === null) return
+        if (to_delete.has(node.val)) return startTrav(node.left) + startTrav(node.right)
+        trav(node)
+        ans.push(node)
+        return
+        
+    }
+    
+    function trav(node){
+        if (node === null) return
+        if (node.left && to_delete.has(node.left.val)){
+            startTrav(node.left.left)
+            startTrav(node.left.right)
+            node.left = null
+        }
+        if (node.right && to_delete.has(node.right.val)){
+            startTrav(node.right.left)
+            startTrav(node.right.right)
+            node.right = null
+        }
+        return trav(node.left) + trav(node.right)
+    }
+    
+    startTrav(root)
+    return ans
+};
