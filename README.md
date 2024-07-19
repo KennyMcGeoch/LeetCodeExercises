@@ -388,6 +388,7 @@ Full List of Completed Projects in Numerical Order:
 1356. Sort Integers by The Number of 1 Bits (Easy)
 1365. How Many Numbers Are Smaller Than the Current Number (Easy)
 1378. Replace Employee ID With The Unique Identifier (Easy)
+1380. Lucky Numbers in a Matrix (Easy)
 1385. Find the Distance Value Between Two Arrays (Easy)
 1403. Minimum Subsequence in Non-Increasing Order (Easy)
 1404. Number of Steps to Reduce a Number in Binary Representation to One (Medium)
