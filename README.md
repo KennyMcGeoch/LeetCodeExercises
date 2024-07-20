@@ -429,6 +429,7 @@ Full List of Completed Projects in Numerical Order:
 1588. Sum of All Odd Length Subarrays (Easy)
 1598. Crawler Log Folder (Easy)
 1603. Design Parking System (Easy)
+1605. Find Valid Matrix Given Row and Column Sums (Medium)
 1608. Special Array With X Elements Greater Than or Equal X (Easy)
 1609. Even Odd Tree (Medium)
 1614. Maximum Nesting Depth of the Parentheses (Easy)
