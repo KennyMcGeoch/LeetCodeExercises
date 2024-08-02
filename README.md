@@ -522,6 +522,7 @@ Full List of Completed Projects in Numerical Order:
 2125. Number of Laser Beams in a Bank (Medium)
 2130. Maximum Twin Sum of a Linked List (Medium)
 2131. Longest Palindrome by Concatenating Two Letter Words (Medium)
+2134. Minimum Swaps to Group All 1's Together II (Medium)
 2136. Earliest Possible Day of Full Bloom (Hard)
 2147. Number of Ways to Divide a Long Corridor (Hard)
 2148. Count Elements With Strictly Smaller and Greater Elements (Easy)
