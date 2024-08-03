@@ -400,6 +400,7 @@ Full List of Completed Projects in Numerical Order:
 1446. Consecutive Characters (Easy)
 1456. Maximum Number of Vowels in a Substring of Given Length (Medium)
 1457. Pseudo-Palindromic Paths in a Binary Tree (Medium)
+1460. Make Two Arrays Equal by Reversing Subarrays (Easy)
 1464. Maximum Product of Two Elements in an Array (Easy)
 1480. Running Sum of 1d Array (Easy)
 1481. Least Number of Unique Integers after K Removals (Medium)
