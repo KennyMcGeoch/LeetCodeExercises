@@ -303,6 +303,7 @@ Full List of Completed Projects in Numerical Order:
 872. Leaf-Similar Trees (Easy)
 876. Middle of the Linked List (Easy)
 881. Boats to Save People (Medium)
+885. Spiral Matrix III (Medium)
 899. Orderly Queue (Hard)
 912. Sort an Array (Medium)
 930. Binary Subarrays With Sum (Medium)
