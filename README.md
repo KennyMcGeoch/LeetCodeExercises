@@ -294,6 +294,7 @@ Full List of Completed Projects in Numerical Order:
 826. Most Profit Assigning Work (Medium)
 835. Image Overlap (Medium)
 836. Rectangle Overlap (Easy)
+840. Magic Squares In Grid (Medium)
 844. Backspace String Compare (Easy)
 846. Hand of Straights (Medium)
 852. Peak Index in a Mountain Array (Medium)
