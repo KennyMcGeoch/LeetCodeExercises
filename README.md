@@ -428,6 +428,7 @@ Full List of Completed Projects in Numerical Order:
 1556. Thousand Separator (Easy)
 1561. Maximum Number of Coins You Can Get (Medium)
 1566. Detect Pattern of Length M Repeated K or More Times (Easy)
+1568. Minimum Number of Days to Disconnect Island (Hard)
 1572. Matrix Diagonal Sum (Easy)
 1578. Minimum Time to Make Rope Colorful (Medium)
 1579. Remove Max Number of Edges to Keep Graph Fully Traversable (Hard)
