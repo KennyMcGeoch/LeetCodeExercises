@@ -70,13 +70,6 @@ var minDays = function(grid) {
         return recurTwo(x+1,y) + recurTwo(x-1,y) + recurTwo(x,y+1) + recurTwo(x,y-1)
     }
     
-    function recur(x,y){
-        if (x < 0 || y < 0 || x === grid.length || y == len) return
-        if (grid[x][y] !== 1) return
-        grid[x][y] = 2
-        return recur(x+1,y) + recur(x-1,y) + recur(x,y+1) + recur(x,y-1)
-    }
-    
     function calc(x,y){
         if (x < 0 || y < 0 || x === grid.length || y == len) return 0
         else return grid[x][y]
