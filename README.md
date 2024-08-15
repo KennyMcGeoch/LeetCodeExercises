@@ -301,6 +301,7 @@ Full List of Completed Projects in Numerical Order:
 846. Hand of Straights (Medium)
 852. Peak Index in a Mountain Array (Medium)
 859. Buddy Strings (Easy)
+860. Lemonade Change (Easy)
 861. Score After Flipping Matrix (Medium)
 867. Transpose Matrix (Easy)
 872. Leaf-Similar Trees (Easy)
