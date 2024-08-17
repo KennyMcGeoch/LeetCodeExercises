@@ -507,6 +507,7 @@ Full List of Completed Projects in Numerical Order:
 1929. Concatenation of Array (Easy)
 1930. Unique Length-3 Palindromic Subsequences (Medium)
 1934. Confirmation Rate (Medium)
+1937. Maximum Number of Points with Cost (Medium)
 1946. Largest Number After Mutating Substring (Medium)
 1965. Employees With Missing Information (Easy)
 1971. Find if Path Exists in Graph (Easy)
