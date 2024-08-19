@@ -260,6 +260,7 @@ Full List of Completed Projects in Numerical Order:
 647. Palindromic Substrings (Medium)
 648. Replace Words (Medium)
 649. Dota2 Senate (Medium)
+650. 2 Keys Keyboard (Medium)
 653. Two Sum IV - Input is a BST (Easy)
 661. Image Smoother (Easy)
 674. Longest Continuous Increasing Subsequence (Easy)
