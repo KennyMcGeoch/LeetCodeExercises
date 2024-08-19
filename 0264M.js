@@ -51,3 +51,29 @@ let uglyArr = [1]
     return uglyArr[n-1]
     
 };
+
+/**
+ * @param {number} n
+ * @return {number}
+ * Runtime: 54 ms, faster than 90.55% of JavaScript online submissions for Ugly Number II.
+ * Memory Usage: 50.5 MB, less than 89.76% of JavaScript online submissions for Ugly Number II.
+ */
+let uglySet = new Set()
+
+function recur(num, ops){
+    if (ops > 30) return
+    if (uglySet.has(num)) return
+    uglySet.add(num)
+    recur(num*2, ops+1)
+    recur(num*3, ops+1)
+    recur(num*5, ops+1)
+    return
+}
+recur(1,0)
+uglyArr = [...uglySet].sort((a,b)=>a-b)
+
+ var nthUglyNumber = function(n) {
+
+    return uglyArr[n-1]
+    
+};
