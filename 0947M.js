@@ -31,3 +31,85 @@
     return iterations - groups
     
 };
+
+/**
+ * @param {number[][]} stones
+ * @return {number}
+ * Runtime: 216 ms, faster than 17.70% of JavaScript online submissions for Most Stones Removed with Same Row or Column.
+ * Memory Usage: 57 MB, less than 50.44% of JavaScript online submissions for Most Stones Removed with Same Row or Column.
+ */
+var removeStones = function(stones) {
+
+    let ans = 0
+    
+    while (stones.length){
+        let x = new Set()
+        let y = new Set()
+        let changed = true
+        x.add(stones[stones.length-1][0])
+        y.add(stones[stones.length-1][1])
+        stones.pop()
+        while(changed){
+            changed = false
+            for (let i=0; i<stones.length; i++){
+                if (x.has(stones[i][0])){
+                    y.add(stones[i][1])
+                    stones[i] = ""
+                    changed = true
+                    ans++
+                }
+                else if (y.has(stones[i][1])){
+                    x.add(stones[i][0])
+                    stones[i] = ""
+                    changed = true
+                    ans++
+                }
+            }
+            stones = stones.filter((a)=> a !== "")
+        }
+    }
+
+    return ans
+    
+};
+
+/**
+ * @param {number[][]} stones
+ * @return {number}
+ * Runtime: 212 ms, faster than 17.70% of JavaScript online submissions for Most Stones Removed with Same Row or Column.
+ * Memory Usage: 56.6 MB, less than 53.10% of JavaScript online submissions for Most Stones Removed with Same Row or Column.
+ */
+var removeStones = function(stones) {
+
+    let ans = 0
+    
+    while (stones.length){
+        let x = new Set()
+        let y = new Set()
+        let changed = true
+        x.add(stones[stones.length-1][0])
+        y.add(stones[stones.length-1][1])
+        stones.pop()
+        while(changed){
+            changed = false
+            for (let i=stones.length-1; i>-1; i--){
+                if (x.has(stones[i][0])){
+                    y.add(stones[i][1])
+                    stones[i] = ""
+                    changed = true
+                    ans++
+                }
+                else if (y.has(stones[i][1])){
+                    x.add(stones[i][0])
+                    stones[i] = ""
+                    changed = true
+                    ans++
+                }
+            }
+            stones = stones.filter((a)=> a !== "")
+        }
+    }
+
+    return ans
+    
+};
