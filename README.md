@@ -499,6 +499,7 @@ Full List of Completed Projects in Numerical Order:
 1873. Calculate Special Bonus (Easy)
 1877. Minimize Maximum Pair Sum in Array (Medium)
 1887. Reduction Operations to Make the Array Elements Equal (Medium)
+1894. Find the Student that Will Replace the Chalk (Medium)
 1897. Redistribute Characters to Make All Strings Equal (Easy)
 1903. Largest Odd Number in String (Easy)
 1905. Count Sub Islands (Medium)
