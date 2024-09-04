@@ -307,6 +307,7 @@ Full List of Completed Projects in Numerical Order:
 861. Score After Flipping Matrix (Medium)
 867. Transpose Matrix (Easy)
 872. Leaf-Similar Trees (Easy)
+874. Walking Robot Simulation (Medium)
 876. Middle of the Linked List (Easy)
 881. Boats to Save People (Medium)
 885. Spiral Matrix III (Medium)
