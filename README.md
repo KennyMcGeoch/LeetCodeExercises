@@ -526,6 +526,7 @@ Full List of Completed Projects in Numerical Order:
 2017. Grid Game (Medium)
 2022. Convert 1D Array Into 2D Array (Easy)
 2024. Maximize the Confusion of an Exam (Medium)
+2028. Find Missing Observations (Medium)
 2037. Minimum Number of Moves to Seat Everyone (Easy)
 2038. Remove Colored Pieces if Both Neighbors are the Same Color (Medium)
 2053. Kth Distinct String in an Array (Easy)
