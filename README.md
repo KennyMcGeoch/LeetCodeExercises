@@ -552,6 +552,7 @@ Full List of Completed Projects in Numerical Order:
 2191. Sort the Jumbled Numbers (Medium)
 2196. Create Binary Tree From Descriptions (Medium)
 2206. Divide Array Into Equal Pairs (Easy)
+2220. Minimum Bit Flips to Convert Number (Easy)
 2221. Find Triangular Sum of an Array (Medium)
 2225. Find Players With Zero or One Losses (Medium)
 2235. Add Two Integers (Easy)
