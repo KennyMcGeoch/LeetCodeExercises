@@ -49,3 +49,28 @@ var countConsistentStrings = function(allowed, words) {
     return ans
     
 };
+
+/**
+ * @param {string} allowed
+ * @param {string[]} words
+ * @return {number}
+ * Runtime: 77 ms, faster than 84.30% of JavaScript online submissions for Count the Number of Consistent Strings.
+ * Memory Usage: 57.8 MB, less than 92.29% of JavaScript online submissions for Count the Number of Consistent Strings.
+ */
+var countConsistentStrings = function(allowed, words) {
+    
+    let ans = 0
+    let allowedSet = new Set(allowed)
+    
+    for (let i=0; i<words.length; i++){
+        ans += check(words[i])
+    }
+    
+    function check(str){
+        for (let j=0; j<str.length; j++)if (allowedSet.has(str[j]) === false) return 0
+        return 1
+    }
+    
+    return ans
+    
+};
