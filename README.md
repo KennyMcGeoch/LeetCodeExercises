@@ -386,6 +386,7 @@ Full List of Completed Projects in Numerical Order:
 1293. Shortest Path in a Grid with Obstacles Elimination (Hard)
 1306. Jump Game III (Medium)
 1309. Decrypt String from Alphabet to Integer Mapping (Easy)
+1310. XOR Queries of a Subarray (Medium)
 1323. Maximum 69 Number (Easy)
 1325. Delete Leaves With a Given Value (Medium)
 1327. List the Products Ordered in a Period (Easy)
