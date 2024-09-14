@@ -578,6 +578,7 @@ Full List of Completed Projects in Numerical Order:
 2404. Most Frequent Even Element (Easy)
 2413. Smallest Even Multiple (Easy)
 2418. Sort the People (Easy)
+2419. Longest Subarray With Maximum Bitwise AND (Medium)
 2427. Number of Common Factors (Easy)
 2433. Find The Original Array of Prefix Xor (Medium)
 2441. Largest Positive Integer That Exists With Its Negative (Easy)
