@@ -399,6 +399,7 @@ Full List of Completed Projects in Numerical Order:
 1356. Sort Integers by The Number of 1 Bits (Easy)
 1365. How Many Numbers Are Smaller Than the Current Number (Easy)
 1367. Linked List in Binary Tree (Medium)
+1371. Find the Longest Substring Containing Vowels in Even Counts (Medium)
 1378. Replace Employee ID With The Unique Identifier (Easy)
 1380. Lucky Numbers in a Matrix (Easy)
 1385. Find the Distance Value Between Two Arrays (Easy)
