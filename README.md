@@ -310,6 +310,7 @@ Full List of Completed Projects in Numerical Order:
 874. Walking Robot Simulation (Medium)
 876. Middle of the Linked List (Easy)
 881. Boats to Save People (Medium)
+884. Uncommon Words from Two Sentences (Easy)
 885. Spiral Matrix III (Medium)
 899. Orderly Queue (Hard)
 912. Sort an Array (Medium)
