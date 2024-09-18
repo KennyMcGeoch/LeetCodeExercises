@@ -106,6 +106,7 @@ Full List of Completed Projects in Numerical Order:
 171. Excel Sheet Column Number (Easy)
 175. Combine Two Tables (Easy)
 176. Second Highest Salary (Medium)
+179. Largest Number (Medium)
 180. Consecutive Numbers (Medium)
 181. Employees Earning More Than Their Managers (Easy)
 182. Duplicate Emails (Easy)
