@@ -128,6 +128,7 @@ Full List of Completed Projects in Numerical Order:
 209. Minimum Size Subarray Sum (Medium)
 210. Course Schedule II (Medium)
 212. Word Search II (Hard)
+214. Shortest Palindrome (Hard)
 215. Kth Largest Element in an Array (Medium)
 217. Contains Duplicate (Easy)
 219. Contains Duplicate II (Easy)
