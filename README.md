@@ -581,6 +581,7 @@ Full List of Completed Projects in Numerical Order:
 2402. Meeting Rooms III (Hard)
 2404. Most Frequent Even Element (Easy)
 2413. Smallest Even Multiple (Easy)
+2416. Sum of Prefix Scores of Strings (Hard)
 2418. Sort the People (Easy)
 2419. Longest Subarray With Maximum Bitwise AND (Medium)
 2427. Number of Common Factors (Easy)
