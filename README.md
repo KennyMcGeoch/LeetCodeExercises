@@ -258,6 +258,7 @@ Full List of Completed Projects in Numerical Order:
 626. Exchange Seats (Medium)
 627. Swap Salary (Easy)
 633. Sum of Square Numbers (Medium)
+641. Design Circular Deque (Medium)
 645. Set Mismatch (Easy)
 647. Palindromic Substrings (Medium)
 648. Replace Words (Medium)
