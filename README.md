@@ -406,6 +406,7 @@ Full List of Completed Projects in Numerical Order:
 1371. Find the Longest Substring Containing Vowels in Even Counts (Medium)
 1378. Replace Employee ID With The Unique Identifier (Easy)
 1380. Lucky Numbers in a Matrix (Easy)
+1381. Design a Stack With Increment Operation (Medium)
 1385. Find the Distance Value Between Two Arrays (Easy)
 1395. Count Number of Teams (Medium)
 1403. Minimum Subsequence in Non-Increasing Order (Easy)
