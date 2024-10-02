@@ -394,6 +394,7 @@ Full List of Completed Projects in Numerical Order:
 1323. Maximum 69 Number (Easy)
 1325. Delete Leaves With a Given Value (Medium)
 1327. List the Products Ordered in a Period (Easy)
+1331. Rank Transform of an Array (Easy)
 1337. The K Weakest Rows in a Matrix (Easy)
 1341. Movie Rating (Medium)
 1342. Number of Steps to Reduce a Number to Zero (Easy)
