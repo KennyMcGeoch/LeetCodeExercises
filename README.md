@@ -237,6 +237,7 @@ Full List of Completed Projects in Numerical Order:
 547. Number of Provinces (Medium)
 557. Reverse Words in a String III (Easy)
 566. Reshape the Matrix (Easy)
+567. Permutation in String (Medium)
 570. Managers with at Least 5 Direct Reports (Medium)
 575. Distribute Candies (Easy)
 577. Employee Bonus (Easy)
