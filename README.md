@@ -525,6 +525,7 @@ Full List of Completed Projects in Numerical Order:
 1937. Maximum Number of Points with Cost (Medium)
 1945. Sum of Digits of String After Convert (Easy)
 1946. Largest Number After Mutating Substring (Medium)
+1963. Minimum Number of Swaps to Make the String Balanced (Medium)
 1965. Employees With Missing Information (Easy)
 1971. Find if Path Exists in Graph (Easy)
 1978. Employees Whose Manager Left the Company (Easy)
