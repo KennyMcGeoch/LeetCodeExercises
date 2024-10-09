@@ -318,6 +318,7 @@ Full List of Completed Projects in Numerical Order:
 885. Spiral Matrix III (Medium)
 899. Orderly Queue (Hard)
 912. Sort an Array (Medium)
+921. Minimum Add to Make Parentheses Valid (Medium)
 930. Binary Subarrays With Sum (Medium)
 931. Minimum Falling Path Sum (Medium)
 933. Number of Recent Calls (Easy)
