@@ -330,6 +330,7 @@ Full List of Completed Projects in Numerical Order:
 948. Bag of Tokens (Medium)
 950. Reveal Cards In Increasing Order (Medium)
 953. Verifying an Alien Dictionary (Easy)
+962. Maximum Width Ramp (Medium)
 974. Subarray Sums Divisible by K (Medium)
 976. Largest Perimeter Triangle (Easy)
 977. Squares of a Sorted Array (Easy)
