@@ -525,6 +525,7 @@ Full List of Completed Projects in Numerical Order:
 1930. Unique Length-3 Palindromic Subsequences (Medium)
 1934. Confirmation Rate (Medium)
 1937. Maximum Number of Points with Cost (Medium)
+1942. The Number of the Smallest Unoccupied Chair (Medium)
 1945. Sum of Digits of String After Convert (Easy)
 1946. Largest Number After Mutating Substring (Medium)
 1963. Minimum Number of Swaps to Make the String Balanced (Medium)
