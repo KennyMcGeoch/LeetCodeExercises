@@ -589,6 +589,7 @@ Full List of Completed Projects in Numerical Order:
 2391. Minimum Amount of Time to Collect Garbage (Medium)
 2402. Meeting Rooms III (Hard)
 2404. Most Frequent Even Element (Easy)
+2406. Divide Intervals Into Minimum Number of Groups (Medium)
 2413. Smallest Even Multiple (Easy)
 2416. Sum of Prefix Scores of Strings (Hard)
 2418. Sort the People (Easy)
