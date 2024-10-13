@@ -258,6 +258,7 @@ Full List of Completed Projects in Numerical Order:
 624. Maximum Distance in Arrays (Medium)
 626. Exchange Seats (Medium)
 627. Swap Salary (Easy)
+632. Smallest Range Covering Elements from K Lists (Hard)
 633. Sum of Square Numbers (Medium)
 641. Design Circular Deque (Medium)
 645. Set Mismatch (Easy)
