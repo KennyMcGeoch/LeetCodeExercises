@@ -656,6 +656,7 @@ Full List of Completed Projects in Numerical Order:
 2849. Determine if a Cell Is Reachable at a Given Time (Medium)
 2864. Maximum Odd Binary Number (Easy)
 2870. Minimum Number of Operations to Make Array Empty (Medium)
+2938. Separate Black and White Balls (Medium)
 2958. Length of Longest Subarray With at Most K Frequency (Medium)
 2962. Count Subarrays Where Max Element Appears at Least K Times (Medium)
 2966. Divide Array Into Arrays With Max Difference (Medium)
