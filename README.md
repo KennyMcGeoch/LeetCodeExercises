@@ -268,6 +268,7 @@ Full List of Completed Projects in Numerical Order:
 650. 2 Keys Keyboard (Medium)
 653. Two Sum IV - Input is a BST (Easy)
 661. Image Smoother (Easy)
+670. Maximum Swap (Medium)
 674. Longest Continuous Increasing Subsequence (Easy)
 678. Valid Parenthesis String (Medium)
 680. Valid Palindrome II (Easy)
