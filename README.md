@@ -446,6 +446,7 @@ Full List of Completed Projects in Numerical Order:
 1535. Find the Winner of an Array Game (Medium)
 1539. Kth Missing Positive Number (Easy)
 1544. Make The String Great (Easy)
+1545. Find Kth Bit in Nth Binary String (Medium)
 1550. Three Consecutive Odds (Easy)
 1556. Thousand Separator (Easy)
 1561. Maximum Number of Coins You Can Get (Medium)
