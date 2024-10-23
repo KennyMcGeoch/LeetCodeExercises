@@ -632,6 +632,7 @@ Full List of Completed Projects in Numerical Order:
 2629. Function Composition (Easy)
 2634. Filter Elements from Array (Easy)
 2635. Apply Transform Over Each Element in Array (Easy)
+2641. Cousins in Binary Tree II (Medium)
 2648. Generate Fibonacci Sequence (Easy)
 2649. Nested Array Generator (Medium)
 2651. Calculate Delayed Arrival Time (Easy)
