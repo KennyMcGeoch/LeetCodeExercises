@@ -331,6 +331,7 @@ Full List of Completed Projects in Numerical Order:
 947. Most Stones Removed with Same Row or Column (Medium)
 948. Bag of Tokens (Medium)
 950. Reveal Cards In Increasing Order (Medium)
+951. Flip Equivalent Binary Trees (Medium)
 953. Verifying an Alien Dictionary (Easy)
 962. Maximum Width Ramp (Medium)
 974. Subarray Sums Divisible by K (Medium)
