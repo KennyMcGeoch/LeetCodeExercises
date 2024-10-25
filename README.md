@@ -381,6 +381,7 @@ Full List of Completed Projects in Numerical Order:
 1221. Split a String in Balanced Strings (Easy)
 1227. Airplane Seat Assignment Probability (Medium)
 1232. Check If It Is a Straight Line (Easy)
+1233. Remove Sub-Folders from the Filesystem (Medium)
 1248. Count Number of Nice Subarrays (Medium)
 1249. Minimum Remove to Make Valid Parentheses (Medium)
 1251. Average Selling Price (Easy)
