@@ -534,6 +534,7 @@ Full List of Completed Projects in Numerical Order:
 1942. The Number of the Smallest Unoccupied Chair (Medium)
 1945. Sum of Digits of String After Convert (Easy)
 1946. Largest Number After Mutating Substring (Medium)
+1957. Delete Characters to Make Fancy String (Easy)
 1963. Minimum Number of Swaps to Make the String Balanced (Medium)
 1965. Employees With Missing Information (Easy)
 1971. Find if Path Exists in Graph (Easy)
