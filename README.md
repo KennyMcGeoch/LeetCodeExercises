@@ -614,6 +614,7 @@ Full List of Completed Projects in Numerical Order:
 2485. Find the Pivot Integer (Easy)
 2486. Append Characters to String to Make Subsequence (Medium)
 2487. Remove Nodes From Linked List (Medium)
+2490. Circular Sentence (Easy)
 2491. Divide Players Into Teams of Equal Skill (Medium)
 2501. Longest Square Streak in an Array (Medium)
 2506. Count Pairs Of Similar Strings (Easy)
