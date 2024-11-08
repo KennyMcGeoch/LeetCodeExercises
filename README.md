@@ -510,6 +510,7 @@ Full List of Completed Projects in Numerical Order:
 1814. Count Nice Pairs in an Array (Medium)
 1822. Sign of the Product of an Array (Easy)
 1823. Find the Winner of the Circular Game (Medium)
+1829. Maximum XOR for Each Query (Medium)
 1832. Check if the Sentence Is Pangram (Easy)
 1845. Seat Reservation Manager (Medium)
 1846. Maximum Element After Decreasing and Rearranging (Medium)
