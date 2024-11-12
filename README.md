@@ -554,6 +554,7 @@ Full List of Completed Projects in Numerical Order:
 2038. Remove Colored Pieces if Both Neighbors are the Same Color (Medium)
 2053. Kth Distinct String in an Array (Easy)
 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points (Medium)
+2070. Most Beautiful Item for Each Query (Medium)
 2073. Time Needed to Buy Tickets (Easy)
 2089. Find Target Indices After Sorting Array (Easy)
 2095. Delete the Middle Node of a Linked List (Medium)
