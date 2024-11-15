@@ -455,6 +455,7 @@ Full List of Completed Projects in Numerical Order:
 1566. Detect Pattern of Length M Repeated K or More Times (Easy)
 1568. Minimum Number of Days to Disconnect Island (Hard)
 1572. Matrix Diagonal Sum (Easy)
+1574. Shortest Subarray to be Removed to Make Array Sorted (Medium)
 1578. Minimum Time to Make Rope Colorful (Medium)
 1579. Remove Max Number of Edges to Keep Graph Fully Traversable (Hard)
 1581. Customer Who Visited but Did Not Make Any Transactions (Easy)
