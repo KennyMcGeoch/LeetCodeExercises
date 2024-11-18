@@ -473,6 +473,7 @@ Full List of Completed Projects in Numerical Order:
 1636. Sort Array by Increasing Frequency (Easy)
 1637. Widest Vertical Area Between Two Points Containing No Points (Medium)
 1647. Minimum Deletions to Make Character Frequencies Unique (Medium)
+1652. Defuse the Bomb (Easy)
 1653. Minimum Deletions to Make String Balanced (Medium)
 1657. Determine if Two Strings Are Close (Medium)
 1661. Average Time of Process per Machine (Easy)
