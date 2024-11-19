@@ -611,6 +611,7 @@ Full List of Completed Projects in Numerical Order:
 2441. Largest Positive Integer That Exists With Its Negative (Easy)
 2455. Average Value of Even Numbers That Are Divisible by Three (Easy)
 2460. Apply Operations to an Array (Easy)
+2461. Maximum Sum of Distinct Subarrays With Length K (Medium)
 2465. Number of Distinct Averages (Easy)
 2469. Convert the Temperature (Easy)
 2481. Minimum Cuts to Divide a Circle (Easy)
