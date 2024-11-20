@@ -624,6 +624,7 @@ Full List of Completed Projects in Numerical Order:
 2491. Divide Players Into Teams of Equal Skill (Medium)
 2501. Longest Square Streak in an Array (Medium)
 2506. Count Pairs Of Similar Strings (Easy)
+2516. Take K of Each Character From Left and Right (Medium)
 2529. Maximum Count of Positive Integer and Negative Integer (Easy)
 2540. Minimum Common Value (Easy)
 2562. Find the Array Concatenation Value (Easy)
