@@ -354,6 +354,7 @@ Full List of Completed Projects in Numerical Order:
 1052. Grumpy Bookstore Owner (Medium)
 1068. Product Sales Analysis I (Easy)
 1070. Product Sales Analysis III (Medium)
+1072. Flip Columns For Maximum Number of Equal Rows (Medium)
 1075. Project Employees I (Easy)
 1078. Occurrences After Bigram (Easy)
 1089. Duplicate Zeros (Easy)
