@@ -518,6 +518,7 @@ Full List of Completed Projects in Numerical Order:
 1845. Seat Reservation Manager (Medium)
 1846. Maximum Element After Decreasing and Rearranging (Medium)
 1855. Maximum Distance Between a Pair of Values (Medium)
+1861. Rotating the Box (Medium)
 1869. Longer Contiguous Segments of Ones than Zeros (Easy)
 1871. Jump Game VII (Medium)
 1873. Calculate Special Bonus (Easy)
