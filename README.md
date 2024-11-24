@@ -543,6 +543,7 @@ Full List of Completed Projects in Numerical Order:
 1963. Minimum Number of Swaps to Make the String Balanced (Medium)
 1965. Employees With Missing Information (Easy)
 1971. Find if Path Exists in Graph (Easy)
+1975. Maximum Matrix Sum (Medium)
 1978. Employees Whose Manager Left the Company (Easy)
 1979. Find Greatest Common Divisor of Array (Easy)
 1980. Find Unique Binary String (Medium)
