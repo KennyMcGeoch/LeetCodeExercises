@@ -566,6 +566,7 @@ Full List of Completed Projects in Numerical Order:
 2096. Step-By-Step Directions From a Binary Tree Node to Another (Medium)
 2099. Find Subsequence of Length K With the Largest Sum (Easy)
 2108. Find First Palindromic String in the Array (Easy)
+2109. Adding Spaces to a String (Medium)
 2124. Check if All A's Appears Before All B's (Easy)
 2125. Number of Laser Beams in a Bank (Medium)
 2130. Maximum Twin Sum of a Linked List (Medium)
