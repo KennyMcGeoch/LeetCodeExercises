@@ -597,6 +597,7 @@ Full List of Completed Projects in Numerical Order:
 2319. Check if Matrix Is X-Matrix (Easy)
 2326. Spiral Matrix IV (Medium)
 2331. Evaluate Boolean Binary Tree (Easy)
+2337. Move Pieces to Obtain a String (Medium)
 2341. Maximum Number of Pairs in Array (Easy)
 2348. Number of Zero-Filled Subarrays (Medium)
 2356. Number of Unique Subjects Taught by Each Teacher (Easy)
