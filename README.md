@@ -502,6 +502,7 @@ Full List of Completed Projects in Numerical Order:
 1757. Recyclable and Low Fat Products (Easy)
 1758. Minimum Changes To Make Alternating Binary String (Easy)
 1759. Count Number of Homogenous Substrings (Medium)
+1760. Minimum Limit of Balls in a Bag (Medium)
 1768. Merge Strings Alternately (Easy)
 1731. The Number of Employees Which Report to Each Employee (Easy)
 1791. Find Center of Star Graph (Easy)
