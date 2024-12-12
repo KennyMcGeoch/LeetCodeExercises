@@ -634,6 +634,7 @@ Full List of Completed Projects in Numerical Order:
 2529. Maximum Count of Positive Integer and Negative Integer (Easy)
 2540. Minimum Common Value (Easy)
 2554. Maximum Number of Integers to Choose From a Range I (Medium)
+2558. Take Gifts From the Richest Pile (Easy)
 2562. Find the Array Concatenation Value (Easy)
 2578. Split With Minimum Sum (Easy)
 2579. Count Total Number of Colored Cells (Medium)
