@@ -579,6 +579,7 @@ Full List of Completed Projects in Numerical Order:
 2149. Rearrange Array Elements by Sign (Medium)
 2154. Keep Multiplying Found Values by Two (Easy)
 2181. Merge Nodes in Between Zeros (Medium)
+2182. Construct String With Repeat Limit (Medium)
 2191. Sort the Jumbled Numbers (Medium)
 2196. Create Binary Tree From Descriptions (Medium)
 2206. Divide Array Into Equal Pairs (Easy)
