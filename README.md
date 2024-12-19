@@ -295,6 +295,7 @@ Full List of Completed Projects in Numerical Order:
 747. Largest Number At Least Twice of Others (Easy)
 752. Open the Lock (Medium)
 766. Toeplitz Matrix (Easy)
+769. Max Chunks To Make Sorted (Medium)
 787. Cheapest Flights Within K Stops (Medium)
 783. Minimum Distance Between BST Nodes (Easy)
 796. Rotate String (Easy)
