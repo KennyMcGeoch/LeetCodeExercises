@@ -612,6 +612,7 @@ Full List of Completed Projects in Numerical Order:
 2404. Most Frequent Even Element (Easy)
 2406. Divide Intervals Into Minimum Number of Groups (Medium)
 2413. Smallest Even Multiple (Easy)
+2415. Reverse Odd Levels of Binary Tree (Medium)
 2416. Sum of Prefix Scores of Strings (Hard)
 2418. Sort the People (Easy)
 2419. Longest Subarray With Maximum Bitwise AND (Medium)
