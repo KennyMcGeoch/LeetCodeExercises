@@ -217,6 +217,7 @@ Full List of Completed Projects in Numerical Order:
 476. Number Complement (Easy)
 485. Max Consecutive Ones (Easy)
 492. Construct the Rectangle (Easy)
+494. Target Sum (Medium)
 495. Teemo Attacking (Easy)
 496. Next Greater Element I (Easy)
 500. Keyboard Row (Easy)
