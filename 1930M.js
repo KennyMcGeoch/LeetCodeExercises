@@ -56,3 +56,31 @@ var countPalindromicSubsequence = function(s) {
     return ans
     
 };
+
+/**
+ * @param {string} s
+ * @return {number}
+ * Runtime 263ms Beats 95.74%
+ * Memory 61.77MB Beats 8.51%
+ */
+var countPalindromicSubsequence = function(s) {
+    
+    let hashMax = {}
+    let ans = 0
+    
+    for (let i=0; i<s.length; i++){
+        if (hashMax[s[i]] === undefined) hashMax[s[i]] = [i,0]
+        else hashMax[s[i]][1] = i
+    }
+    
+    for (x in hashMax){
+        if (hashMax[x][1] === 0)continue
+        else {
+            let temp = s.slice(hashMax[x][0]+1, hashMax[x][1]).split("")
+            temp = new Set(temp)
+            ans += temp.size
+        }
+    }
+    return ans
+    
+};
