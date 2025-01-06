@@ -508,6 +508,7 @@ Full List of Completed Projects in Numerical Order:
 1759. Count Number of Homogenous Substrings (Medium)
 1760. Minimum Limit of Balls in a Bag (Medium)
 1768. Merge Strings Alternately (Easy)
+1769. Minimum Number of Operations to Move All Balls to Each Box (Medium)
 1731. The Number of Employees Which Report to Each Employee (Easy)
 1791. Find Center of Star Graph (Easy)
 1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy)
