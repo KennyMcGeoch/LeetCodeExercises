@@ -424,6 +424,7 @@ Full List of Completed Projects in Numerical Order:
 1403. Minimum Subsequence in Non-Increasing Order (Easy)
 1404. Number of Steps to Reduce a Number in Binary Representation to One (Medium)
 1405. Longest Happy String (Medium)
+1408. String Matching in an Array
 1422. Maximum Score After Splitting a String (Easy)
 1436. Destination City (Easy)
 1441. Build an Array With Stack Operations (Medium)
