@@ -422,6 +422,7 @@ Full List of Completed Projects in Numerical Order:
 1381. Design a Stack With Increment Operation (Medium)
 1385. Find the Distance Value Between Two Arrays (Easy)
 1395. Count Number of Teams (Medium)
+1400. Construct K Palindrome Strings (Medium)
 1403. Minimum Subsequence in Non-Increasing Order (Easy)
 1404. Number of Steps to Reduce a Number in Binary Representation to One (Medium)
 1405. Longest Happy String (Medium)
