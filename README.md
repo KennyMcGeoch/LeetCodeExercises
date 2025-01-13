@@ -716,6 +716,7 @@ Full List of Completed Projects in Numerical Order:
 3152. Special Array II (Medium)
 3163. String Compression III (Medium)
 3217. Delete Nodes From Linked List Present in Array (Medium)
+3223. Minimum Length of String After Operations (Medium)
 3243. Shortest Distance After Road Addition Queries I (Medium)
 3254. Find the Power of K-Size Subarrays I (Medium)
 3264. Final Array State After K Multiplication Operations I (Easy)
