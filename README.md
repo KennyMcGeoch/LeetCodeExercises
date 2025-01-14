@@ -674,6 +674,7 @@ Full List of Completed Projects in Numerical Order:
 2649. Nested Array Generator (Medium)
 2651. Calculate Delayed Arrival Time (Easy)
 2652. Sum Multiples (Easy)
+2657. Find the Prefix Common Array of Two Arrays (Medium)
 2665. Counter II (Easy)
 2666. Allow One Function Call (Easy)
 2667. Create Hello World Function (Easy)
