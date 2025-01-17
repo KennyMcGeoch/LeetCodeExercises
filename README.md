@@ -681,6 +681,7 @@ Full List of Completed Projects in Numerical Order:
 2667. Create Hello World Function (Easy)
 2677. Chunk Array (Easy)
 2678. Number of Senior Citizens (Easy)
+2683. Neighboring Bitwise XOR (Medium)
 2695. Array Wrapper (Easy)
 2696. Minimum String Length After Removing Substrings (Easy)
 2703. Return Length of Arguments Passed (Easy)
