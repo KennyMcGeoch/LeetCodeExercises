@@ -304,6 +304,7 @@ Full List of Completed Projects in Numerical Order:
 791. Custom Sort String (Medium)
 815. Bus Routes (Hard)
 826. Most Profit Assigning Work (Medium)
+827. Making A Large Island (Hard)
 835. Image Overlap (Medium)
 836. Rectangle Overlap (Easy)
 840. Magic Squares In Grid (Medium)
