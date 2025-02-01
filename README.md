@@ -720,6 +720,7 @@ Full List of Completed Projects in Numerical Order:
 3100. Water Bottles II (Medium)
 3110. Score of a String (Easy)
 3133. Minimum Array End (Medium)
+3151. Special Array I (Easy)
 3152. Special Array II (Medium)
 3163. String Compression III (Medium)
 3217. Delete Nodes From Linked List Present in Array (Medium)
