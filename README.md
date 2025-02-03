@@ -719,6 +719,7 @@ Full List of Completed Projects in Numerical Order:
 3043. Find the Length of the Longest Common Prefix (Medium)
 3075. Maximize Happiness of Selected Children (Medium)
 3100. Water Bottles II (Medium)
+3105. Longest Strictly Increasing or Strictly Decreasing Subarray (Easy)
 3110. Score of a String (Easy)
 3133. Minimum Array End (Medium)
 3151. Special Array I (Easy)
