@@ -522,6 +522,7 @@ Full List of Completed Projects in Numerical Order:
 1789. Primary Department for Each Employee (Easy)
 1790. Check if One String Swap Can Make Strings Equal (Easy)
 1793. Maximum Score of a Good Subarray (Hard)
+1800. Maximum Ascending Subarray Sum (Easy)
 1814. Count Nice Pairs in an Array (Medium)
 1822. Sign of the Product of an Array (Easy)
 1823. Find the Winner of the Circular Game (Medium)
