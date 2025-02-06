@@ -502,6 +502,7 @@ Full List of Completed Projects in Numerical Order:
 1706. Where Will the Ball Fall (Medium)
 1716. Calculate Money in Leetcode Bank (Easy)
 1721. Swapping Nodes in a Linked List (Medium)
+1726. Tuple with Same Product (Medium)
 1727. Largest Submatrix With Rearrangements (Medium)
 1729. Find Followers Count (Easy)
 1732. Find the Highest Altitude (Easy)
