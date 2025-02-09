@@ -619,6 +619,7 @@ Full List of Completed Projects in Numerical Order:
 2341. Maximum Number of Pairs in Array (Easy)
 2348. Number of Zero-Filled Subarrays (Medium)
 2356. Number of Unique Subjects Taught by Each Teacher (Easy)
+2364. Count Number of Bad Pairs (Medium)
 2370. Longest Ideal Subsequence (Medium)
 2373. Largest Local Values in a Matrix (Easy)
 2391. Minimum Amount of Time to Collect Garbage (Medium)
