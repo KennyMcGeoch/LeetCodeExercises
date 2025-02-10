@@ -728,6 +728,7 @@ Full List of Completed Projects in Numerical Order:
 3151. Special Array I (Easy)
 3152. Special Array II (Medium)
 3163. String Compression III (Medium)
+3174. Clear Digits (Easy)
 3217. Delete Nodes From Linked List Present in Array (Medium)
 3223. Minimum Length of String After Operations (Medium)
 3243. Shortest Distance After Road Addition Queries I (Medium)
