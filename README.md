@@ -618,6 +618,7 @@ Full List of Completed Projects in Numerical Order:
 2331. Evaluate Boolean Binary Tree (Easy)
 2337. Move Pieces to Obtain a String (Medium)
 2341. Maximum Number of Pairs in Array (Easy)
+2342. Max Sum of a Pair With Equal Sum of Digits (Medium)
 2348. Number of Zero-Filled Subarrays (Medium)
 2356. Number of Unique Subjects Taught by Each Teacher (Easy)
 2364. Count Number of Bad Pairs (Medium)
