@@ -392,6 +392,7 @@ Full List of Completed Projects in Numerical Order:
 1249. Minimum Remove to Make Valid Parentheses (Medium)
 1251. Average Selling Price (Easy)
 1255. Maximum Score Words Formed by Letters (Hard)
+1261. Find Elements in a Contaminated Binary Tree (Medium)
 1266. Minimum Time Visiting All Points (Easy)
 1267. Count Servers that Communicate (Medium)
 1280. Students and Examinations (Easy)
