@@ -1,7 +1,7 @@
 /**
  * @param {number[]} arr
  * @return {number}
- * Runtime 4ms Beats100.00%
+ * Runtime 4ms Beats 100.00%
  * Memory 65.32MB Beats 14.29%
  */
 var numOfSubarrays = function(arr) {
