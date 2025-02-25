@@ -457,6 +457,7 @@ Full List of Completed Projects in Numerical Order:
 1513. Number of Substrings With Only 1s (Medium)
 1518. Water Bottles (Easy)
 1523. Count Odd Numbers in an Interval Range (Easy)
+1524. Number of Sub-arrays With Odd Sum (Medium)
 1527. Patients With a Condition (Easy)
 1528. Shuffle String (Easy)
 1535. Find the Winner of an Array Game (Medium)
