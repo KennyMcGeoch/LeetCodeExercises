@@ -514,6 +514,7 @@ Full List of Completed Projects in Numerical Order:
 1732. Find the Highest Altitude (Easy)
 1743. Restore the Array From Adjacent Pairs (Medium)
 1748. Sum of Unique Elements (Easy)
+1749. Maximum Absolute Sum of Any Subarray (Medium)
 1750. Minimum Length of String After Deleting Similar Ends (Medium)
 1752. Check if Array Is Sorted and Rotated (Easy)
 1757. Recyclable and Low Fat Products (Easy)
