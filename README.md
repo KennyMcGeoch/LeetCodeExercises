@@ -668,6 +668,7 @@ Full List of Completed Projects in Numerical Order:
 2558. Take Gifts From the Richest Pile (Easy)
 2559. Count Vowel Strings in Ranges (Medium)
 2562. Find the Array Concatenation Value (Easy)
+2570. Merge Two 2D Arrays by Summing Values (Easy)
 2578. Split With Minimum Sum (Easy)
 2579. Count Total Number of Colored Cells (Medium)
 2582. Pass the Pillow (Easy)
