@@ -601,6 +601,7 @@ Full List of Completed Projects in Numerical Order:
 2148. Count Elements With Strictly Smaller and Greater Elements (Easy)
 2149. Rearrange Array Elements by Sign (Medium)
 2154. Keep Multiplying Found Values by Two (Easy)
+2161. Partition Array According to Given Pivot (Medium)
 2181. Merge Nodes in Between Zeros (Medium)
 2182. Construct String With Repeat Limit (Medium)
 2185. Counting Words With a Given Prefix (Easy)
