@@ -726,6 +726,7 @@ Full List of Completed Projects in Numerical Order:
 2938. Separate Black and White Balls (Medium)
 2958. Length of Longest Subarray With at Most K Frequency (Medium)
 2962. Count Subarrays Where Max Element Appears at Least K Times (Medium)
+2965. Find Missing and Repeated Values (Easy)
 2966. Divide Array Into Arrays With Max Difference (Medium)
 2971. Find Polygon With the Largest Perimeter (Medium)
 2981. Find Longest Special Substring That Occurs Thrice I (Medium)
