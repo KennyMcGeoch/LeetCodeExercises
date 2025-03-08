@@ -633,6 +633,7 @@ Full List of Completed Projects in Numerical Order:
 2364. Count Number of Bad Pairs (Medium)
 2370. Longest Ideal Subsequence (Medium)
 2373. Largest Local Values in a Matrix (Easy)
+2379. Minimum Recolors to Get K Consecutive Black Blocks (Easy)
 2391. Minimum Amount of Time to Collect Garbage (Medium)
 2402. Meeting Rooms III (Hard)
 2404. Most Frequent Even Element (Easy)
