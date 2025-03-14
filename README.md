@@ -612,6 +612,7 @@ Full List of Completed Projects in Numerical Order:
 2220. Minimum Bit Flips to Convert Number (Easy)
 2221. Find Triangular Sum of an Array (Medium)
 2225. Find Players With Zero or One Losses (Medium)
+2226. Maximum Candies Allocated to K Children (Medium)
 2235. Add Two Integers (Easy)
 2236. Root Equals Sum of Children (Easy)
 2243. Calculate Digit Sum of a String (Easy)
