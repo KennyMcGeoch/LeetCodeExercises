@@ -671,6 +671,7 @@ Full List of Completed Projects in Numerical Order:
 2554. Maximum Number of Integers to Choose From a Range I (Medium)
 2558. Take Gifts From the Richest Pile (Easy)
 2559. Count Vowel Strings in Ranges (Medium)
+2560. House Robber IV (Medium)
 2562. Find the Array Concatenation Value (Easy)
 2570. Merge Two 2D Arrays by Summing Values (Easy)
 2578. Split With Minimum Sum (Easy)
