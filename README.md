@@ -680,6 +680,7 @@ Full List of Completed Projects in Numerical Order:
 2583. Kth Largest Sum in a Binary Tree (Medium)
 2591. Distribute Money to Maximum Children (Easy)
 2593. Find Score of an Array After Marking All Elements (Medium)
+2594. Minimum Time to Repair Cars (Medium)
 2601. Prime Subtraction Operation (Medium)
 2610. Convert an Array Into a 2D Array With Conditions (Medium)
 2619. Array Prototype Last (Easy)
