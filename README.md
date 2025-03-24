@@ -748,6 +748,7 @@ Full List of Completed Projects in Numerical Order:
 3151. Special Array I (Easy)
 3152. Special Array II (Medium)
 3163. String Compression III (Medium)
+3169. Count Days Without Meetings (Medium)
 3174. Clear Digits (Easy)
 3191. Minimum Operations to Make Binary Array Elements Equal to One I (Medium)
 3208. Alternating Groups II (Medium)
