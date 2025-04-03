@@ -731,6 +731,7 @@ Full List of Completed Projects in Numerical Order:
 2864. Maximum Odd Binary Number (Easy)
 2870. Minimum Number of Operations to Make Array Empty (Medium)
 2873. Maximum Value of an Ordered Triplet I (Easy)
+2874. Maximum Value of an Ordered Triplet II (Medium)
 2914. Minimum Number of Changes to Make Binary String Beautiful (Medium)
 2924. Find Champion II (Medium)
 2938. Separate Black and White Balls (Medium)
