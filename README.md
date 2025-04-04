@@ -368,6 +368,7 @@ Full List of Completed Projects in Numerical Order:
 1095. Find in Mountain Array (Hard)
 1110. Delete Nodes And Return Forest (Medium)
 1122. Relative Sort Array (Easy)
+1123. Lowest Common Ancestor of Deepest Leaves (Medium)
 1137. N-th Tribonacci Number (Easy)
 1141. User Activity for the Past 30 Days I (Easy)
 1143. Longest Common Subsequence (Medium)
