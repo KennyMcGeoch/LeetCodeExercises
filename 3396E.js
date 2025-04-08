@@ -22,3 +22,24 @@ var minimumOperations = function(nums) {
 
     return ans
 };
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ * Runtime 1ms Beats100.00%
+ * Memory 57.08MB Beats 54.02%
+ */
+var minimumOperations = function(nums) {
+    let arr = new Array(101).fill(-1)
+    let dupe = -1
+
+
+    for (let i = 0; i<nums.length; i++){
+        if (arr[nums[i]] !== -1){
+            dupe = Math.max(arr[nums[i]],dupe)
+        }
+        arr[nums[i]] = i
+    }
+
+    return Math.ceil((dupe+1)/3)
+};
