@@ -765,3 +765,4 @@ Full List of Completed Projects in Numerical Order:
 3254. Find the Power of K-Size Subarrays I (Medium)
 3264. Final Array State After K Multiplication Operations I (Easy)
 3394. Check if Grid can be Cut into Sections (Medium)
+3396. Minimum Number of Operations to Make Elements in Array Distinct (Easy)
