@@ -463,6 +463,7 @@ Full List of Completed Projects in Numerical Order:
 1524. Number of Sub-arrays With Odd Sum (Medium)
 1527. Patients With a Condition (Easy)
 1528. Shuffle String (Easy)
+1534. Count Good Triplets (Easy)
 1535. Find the Winner of an Array Game (Medium)
 1539. Kth Missing Positive Number (Easy)
 1544. Make The String Great (Easy)
