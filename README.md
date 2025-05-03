@@ -348,6 +348,7 @@ Full List of Completed Projects in Numerical Order:
 994. Rotting Oranges (Medium)
 997. Find the Town Judge (Easy)
 1002. Find Common Characters (Easy)
+1007. Minimum Domino Rotations For Equal Row (Medium)
 1009. Complement of Base 10 Integer (Easy)
 1014. Best Sightseeing Pair (Medium)
 1026. Maximum Difference Between Node and Ancestor (Medium)
