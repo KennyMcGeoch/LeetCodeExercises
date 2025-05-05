@@ -300,6 +300,7 @@ Full List of Completed Projects in Numerical Order:
 781. Rabbits in Forest (Medium)
 783. Minimum Distance Between BST Nodes (Easy)
 787. Cheapest Flights Within K Stops (Medium)
+790. Domino and Tromino Tiling (Medium)
 796. Rotate String (Easy)
 779. K-th Symbol in Grammar (Medium)
 791. Custom Sort String (Medium)
