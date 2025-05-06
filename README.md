@@ -563,6 +563,7 @@ Full List of Completed Projects in Numerical Order:
 1907. Count Salary Categories (Medium)
 1910. Remove All Occurrences of a Substring (Medium)
 1913. Maximum Product Difference Between Two Pairs (Easy)
+1920. Build Array from Permutation (Easy)
 1921. Eliminate Maximum Number of Monsters (Medium)
 1926. Nearest Exit from Entrance in Maze (Medium)
 1929. Concatenation of Array (Easy)
