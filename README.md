@@ -749,6 +749,7 @@ Full List of Completed Projects in Numerical Order:
 2873. Maximum Value of an Ordered Triplet I (Easy)
 2874. Maximum Value of an Ordered Triplet II (Medium)
 2914. Minimum Number of Changes to Make Binary String Beautiful (Medium)
+2918. Minimum Equal Sum of Two Arrays After Replacing Zeros (Medium)
 2924. Find Champion II (Medium)
 2938. Separate Black and White Balls (Medium)
 2958. Length of Longest Subarray With at Most K Frequency (Medium)
