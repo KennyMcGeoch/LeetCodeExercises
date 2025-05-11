@@ -22,3 +22,25 @@
     return false
     
 };
+
+/**
+ * @param {number[]} arr
+ * @return {boolean}
+ * Runtime 0ms Beats100.00%
+ * Memory 52.71MB Beats 98.48%
+ */
+var threeConsecutiveOdds = function(arr) {
+
+    let odd = 0
+    let iterations = arr.length
+
+    for (i=0; i<iterations; i++){
+        if (arr[i] % 2 === 1){
+            if (++odd === 3)return true
+        }
+        else odd = 0
+    }
+
+    return false
+    
+};
