@@ -748,6 +748,7 @@ Full List of Completed Projects in Numerical Order:
 2870. Minimum Number of Operations to Make Array Empty (Medium)
 2873. Maximum Value of an Ordered Triplet I (Easy)
 2874. Maximum Value of an Ordered Triplet II (Medium)
+2900. Longest Unequal Adjacent Groups Subsequence I (Easy)
 2914. Minimum Number of Changes to Make Binary String Beautiful (Medium)
 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros (Medium)
 2924. Find Champion II (Medium)
