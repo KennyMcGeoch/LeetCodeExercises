@@ -37,6 +37,8 @@ var sortColors = function(nums) {
  * @return {void} Do not return anything, modify nums in-place instead.
  * Runtime: 44 ms, faster than 93.49% of JavaScript online submissions for Sort Colors.
  * Memory Usage: 48.4 MB, less than 91.32% of JavaScript online submissions for Sort Colors.
+ * Runtime 0ms Beats 100.00%
+ * Memory 54.38MB Beats 24.08%
  */
 var sortColors = function(nums) {
 
@@ -58,5 +60,29 @@ var sortColors = function(nums) {
     }
     else nums[i] = 2
     }   
+    
+};
+
+/**
+ * @param {number[]} nums
+ * @return {void} Do not return anything, modify nums in-place instead.
+ * Runtime 0ms Beats 100.00%
+ * Memory 53.37MB Beats 79.82%
+ */
+var sortColors = function(nums) {
+
+    let zero = 0
+    let one = 0
+    let ind = 0
+
+    for (let i=0; i<nums.length; i++){
+        if (nums[i] === 0) zero++
+        else if (nums[i] === 1) one++
+    }
+    while(zero--) nums[ind++] = 0
+    while(one--) nums[ind++] = 1
+    while(ind < nums.length) nums[ind++] = 2
+
+    return nums
     
 };
