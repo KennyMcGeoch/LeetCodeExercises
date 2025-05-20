@@ -782,6 +782,7 @@ Full List of Completed Projects in Numerical Order:
 3254. Find the Power of K-Size Subarrays I (Medium)
 3264. Final Array State After K Multiplication Operations I (Easy)
 3341. Find Minimum Time to Reach Last Room I (Medium)
+3355. Zero Array Transformation I (Medium)
 3375. Minimum Operations to Make Array Values Equal to K (Easy)
 3394. Check if Grid can be Cut into Sections (Medium)
 3392. Count Subarrays of Length Three With a Condition (Easy)
