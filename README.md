@@ -753,6 +753,7 @@ Full List of Completed Projects in Numerical Order:
 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros (Medium)
 2924. Find Champion II (Medium)
 2938. Separate Black and White Balls (Medium)
+2942. Find Words Containing Character (Easy)
 2958. Length of Longest Subarray With at Most K Frequency (Medium)
 2962. Count Subarrays Where Max Element Appears at Least K Times (Medium)
 2965. Find Missing and Repeated Values (Easy)
