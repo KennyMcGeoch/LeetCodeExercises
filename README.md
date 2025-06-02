@@ -84,6 +84,7 @@ Full List of Completed Projects in Numerical Order:
 125. Valid Palindrome (Easy)
 129. Sum Root to Leaf Numbers (Medium)
 131. Palindrome Partitioning (Medium)
+135. Candy (Hard)
 136. Single Number (Easy)
 137. Single Number II (Medium)
 140. Word Break II (Hard)
