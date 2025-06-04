@@ -792,3 +792,4 @@ Full List of Completed Projects in Numerical Order:
 3394. Check if Grid can be Cut into Sections (Medium)
 3392. Count Subarrays of Length Three With a Condition (Easy)
 3396. Minimum Number of Operations to Make Elements in Array Distinct (Easy)
+3403. Find the Lexicographically Largest String From the Box I (Medium)
