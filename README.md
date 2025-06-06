@@ -666,6 +666,7 @@ Full List of Completed Projects in Numerical Order:
 2425. Bitwise XOR of All Pairings (Medium)
 2427. Number of Common Factors (Easy)
 2433. Find The Original Array of Prefix Xor (Medium)
+2434. Using a Robot to Print the Lexicographically Smallest String (Medium)
 2441. Largest Positive Integer That Exists With Its Negative (Easy)
 2455. Average Value of Even Numbers That Are Divisible by Three (Easy)
 2460. Apply Operations to an Array (Easy)
