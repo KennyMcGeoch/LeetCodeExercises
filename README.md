@@ -189,6 +189,7 @@ Full List of Completed Projects in Numerical Order:
 374. Guess Number Higher or Lower (Easy)
 380. Insert Delete GetRandom O(1) (Medium)
 383. Ransom Note (Easy)
+386. Lexicographical Numbers (Medium)
 387. First Unique Character in a String (Easy)
 389. Find the Difference (Easy)
 392. Is Subsequence (Easy)
