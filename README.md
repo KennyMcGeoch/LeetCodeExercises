@@ -796,4 +796,5 @@ Full List of Completed Projects in Numerical Order:
 3392. Count Subarrays of Length Three With a Condition (Easy)
 3396. Minimum Number of Operations to Make Elements in Array Distinct (Easy)
 3403. Find the Lexicographically Largest String From the Box I (Medium)
+3423. Maximum Difference Between Adjacent Elements in a Circular Array (Easy)
 3442. Maximum Difference Between Even and Odd Frequency I (Easy)
