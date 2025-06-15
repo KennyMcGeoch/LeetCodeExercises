@@ -446,6 +446,7 @@ Full List of Completed Projects in Numerical Order:
 1408. String Matching in an Array
 1415. The k-th Lexicographical String of All Happy Strings of Length n (Medium)
 1422. Maximum Score After Splitting a String (Easy)
+1432. Max Difference You Can Get From Changing an Integer (Medium)
 1436. Destination City (Easy)
 1441. Build an Array With Stack Operations (Medium)
 1446. Consecutive Characters (Easy)
