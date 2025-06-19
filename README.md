@@ -644,6 +644,7 @@ Full List of Completed Projects in Numerical Order:
 2275. Largest Combination With Bitwise AND Greater Than Zero (Medium)
 2285. Maximum Total Importance of Roads (Medium)
 2293. Min Max Game (Easy)
+2294. Partition Array Such That Maximum Difference Is K (Medium)
 2302. Count Subarrays With Score Less Than K (Hard)
 2319. Check if Matrix Is X-Matrix (Easy)
 2326. Spiral Matrix IV (Medium)
