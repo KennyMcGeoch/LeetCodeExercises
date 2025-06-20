@@ -802,3 +802,4 @@ Full List of Completed Projects in Numerical Order:
 3403. Find the Lexicographically Largest String From the Box I (Medium)
 3423. Maximum Difference Between Adjacent Elements in a Circular Array (Easy)
 3442. Maximum Difference Between Even and Odd Frequency I (Easy)
+3443. Maximum Manhattan Distance After K Changes (Medium)
