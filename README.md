@@ -775,6 +775,7 @@ Full List of Completed Projects in Numerical Order:
 3042. Count Prefix and Suffix Pairs I (Easy)
 3043. Find the Length of the Longest Common Prefix (Medium)
 3075. Maximize Happiness of Selected Children (Medium)
+3085. Minimum Deletions to Make String K-Special (Medium)
 3100. Water Bottles II (Medium)
 3105. Longest Strictly Increasing or Strictly Decreasing Subarray (Easy)
 3110. Score of a String (Easy)
