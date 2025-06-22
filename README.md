@@ -615,6 +615,7 @@ Full List of Completed Projects in Numerical Order:
 2131. Longest Palindrome by Concatenating Two Letter Words (Medium)
 2134. Minimum Swaps to Group All 1's Together II (Medium)
 2136. Earliest Possible Day of Full Bloom (Hard)
+2138. Divide a String Into Groups of Size k (Easy)
 2140. Solving Questions With Brainpower (Medium)
 2145. Count the Hidden Sequences (Medium)
 2147. Number of Ways to Divide a Long Corridor (Hard)
