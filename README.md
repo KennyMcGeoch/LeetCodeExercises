@@ -630,6 +630,7 @@ Full List of Completed Projects in Numerical Order:
 2185. Counting Words With a Given Prefix (Easy)
 2191. Sort the Jumbled Numbers (Medium)
 2196. Create Binary Tree From Descriptions (Medium)
+2200. Find All K-Distant Indices in an Array (Easy)
 2206. Divide Array Into Equal Pairs (Easy)
 2220. Minimum Bit Flips to Convert Number (Easy)
 2221. Find Triangular Sum of an Array (Medium)
