@@ -248,6 +248,7 @@ Full List of Completed Projects in Numerical Order:
 585. Investments in 2016 (Medium)
 586. Customer Placing the Largest Number of Orders (Easy)
 589. N-ary Tree Preorder Traversal (Easy)
+594. Longest Harmonious Subsequence (Easy)
 595. Big Countries (Easy)
 596. Classes More Than 5 Students (Easy)
 602. Friend Requests II: Who Has the Most Friends (Medium)
