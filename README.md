@@ -558,6 +558,7 @@ Full List of Completed Projects in Numerical Order:
 1855. Maximum Distance Between a Pair of Values (Medium)
 1861. Rotating the Box (Medium)
 1863. Sum of All Subset XOR Totals (Easy)
+1865. Finding Pairs With a Certain Sum (Medium)
 1869. Longer Contiguous Segments of Ones than Zeros (Easy)
 1871. Jump Game VII (Medium)
 1873. Calculate Special Bonus (Easy)
