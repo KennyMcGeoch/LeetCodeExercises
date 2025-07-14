@@ -54,3 +54,27 @@ var getDecimalValue = function(head) {
     }
     return parseInt(ans,2)
 };
+
+/**
+ * Definition for singly-linked list.
+ * function ListNode(val, next) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.next = (next===undefined ? null : next)
+ * }
+ */
+/**
+ * @param {ListNode} head
+ * @return {number}
+ * Runtime 0ms Beats 100.00%
+ * Memory 53.29MB Beats 79.19%
+ */
+var getDecimalValue = function(head) {
+
+    let node = head
+    let ans = ""
+    while(node){
+        ans += node.val
+        node = node.next
+    }
+    return parseInt(ans,2)
+};
