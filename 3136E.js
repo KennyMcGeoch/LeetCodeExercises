@@ -65,3 +65,25 @@ var isValid = function(word) {
 
     return con && vowel
 };
+
+/**
+ * @param {string} word
+ * @return {boolean}
+ * Runtime 1ms Beats 53.85%
+ * Memory 55.01MB Beats 51.92%
+ */
+var isValid = function(word) {
+    if (word.length < 3) return false
+    let vowel = false
+    let vowels = new Set(["a","e","i","o","u","A","E","I","O","U"])
+    let falsy = new Set(["@","#","$"])
+    let con = false
+
+    for (let i=0; i<word.length; i++){
+        if (falsy.has(word[i])) return false
+        else if (vowels.has(word[i])) vowel = true
+        else if (word.charCodeAt(i) > 57) con = true
+    }
+
+    return con && vowel
+};
