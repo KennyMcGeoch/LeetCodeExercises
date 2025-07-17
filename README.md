@@ -797,6 +797,7 @@ Full List of Completed Projects in Numerical Order:
 3174. Clear Digits (Easy)
 3191. Minimum Operations to Make Binary Array Elements Equal to One I (Medium)
 3201. Find the Maximum Length of Valid Subsequence I (Medium)
+3202. Find the Maximum Length of Valid Subsequence II (Medium)
 3208. Alternating Groups II (Medium)
 3217. Delete Nodes From Linked List Present in Array (Medium)
 3223. Minimum Length of String After Operations (Medium)
