@@ -12,3 +12,30 @@ var makeFancyString = function(s) {
     }
     return ans.join("")
 };
+
+/**
+ * @param {string} s
+ * @return {string}
+ * Runtime 54ms Beats 80.21%
+ * Memory 83.52MB Beats 6.25%
+ */
+var makeFancyString = function(s) {
+    let ans = []
+    let prev = ""
+    let dupe = false
+
+    for (let i=0; i<s.length; i++){
+        if (s[i] === prev && dupe) continue
+        else if (s[i] === prev){
+            dupe = true
+            ans.push(s[i])
+        }
+        else{
+            prev = s[i]
+            dupe = false
+            ans.push(s[i])
+        }
+    }
+
+    return ans.join("")
+};
