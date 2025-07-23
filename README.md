@@ -524,6 +524,7 @@ Full List of Completed Projects in Numerical Order:
 1704. Determine if String Halves Are Alike (Easy)
 1706. Where Will the Ball Fall (Medium)
 1716. Calculate Money in Leetcode Bank (Easy)
+1717. Maximum Score From Removing Substrings (Medium)
 1718. Construct the Lexicographically Largest Valid Sequence (Medium)
 1721. Swapping Nodes in a Linked List (Medium)
 1726. Tuple with Same Product (Medium)
