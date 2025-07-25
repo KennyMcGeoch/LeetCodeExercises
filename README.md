@@ -821,3 +821,4 @@ Full List of Completed Projects in Numerical Order:
 3440. Reschedule Meetings for Maximum Free Time II (Medium)
 3442. Maximum Difference Between Even and Odd Frequency I (Easy)
 3443. Maximum Manhattan Distance After K Changes (Medium)
+3487. Maximum Unique Subarray Sum After Deletion (Easy)
