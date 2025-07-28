@@ -603,6 +603,7 @@ Full List of Completed Projects in Numerical Order:
 2033. Minimum Operations to Make a Uni-Value Grid (Medium)
 2037. Minimum Number of Moves to Seat Everyone (Easy)
 2038. Remove Colored Pieces if Both Neighbors are the Same Color (Medium)
+2044. Count Number of Maximum Bitwise-OR Subsets (Medium)
 2053. Kth Distinct String in an Array (Easy)
 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points (Medium)
 2070. Most Beautiful Item for Each Query (Medium)
