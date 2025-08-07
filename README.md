@@ -814,6 +814,7 @@ Full List of Completed Projects in Numerical Order:
 3341. Find Minimum Time to Reach Last Room I (Medium)
 3355. Zero Array Transformation I (Medium)
 3362. Zero Array Transformation III (Medium)
+3363. Find the Maximum Number of Fruits Collected (Hard)
 3375. Minimum Operations to Make Array Values Equal to K (Easy)
 3394. Check if Grid can be Cut into Sections (Medium)
 3392. Count Subarrays of Length Three With a Condition (Easy)
