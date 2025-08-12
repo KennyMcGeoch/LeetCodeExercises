@@ -760,6 +760,7 @@ Full List of Completed Projects in Numerical Order:
 2751. Robot Collisions (Hard)
 2780. Minimum Index of a Valid Split (Medium)
 2785. Sort Vowels in a String (Medium)
+2787. Ways to Express an Integer as Sum of Powers (Medium)
 2799. Count Complete Subarrays in an Array (Medium)
 2807. Insert Greatest Common Divisors in Linked List (Medium)
 2816. Double a Number Represented as a Linked List (Medium)
