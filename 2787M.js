@@ -31,7 +31,7 @@ var numberOfWays = function(n, x) {
  * @param {number} x
  * @return {number}
  * Runtime 0ms Beats 100.00%
- * Memory 58.42MB Beats 61.11%
+ * 55.96MBBeats 83.33%
  */
 let ans2 = []
 for (let i=1; i<6; i++){
@@ -42,7 +42,7 @@ for (let i=1; i<6; i++){
    while(curr ** i < 301){
        let num = curr ** i
        max += num
-       for (let j=Math.min(max,300); j--; j>-1){
+       for (let j=Math.min(max,301-curr); j--; j>-1){
            temp[j + num] += temp[j]
            temp[j + num] %= 1000000007
        }
