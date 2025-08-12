@@ -31,7 +31,7 @@ var numberOfWays = function(n, x) {
  * @param {number} x
  * @return {number}
  * Runtime 0ms Beats 100.00%
- * 55.96MBBeats 83.33%
+ * Memory 55.33MB Beats 94.44%
  */
 let ans2 = []
 for (let i=1; i<6; i++){
