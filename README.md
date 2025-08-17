@@ -312,6 +312,7 @@ Full List of Completed Projects in Numerical Order:
 827. Making A Large Island (Hard)
 835. Image Overlap (Medium)
 836. Rectangle Overlap (Easy)
+837. New 21 Game (Medium)
 840. Magic Squares In Grid (Medium)
 844. Backspace String Compare (Easy)
 846. Hand of Straights (Medium)
