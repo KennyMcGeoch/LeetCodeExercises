@@ -409,6 +409,7 @@ Full List of Completed Projects in Numerical Order:
 1261. Find Elements in a Contaminated Binary Tree (Medium)
 1266. Minimum Time Visiting All Points (Easy)
 1267. Count Servers that Communicate (Medium)
+1277. Count Square Submatrices with All Ones (Medium)
 1280. Students and Examinations (Easy)
 1281. Subtract the Product and Sum of Digits of an Integer (Easy)
 1282. Group the People Given the Group Size They Belong To (Medium)
