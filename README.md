@@ -471,6 +471,7 @@ Full List of Completed Projects in Numerical Order:
 1498. Number of Subsequences That Satisfy the Given Sum Condition (Medium)
 1502. Can Make Arithmetic Progression From Sequence (Easy)
 1503. Last Moment Before All Ants Fall Out of a Plank (Medium)
+1504. Count Submatrices With All Ones (Medium)
 1508. Range Sum of Sorted Subarray Sums (Medium)
 1509. Minimum Difference Between Largest and Smallest Value in Three Moves (Medium)
 1512. Number of Good Pairs (Easy)
