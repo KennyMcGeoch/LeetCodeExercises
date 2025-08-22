@@ -806,6 +806,7 @@ Full List of Completed Projects in Numerical Order:
 3170. Lexicographically Minimum String After Removing Stars (Medium)
 3174. Clear Digits (Easy)
 3191. Minimum Operations to Make Binary Array Elements Equal to One I (Medium)
+3195. Find the Minimum Area to Cover All Ones I (Medium)
 3201. Find the Maximum Length of Valid Subsequence I (Medium)
 3202. Find the Maximum Length of Valid Subsequence II (Medium)
 3208. Alternating Groups II (Medium)
