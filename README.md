@@ -222,6 +222,7 @@ Full List of Completed Projects in Numerical Order:
 494. Target Sum (Medium)
 495. Teemo Attacking (Easy)
 496. Next Greater Element I (Easy)
+498. Diagonal Traverse (Medium)
 500. Keyboard Row (Easy)
 501. Find Mode in Binary Search Tree (Easy)
 506. Relative Ranks (Easy)
