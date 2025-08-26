@@ -788,6 +788,7 @@ Full List of Completed Projects in Numerical Order:
 2966. Divide Array Into Arrays With Max Difference (Medium)
 2971. Find Polygon With the Largest Perimeter (Medium)
 2981. Find Longest Special Substring That Occurs Thrice I (Medium)
+3000. Maximum Area of Longest Diagonal Rectangle (Easy)
 3005. Count Elements With Maximum Frequency (Easy)
 3016. Minimum Number of Pushes to Type Word II (Medium)
 3024. Type of Triangle (Easy)
