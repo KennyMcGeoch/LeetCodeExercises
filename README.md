@@ -791,6 +791,7 @@ Full List of Completed Projects in Numerical Order:
 3000. Maximum Area of Longest Diagonal Rectangle (Easy)
 3005. Count Elements With Maximum Frequency (Easy)
 3016. Minimum Number of Pushes to Type Word II (Medium)
+3021. Alice and Bob Playing Flower Game (Medium)
 3024. Type of Triangle (Easy)
 3042. Count Prefix and Suffix Pairs I (Easy)
 3043. Find the Length of the Longest Common Prefix (Medium)
