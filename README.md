@@ -838,3 +838,4 @@ Full List of Completed Projects in Numerical Order:
 3477. Fruits Into Baskets II (Easy)
 3479. Fruits Into Baskets III (Medium)
 3487. Maximum Unique Subarray Sum After Deletion (Easy)
+3516. Find Closest Person (Easy)
