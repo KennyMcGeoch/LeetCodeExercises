@@ -34,8 +34,6 @@ var minOperations = function(queries) {
     }
     
     return ans
-
-
 };
 
 /**
@@ -75,6 +73,4 @@ var minOperations = function(queries) {
     }
     
     return ans
-
-
 };
