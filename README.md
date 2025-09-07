@@ -420,6 +420,7 @@ Full List of Completed Projects in Numerical Order:
 1291. Sequential Digits (Medium)
 1293. Shortest Path in a Grid with Obstacles Elimination (Hard)
 1295. Find Numbers with Even Number of Digits (Easy)
+1304. Find N Unique Integers Sum up to Zero (Easy)
 1306. Jump Game III (Medium)
 1309. Decrypt String from Alphabet to Integer Mapping (Easy)
 1310. XOR Queries of a Subarray (Medium)
