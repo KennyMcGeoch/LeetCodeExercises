@@ -539,6 +539,7 @@ Full List of Completed Projects in Numerical Order:
 1727. Largest Submatrix With Rearrangements (Medium)
 1729. Find Followers Count (Easy)
 1732. Find the Highest Altitude (Easy)
+1733. Minimum Number of People to Teach (Medium)
 1743. Restore the Array From Adjacent Pairs (Medium)
 1748. Sum of Unique Elements (Easy)
 1749. Maximum Absolute Sum of Any Subarray (Medium)
