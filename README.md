@@ -349,6 +349,7 @@ Full List of Completed Projects in Numerical Order:
 951. Flip Equivalent Binary Trees (Medium)
 953. Verifying an Alien Dictionary (Easy)
 962. Maximum Width Ramp (Medium)
+966. Vowel Spellchecker (Medium)
 974. Subarray Sums Divisible by K (Medium)
 976. Largest Perimeter Triangle (Easy)
 977. Squares of a Sorted Array (Easy)
@@ -846,3 +847,4 @@ Full List of Completed Projects in Numerical Order:
 3479. Fruits Into Baskets III (Medium)
 3487. Maximum Unique Subarray Sum After Deletion (Easy)
 3516. Find Closest Person (Easy)
+3541. Find Most Frequent Vowel and Consonant (Easy)
