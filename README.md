@@ -589,6 +589,7 @@ Full List of Completed Projects in Numerical Order:
 1929. Concatenation of Array (Easy)
 1930. Unique Length-3 Palindromic Subsequences (Medium)
 1934. Confirmation Rate (Medium)
+1935. Maximum Number of Words You Can Type (Easy)
 1937. Maximum Number of Points with Cost (Medium)
 1942. The Number of the Smallest Unoccupied Chair (Medium)
 1945. Sum of Digits of String After Convert (Easy)
