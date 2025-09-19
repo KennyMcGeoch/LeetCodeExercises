@@ -846,6 +846,7 @@ Full List of Completed Projects in Numerical Order:
 3446. Sort Matrix by Diagonals (Medium)
 3477. Fruits Into Baskets II (Easy)
 3479. Fruits Into Baskets III (Medium)
+3484. Design Spreadsheet (Medium)
 3487. Maximum Unique Subarray Sum After Deletion (Easy)
 3516. Find Closest Person (Easy)
 3541. Find Most Frequent Vowel and Consonant (Easy)

@@ -28,3 +28,26 @@ var canBeTypedWords = function(text, brokenLetters) {
 
     return text.length
 };
+
+/**
+ * @param {string} text
+ * @param {string} brokenLetters
+ * @return {number}
+ * Runtime 2ms Beats 86.67%
+ * Memory 54.30MB Beats 83.33%
+ */
+var canBeTypedWords = function(text, brokenLetters) {
+    let arr = new Array(26).fill(0)
+    for (let i=0; i<brokenLetters.length; i++) arr[brokenLetters.charCodeAt(i)-97]++
+    let curr = 1
+    let ans = 0
+
+    for (let i=0; i<text.length; i++){
+        if (text[i] === " "){
+            ans += curr
+            curr = 1
+        }
+        else if (arr[text.charCodeAt(i)-97]) curr = 0
+    }
+    return ans + curr
+};
