@@ -5,7 +5,7 @@
  */
 var Router = function(memoryLimit) {
     mem = []
-    dest = {}
+    dest = {} // Can be replaced with [] with similar performance
     curr = {}
     lim = memoryLimit
     ind = 0
@@ -87,3 +87,4 @@ Router.prototype.getCount = function(destination, startTime, endTime) {
  * var param_2 = obj.forwardPacket()
  * var param_3 = obj.getCount(destination,startTime,endTime)
  */
+
