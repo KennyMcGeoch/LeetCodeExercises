@@ -26,4 +26,20 @@ return nums[0] + nums[1] + nums[2]
     
 };
 
-largestPerimeter([3,6,2,3])
+/**
+ * @param {number[]} nums
+ * @return {number}
+ * Runtime 23ms Beats 86.26%
+ * Memory 56.41MB Beats 94.66%
+ */
+ var largestPerimeter = function(nums) {
+
+    nums.sort((a,b)=>b-a)
+
+    for (let i=0; i<nums.length-2; i++){
+        if (nums[i] < nums[i+1]+nums[i+2]) return nums[i] + nums[i+1] + nums[i+2]
+    }
+     
+return 0
+    
+};

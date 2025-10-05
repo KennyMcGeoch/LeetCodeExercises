@@ -49,6 +49,8 @@ var maxFrequencyElements = function(nums) {
  * @return {number}
  * Runtime: 53 ms, faster than 91.36% of JavaScript online submissions for Count Elements With Maximum Frequency.
  * Memory Usage: 51.5 MB, less than 30.57% of JavaScript online submissions for Count Elements With Maximum Frequency.
+ * Runtime 2ms Beats59.92%
+ * Memory 57.51MB Beats 37.65%
  */
 var maxFrequencyElements = function(nums) {
     
@@ -69,5 +71,30 @@ var maxFrequencyElements = function(nums) {
     }
     
     return ans
+    
+};
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ * Runtime 0ms Beats 100.00%
+ * Memory 57.43MB Beats 40.89%%
+ */
+var maxFrequencyElements = function(nums) {
+    
+    let total = new Array(101).fill(0)
+    let curr = 0
+    let max = 0
+
+    for (let i=0; i< nums.length; i++){
+        if (++total[nums[i]] > max){
+            max = total[nums[i]]
+            curr = 1
+        }
+        else if (total[nums[i]] === max){
+            curr++
+        }
+    }
+    return max * curr
     
 };
