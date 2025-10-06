@@ -302,6 +302,7 @@ Full List of Completed Projects in Numerical Order:
 752. Open the Lock (Medium)
 766. Toeplitz Matrix (Easy)
 769. Max Chunks To Make Sorted (Medium)
+778. Swim in Rising Water (Hard)
 781. Rabbits in Forest (Medium)
 783. Minimum Distance Between BST Nodes (Easy)
 787. Cheapest Flights Within K Stops (Medium)
