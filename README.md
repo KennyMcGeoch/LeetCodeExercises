@@ -471,7 +471,6 @@ Full List of Completed Projects in Numerical Order:
 1480. Running Sum of 1d Array (Easy)
 1481. Least Number of Unique Integers after K Removals (Medium)
 1484. Group Sold Products By The Date (Easy)
-1488. Avoid Flood in The City (Medium)
 1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)
 1493. Longest Subarray of 1's After Deleting One Element (Medium)
 1496. Path Crossing (Easy)
