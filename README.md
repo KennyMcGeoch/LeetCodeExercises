@@ -486,6 +486,7 @@ Full List of Completed Projects in Numerical Order:
 1518. Water Bottles (Easy)
 1523. Count Odd Numbers in an Interval Range (Easy)
 1524. Number of Sub-arrays With Odd Sum (Medium)
+1526. Minimum Number of Increments on Subarrays to Form a Target Array (Hard)
 1527. Patients With a Condition (Easy)
 1528. Shuffle String (Easy)
 1534. Count Good Triplets (Easy)
