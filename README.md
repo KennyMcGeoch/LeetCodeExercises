@@ -838,6 +838,7 @@ Full List of Completed Projects in Numerical Order:
 3243. Shortest Distance After Road Addition Queries I (Medium)
 3254. Find the Power of K-Size Subarrays I (Medium)
 3264. Final Array State After K Multiplication Operations I (Easy)
+3289. The Two Sneaky Numbers of Digitville (Easy)
 3304. Find the K-th Character in String Game I (Easy)
 3330. Find the Original Typed String I (Easy)
 3341. Find Minimum Time to Reach Last Room I (Medium)
