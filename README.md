@@ -841,6 +841,7 @@ Full List of Completed Projects in Numerical Order:
 3264. Final Array State After K Multiplication Operations I (Easy)
 3289. The Two Sneaky Numbers of Digitville (Easy)
 3304. Find the K-th Character in String Game I (Easy)
+3318. Find X-Sum of All K-Long Subarrays I (Easy)
 3330. Find the Original Typed String I (Easy)
 3341. Find Minimum Time to Reach Last Room I (Medium)
 3346. Maximum Frequency of an Element After Performing Operations I (Medium)
