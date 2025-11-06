@@ -874,3 +874,4 @@ Full List of Completed Projects in Numerical Order:
 3508. Implement Router (Medium)
 3516. Find Closest Person (Easy)
 3541. Find Most Frequent Vowel and Consonant (Easy)
+3607. Power Grid Maintenance (Medium)
