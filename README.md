@@ -759,6 +759,7 @@ Full List of Completed Projects in Numerical Order:
 2649. Nested Array Generator (Medium)
 2651. Calculate Delayed Arrival Time (Easy)
 2652. Sum Multiples (Easy)
+2654. Minimum Number of Operations to Make All Array Elements Equal to 1 (Medium)
 2657. Find the Prefix Common Array of Two Arrays (Medium)
 2658. Maximum Number of Fish in a Grid (Medium)
 2661. First Completely Painted Row or Column (Medium)
