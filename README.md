@@ -838,6 +838,7 @@ Full List of Completed Projects in Numerical Order:
 3217. Delete Nodes From Linked List Present in Array (Medium)
 3223. Minimum Length of String After Operations (Medium)
 3227. Vowels Game in a String (Medium)
+3228. Maximum Number of Operations to Move Ones to the End (Medium)
 3243. Shortest Distance After Road Addition Queries I (Medium)
 3254. Find the Power of K-Size Subarrays I (Medium)
 3264. Final Array State After K Multiplication Operations I (Easy)
