@@ -725,6 +725,7 @@ Full List of Completed Projects in Numerical Order:
 2506. Count Pairs Of Similar Strings (Easy)
 2516. Take K of Each Character From Left and Right (Medium)
 2529. Maximum Count of Positive Integer and Negative Integer (Easy)
+2536. Increment Submatrices by One (Medium)
 2537. Count the Number of Good Subarrays (Medium)
 2540. Minimum Common Value (Easy)
 2554. Maximum Number of Integers to Choose From a Range I (Medium)
