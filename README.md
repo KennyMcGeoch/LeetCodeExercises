@@ -461,6 +461,7 @@ Full List of Completed Projects in Numerical Order:
 1422. Maximum Score After Splitting a String (Easy)
 1432. Max Difference You Can Get From Changing an Integer (Medium)
 1436. Destination City (Easy)
+1437. Check If All 1's Are at Least Length K Places Away (Easy)
 1441. Build an Array With Stack Operations (Medium)
 1446. Consecutive Characters (Easy)
 1456. Maximum Number of Vowels in a Substring of Given Length (Medium)
