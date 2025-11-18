@@ -289,6 +289,7 @@ Full List of Completed Projects in Numerical Order:
 706. Design HashMap (Easy)
 709. To Lower Case (Easy)
 713. Subarray Product Less Than K (Medium)
+717. 1-bit and 2-bit Characters (Easy)
 719. Find K-th Smallest Pair Distance (Hard)
 724. Find Pivot Index (Easy)
 725. Split Linked List in Parts (Medium)
