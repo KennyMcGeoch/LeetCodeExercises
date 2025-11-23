@@ -413,6 +413,7 @@ Full List of Completed Projects in Numerical Order:
 1251. Average Selling Price (Easy)
 1255. Maximum Score Words Formed by Letters (Hard)
 1261. Find Elements in a Contaminated Binary Tree (Medium)
+1262. Greatest Sum Divisible by Three (Medium)
 1266. Minimum Time Visiting All Points (Easy)
 1267. Count Servers that Communicate (Medium)
 1277. Count Square Submatrices with All Ones (Medium)
