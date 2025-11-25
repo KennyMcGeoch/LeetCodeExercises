@@ -365,6 +365,7 @@ Full List of Completed Projects in Numerical Order:
 1007. Minimum Domino Rotations For Equal Row (Medium)
 1009. Complement of Base 10 Integer (Easy)
 1014. Best Sightseeing Pair (Medium)
+1015. Smallest Integer Divisible by K (Medium)
 1018. Binary Prefix Divisible By 5 (Easy)
 1026. Maximum Difference Between Node and Ancestor (Medium)
 1028. Recover a Tree From Preorder Traversal (Hard)
