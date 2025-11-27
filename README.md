@@ -864,6 +864,7 @@ Full List of Completed Projects in Numerical Order:
 3363. Find the Maximum Number of Fruits Collected (Hard)
 3370. Smallest Number With All Set Bits (Easy)
 3375. Minimum Operations to Make Array Values Equal to K (Easy)
+3381. Maximum Subarray Sum With Length Divisible by K (Medium)
 3394. Check if Grid can be Cut into Sections (Medium)
 3495. Minimum Operations to Make Array Elements Zero (Hard)
 3392. Count Subarrays of Length Three With a Condition (Easy)
