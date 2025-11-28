@@ -799,6 +799,7 @@ Full List of Completed Projects in Numerical Order:
 2849. Determine if a Cell Is Reachable at a Given Time (Medium)
 2864. Maximum Odd Binary Number (Easy)
 2870. Minimum Number of Operations to Make Array Empty (Medium)
+2872. Maximum Number of K-Divisible Components (Hard)
 2873. Maximum Value of an Ordered Triplet I (Easy)
 2874. Maximum Value of an Ordered Triplet II (Medium)
 2894. Divisible and Non-divisible Sums Difference (Easy)
