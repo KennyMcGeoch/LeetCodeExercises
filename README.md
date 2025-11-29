@@ -884,6 +884,7 @@ Full List of Completed Projects in Numerical Order:
 3484. Design Spreadsheet (Medium)
 3487. Maximum Unique Subarray Sum After Deletion (Easy)
 3508. Implement Router (Medium)
+3512. Minimum Operations to Make Array Sum Divisible by K (Easy)
 3516. Find Closest Person (Easy)
 3541. Find Most Frequent Vowel and Consonant (Easy)
 3607. Power Grid Maintenance (Medium)
