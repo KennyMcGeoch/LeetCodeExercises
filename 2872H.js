@@ -86,7 +86,6 @@ var maxKDivisibleComponents = function(n, edges, values, k) {
     function recur(val){
         let sum = values[val]
         hash.add(val)
-        let valid = 0
         for (let i=0; i<arr[val].length; i++){
             let cand = arr[val][i]
             if (hash.has(cand) === false){
