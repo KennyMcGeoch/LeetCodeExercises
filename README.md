@@ -888,3 +888,4 @@ Full List of Completed Projects in Numerical Order:
 3516. Find Closest Person (Easy)
 3541. Find Most Frequent Vowel and Consonant (Easy)
 3607. Power Grid Maintenance (Medium)
+3623. Count Number of Trapezoids I (Medium)
