@@ -665,6 +665,7 @@ Full List of Completed Projects in Numerical Order:
 2200. Find All K-Distant Indices in an Array (Easy)
 2206. Divide Array Into Equal Pairs (Easy)
 2210. Count Hills and Valleys in an Array (Easy)
+2211. Count Collisions on a Road (Medium)
 2220. Minimum Bit Flips to Convert Number (Easy)
 2221. Find Triangular Sum of an Array (Medium)
 2225. Find Players With Zero or One Losses (Medium)
