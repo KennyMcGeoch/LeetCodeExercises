@@ -15,3 +15,15 @@
 
     return count  
 };
+
+/**
+ * @param {number} low
+ * @param {number} high
+ * @return {number}
+ * Runtime 36ms Beats 95.73%
+ * Memory 53.08MB Beats 95.73%
+ */
+ var countOdds = function(low, high) {
+
+    return Math.ceil(high/2) - Math.floor(low/2) 
+};
