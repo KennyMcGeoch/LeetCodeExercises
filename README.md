@@ -595,6 +595,7 @@ Full List of Completed Projects in Numerical Order:
 1913. Maximum Product Difference Between Two Pairs (Easy)
 1920. Build Array from Permutation (Easy)
 1921. Eliminate Maximum Number of Monsters (Medium)
+1925. Count Square Sum Triples (Easy)
 1926. Nearest Exit from Entrance in Maze (Medium)
 1929. Concatenation of Array (Easy)
 1930. Unique Length-3 Palindromic Subsequences (Medium)
