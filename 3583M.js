@@ -2,7 +2,7 @@
  * @param {number[]} nums
  * @return {number}
  * Runtime 447ms Beats 18.18%
- * Memory 90.45MB Beat s90.91%
+ * Memory 90.45MB Beats 90.91%
  */
 var specialTriplets = function(nums) {
     let prev = new Map()
@@ -15,6 +15,28 @@ var specialTriplets = function(nums) {
         next[nums[i]]--
         ans += ((prev[nums[i]*2] || 0) * (next[nums[i]*2] || 0))
         prev[nums[i]] = (prev[nums[i]] || 0) + 1
+        ans %= 1000000007
+    }
+    return ans
+};
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ * Runtime 245ms Beats 100.00%
+ * Memory 99.70MB Beats 36.36%
+ */
+var specialTriplets = function(nums) {
+    let prev = new Map()
+    let next = new Map()
+    let ans = 0
+
+    for (let i=1; i<nums.length; i++) next.set(nums[i], (next.get(nums[i]) || 0) + 1)
+    prev.set(nums[0],1)
+    for (let i=1; i<nums.length-1; i++){
+        next.set(nums[i], next.get(nums[i])-1)
+        if (prev.get(nums[i]*2) && next.get(nums[i]*2)) ans += (prev.get(nums[i]*2) * next.get(nums[i]*2))
+        prev.set(nums[i], (prev.get(nums[i]) || 0) + 1)
         ans %= 1000000007
     }
     return ans
