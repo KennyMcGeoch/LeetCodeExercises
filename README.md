@@ -876,6 +876,7 @@ Full List of Completed Projects in Numerical Order:
 3403. Find the Lexicographically Largest String From the Box I (Medium)
 3423. Maximum Difference Between Adjacent Elements in a Circular Array (Easy)
 3432. Count Partitions with Even Sum Difference (Easy)
+3433. Count Mentions Per User (Medium)
 3439. Reschedule Meetings for Maximum Free Time I (Medium)
 3440. Reschedule Meetings for Maximum Free Time II (Medium)
 3442. Maximum Difference Between Even and Odd Frequency I (Easy)
