@@ -894,5 +894,6 @@ Full List of Completed Projects in Numerical Order:
 3541. Find Most Frequent Vowel and Consonant (Easy)
 3577. Count the Number of Computer Unlocking Permutations (Medium)
 3583. Count Special Triplets (Medium)
+3606. Coupon Code Validator (Easy)
 3607. Power Grid Maintenance (Medium)
 3623. Count Number of Trapezoids I (Medium)
