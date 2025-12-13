@@ -3,7 +3,7 @@
  * @param {string[]} businessLine
  * @param {boolean[]} isActive
  * @return {string[]}
- * Runtime 4ms Beats 83.08%
+ * Runtime 3ms Beats 93.85%
  * Memory 61.72MB Beats 64.61%
  */
 var validateCoupons = function(code, businessLine, isActive) {
