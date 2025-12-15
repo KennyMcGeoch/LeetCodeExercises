@@ -640,6 +640,7 @@ Full List of Completed Projects in Numerical Order:
 2099. Find Subsequence of Length K With the Largest Sum (Easy)
 2108. Find First Palindromic String in the Array (Easy)
 2109. Adding Spaces to a String (Medium)
+2110. Number of Smooth Descent Periods of a Stock (Medium)
 2115. Find All Possible Recipes from Given Supplies (Medium)
 2116. Check if a Parentheses String Can Be Valid (Medium)
 2124. Check if All A's Appears Before All B's (Easy)
