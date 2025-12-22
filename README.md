@@ -353,6 +353,7 @@ Full List of Completed Projects in Numerical Order:
 950. Reveal Cards In Increasing Order (Medium)
 951. Flip Equivalent Binary Trees (Medium)
 953. Verifying an Alien Dictionary (Easy)
+955. Delete Columns to Make Sorted II (Medium)
 962. Maximum Width Ramp (Medium)
 966. Vowel Spellchecker (Medium)
 974. Subarray Sums Divisible by K (Medium)
