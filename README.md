@@ -354,6 +354,7 @@ Full List of Completed Projects in Numerical Order:
 951. Flip Equivalent Binary Trees (Medium)
 953. Verifying an Alien Dictionary (Easy)
 955. Delete Columns to Make Sorted II (Medium)
+961. N-Repeated Element in Size 2N Array (Easy)
 962. Maximum Width Ramp (Medium)
 966. Vowel Spellchecker (Medium)
 974. Subarray Sums Divisible by K (Medium)
