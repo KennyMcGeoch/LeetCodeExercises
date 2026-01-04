@@ -51,8 +51,8 @@ var sumFourDivisors = function(nums) {
  * Memory 59.47MB Beats 61.76%
  */
 
- let sieve = new Array(50000).fill(1)
- let primes = []
+ sieve = new Array(50000).fill(1)
+ primes = []
  sieve[0] = 0
  sieve[1] = 0
  for (let i=2; i<50001; i++){
