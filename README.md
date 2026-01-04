@@ -456,6 +456,7 @@ Full List of Completed Projects in Numerical Order:
 1380. Lucky Numbers in a Matrix (Easy)
 1381. Design a Stack With Increment Operation (Medium)
 1385. Find the Distance Value Between Two Arrays (Easy)
+1390. Four Divisors (Medium)
 1394. Find Lucky Integer in an Array (Easy)
 1395. Count Number of Teams (Medium)
 1399. Count Largest Group (Easy)
