@@ -441,6 +441,7 @@ Full List of Completed Projects in Numerical Order:
 1327. List the Products Ordered in a Period (Easy)
 1331. Rank Transform of an Array (Easy)
 1337. The K Weakest Rows in a Matrix (Easy)
+1339. Maximum Product of Splitted Binary Tree (Medium)
 1341. Movie Rating (Medium)
 1342. Number of Steps to Reduce a Number to Zero (Easy)
 1346. Check If N and Its Double Exist (Easy)
