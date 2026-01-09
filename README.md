@@ -325,6 +325,7 @@ Full List of Completed Projects in Numerical Order:
 859. Buddy Strings (Easy)
 860. Lemonade Change (Easy)
 861. Score After Flipping Matrix (Medium)
+865. Smallest Subtree with all the Deepest Nodes (Medium)
 867. Transpose Matrix (Easy)
 869. Reordered Power of 2 (Medium)
 872. Leaf-Similar Trees (Easy)
