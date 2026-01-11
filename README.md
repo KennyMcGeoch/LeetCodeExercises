@@ -63,6 +63,7 @@ Full List of Completed Projects in Numerical Order:
 81. Search in Rotated Sorted Array II (Medium)
 82. Remove Duplicates from Sorted List II (Medium)
 83. Remove Duplicates from Sorted List (Easy)
+85. Maximal Rectangle (Hard)
 88. Merge Sorted Array (Easy)
 91. Decode Ways (Medium)
 92. Reverse Linked List II (Medium)
