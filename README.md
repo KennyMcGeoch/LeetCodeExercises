@@ -825,6 +825,7 @@ Full List of Completed Projects in Numerical Order:
 2965. Find Missing and Repeated Values (Easy)
 2966. Divide Array Into Arrays With Max Difference (Medium)
 2971. Find Polygon With the Largest Perimeter (Medium)
+2975. Maximum Square Area by Removing Fences From a Field (Medium)
 2981. Find Longest Special Substring That Occurs Thrice I (Medium)
 3000. Maximum Area of Longest Diagonal Rectangle (Easy)
 3005. Count Elements With Maximum Frequency (Easy)
