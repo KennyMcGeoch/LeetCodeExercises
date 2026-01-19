@@ -431,6 +431,7 @@ Full List of Completed Projects in Numerical Order:
 1289. Minimum Falling Path Sum II (Hard)
 1290. Convert Binary Number in a Linked List to Integer (Easy)
 1291. Sequential Digits (Medium)
+1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold (Medium)
 1293. Shortest Path in a Grid with Obstacles Elimination (Hard)
 1295. Find Numbers with Even Number of Digits (Easy)
 1304. Find N Unique Integers Sum up to Zero (Easy)
