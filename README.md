@@ -622,6 +622,7 @@ Full List of Completed Projects in Numerical Order:
 1978. Employees Whose Manager Left the Company (Easy)
 1979. Find Greatest Common Divisor of Array (Easy)
 1980. Find Unique Binary String (Medium)
+1984. Minimum Difference Between Highest and Lowest of K Scores (Easy)
 1992. Find All Groups of Farmland (Medium)
 2000. Reverse Prefix of Word (Easy)
 2007. Find Original Array From Doubled Array (Medium)
