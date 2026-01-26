@@ -405,6 +405,7 @@ Full List of Completed Projects in Numerical Order:
 1174. Immediate Food Delivery II (Medium)
 1190. Reverse Substrings Between Each Pair of Parentheses (Medium)
 1193. Monthly Transactions I (Medium)
+1200. Minimum Absolute Difference (Easy)
 1204. Last Person to Fit in the Bus (Medium)
 1207. Unique Number of Occurrences (Easy)
 1208. Get Equal Substrings Within Budget (Medium)
