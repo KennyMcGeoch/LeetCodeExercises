@@ -916,4 +916,5 @@ Full List of Completed Projects in Numerical Order:
 3606. Coupon Code Validator (Easy)
 3607. Power Grid Maintenance (Medium)
 3623. Count Number of Trapezoids I (Medium)
+3637. Trionic Array I (Easy)
 3652. Best Time to Buy and Sell Stock using Strategy (Medium)
