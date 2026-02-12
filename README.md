@@ -920,3 +920,4 @@ Full List of Completed Projects in Numerical Order:
 3637. Trionic Array I (Easy)
 3634. Minimum Removals to Balance Array (Medium)
 3652. Best Time to Buy and Sell Stock using Strategy (Medium)
+3713. Longest Balanced Substring I (Medium)
