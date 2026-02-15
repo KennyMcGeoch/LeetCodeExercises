@@ -51,6 +51,7 @@ Full List of Completed Projects in Numerical Order:
 62. Unique Paths (Medium)
 63. Unique Paths II (Medium)
 66. Plus One (Easy)
+67. Add Binary (Easy)
 69. Sqrt(x) (Easy)
 70. Climbing Stairs (Easy)
 73. Set Matrix Zeroes (Medium)
