@@ -197,6 +197,7 @@ Full List of Completed Projects in Numerical Order:
 389. Find the Difference (Easy)
 392. Is Subsequence (Easy)
 394. Decode String (Medium)
+401. Binary Watch (Easy)
 402. Remove K Digits (Medium)
 404. Sum of Left Leaves (Easy)
 409. Longest Palindrome (Easy)
