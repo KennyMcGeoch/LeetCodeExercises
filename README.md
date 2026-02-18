@@ -283,6 +283,7 @@ Full List of Completed Projects in Numerical Order:
 678. Valid Parenthesis String (Medium)
 680. Valid Palindrome II (Easy)
 692. Top K Frequent Words (Medium)
+693. Binary Number with Alternating Bits (Easy)
 695. Max Area of Island (Medium)
 697. Degree of an Array (Easy)
 700. Search in a Binary Search Tree (Easy)
