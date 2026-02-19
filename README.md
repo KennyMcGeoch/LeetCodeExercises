@@ -285,6 +285,7 @@ Full List of Completed Projects in Numerical Order:
 692. Top K Frequent Words (Medium)
 693. Binary Number with Alternating Bits (Easy)
 695. Max Area of Island (Medium)
+696. Count Binary Substrings (Easy)
 697. Degree of an Array (Easy)
 700. Search in a Binary Search Tree (Easy)
 701. Insert into a Binary Search Tree (Medium)
