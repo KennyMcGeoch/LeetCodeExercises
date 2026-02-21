@@ -24,3 +24,30 @@ var countPrimeSetBits = function(left, right) {
 
     return ans
 };
+
+/**
+ * @param {number} left
+ * @param {number} right
+ * @return {number}
+ * Runtime 15ms Beats 75.68%
+ * Memory 56.03MB Beats 67.57%
+ */
+var countPrimeSetBits = function(left, right) {
+    let ans = 0
+    let temp = 0
+    let arr = new Set([2,3,5,7,11,13,17,19])
+    for (let i=left; i<=right; i++){
+        ans += (check(i))
+    }
+
+    function check(i){
+        temp = 0
+        while(i){
+            i &= (i-1)
+            temp++
+        }
+        return arr.has(temp)
+    }
+
+    return ans
+};
