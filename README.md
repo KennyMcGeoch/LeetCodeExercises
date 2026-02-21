@@ -307,6 +307,7 @@ Full List of Completed Projects in Numerical Order:
 746. Min Cost Climbing Stairs (Easy)
 747. Largest Number At Least Twice of Others (Easy)
 752. Open the Lock (Medium)
+762. Prime Number of Set Bits in Binary Representation (Easy)
 766. Toeplitz Matrix (Easy)
 769. Max Chunks To Make Sorted (Medium)
 778. Swim in Rising Water (Hard)
