@@ -334,6 +334,7 @@ Full List of Completed Projects in Numerical Order:
 861. Score After Flipping Matrix (Medium)
 865. Smallest Subtree with all the Deepest Nodes (Medium)
 867. Transpose Matrix (Easy)
+868. Binary Gap (Easy)
 869. Reordered Power of 2 (Medium)
 872. Leaf-Similar Trees (Easy)
 873. Length of Longest Fibonacci Subsequence (Medium)
