@@ -487,6 +487,7 @@ Full List of Completed Projects in Numerical Order:
 1456. Maximum Number of Vowels in a Substring of Given Length (Medium)
 1457. Pseudo-Palindromic Paths in a Binary Tree (Medium)
 1460. Make Two Arrays Equal by Reversing Subarrays (Easy)
+1461. Check If a String Contains All Binary Codes of Size K (Medium)
 1464. Maximum Product of Two Elements in an Array (Easy)
 1475. Final Prices With a Special Discount in a Shop (Easy)
 1480. Running Sum of 1d Array (Easy)
