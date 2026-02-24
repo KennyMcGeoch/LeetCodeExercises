@@ -379,6 +379,7 @@ Full List of Completed Projects in Numerical Order:
 1014. Best Sightseeing Pair (Medium)
 1015. Smallest Integer Divisible by K (Medium)
 1018. Binary Prefix Divisible By 5 (Easy)
+1022. Sum of Root To Leaf Binary Numbers (Easy)
 1026. Maximum Difference Between Node and Ancestor (Medium)
 1028. Recover a Tree From Preorder Traversal (Hard)
 1038. Binary Search Tree to Greater Sum Tree (Medium)
