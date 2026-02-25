@@ -47,3 +47,68 @@ var sortByBits = function(arr) {
     return ans.flat()
     
 };
+
+/**
+ * @param {number[]} arr
+ * @return {number[]}
+ * Runtime 17ms Beats 42.37%
+ * Memory 58.23MB Beats 69.49%
+ */
+ var sortByBits = function(arr) {
+
+    let hash = {}
+    let temp = 0
+    let num = 0
+
+    for (let i=0; i<arr.length; i++){
+        if (hash[arr[i]] === undefined) conv(arr[i])
+    }    
+
+    function conv(n){
+        temp = 0
+        num = n
+        while(num){
+            num &= (num-1)
+            temp++
+        }
+        hash[n] = temp
+    }
+
+    return arr.sort((a,b) => {
+        if (hash[a] !== hash[b]) return hash[a]-hash[b]
+        else return a-b
+    })
+    
+};
+
+/**
+ * @param {number[]} arr
+ * @return {number[]}
+ * Runtime 6ms Beats 76.27%
+ * Memory 56.20MB Beats 96.61%
+ */
+ var sortByBits = function(arr) {
+
+    let temp = 0
+    let num = 0
+    let countA = 0
+    let countB = 0
+
+    function conv(n){
+        temp = 0
+        num = n
+        while(num){
+            num &= (num-1)
+            temp++
+        }
+        return temp
+    }
+
+    return arr.sort((a,b) => {
+        countA = conv(a)
+        countB = conv(b)
+        if (countA !== countB) return countA - countB
+        else return a-b
+    })
+    
+};
