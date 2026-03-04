@@ -41,3 +41,34 @@ var numSpecial = function(mat) {
     }
     return ans
 };
+
+/**
+ * @param {number[][]} mat
+ * @return {number}
+ * Runtime 0ms Beats 100.00%
+ * Memory 55.56MB Beats 93.48%
+ */
+var numSpecial = function(mat) {
+    let col = new Array(mat[0].length).fill(0)
+    let row = new Array(mat.length).fill(0)
+    let ind = new Array(mat.length)
+    let ans = 0
+
+    for (let i=0; i<row.length; i++){
+        for (let j=0; j<col.length; j++){
+            if (mat[i][j]){
+                col[j]++
+                row[i]++
+                ind[i] = j
+            }
+        }
+    }
+
+    for (let i=0; i<mat.length; i++){
+        if (row[i] === 1){
+            if (col[ind[i]] === 1) ans++
+        }
+    }
+
+    return ans
+};
