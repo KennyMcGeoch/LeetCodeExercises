@@ -586,6 +586,7 @@ Full List of Completed Projects in Numerical Order:
 1791. Find Center of Star Graph (Easy)
 1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy)
 1780. Check if Number is a Sum of Powers of Three (Medium)
+1784. Check if Binary String Has at Most One Segment of Ones (Easy)
 1789. Primary Department for Each Employee (Easy)
 1790. Check if One String Swap Can Make Strings Equal (Easy)
 1793. Maximum Score of a Good Subarray (Hard)
