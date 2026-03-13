@@ -883,6 +883,7 @@ Full List of Completed Projects in Numerical Order:
 3254. Find the Power of K-Size Subarrays I (Medium)
 3264. Final Array State After K Multiplication Operations I (Easy)
 3289. The Two Sneaky Numbers of Digitville (Easy)
+3296. Minimum Number of Seconds to Make Mountain Height Zero (Medium)
 3304. Find the K-th Character in String Game I (Easy)
 3314. Construct the Minimum Bitwise Array I (Easy)
 3318. Find X-Sum of All K-Long Subarrays I (Easy)
