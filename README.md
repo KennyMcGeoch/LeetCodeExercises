@@ -854,6 +854,7 @@ Full List of Completed Projects in Numerical Order:
 3042. Count Prefix and Suffix Pairs I (Easy)
 3043. Find the Length of the Longest Common Prefix (Medium)
 3047. Find the Largest Area of Square Inside Two Rectangles (Medium)
+3070. Count Submatrices with Top-Left Element and Sum Less Than k (Medium)
 3074. Apple Redistribution into Boxes (Easy)
 3075. Maximize Happiness of Selected Children (Medium)
 3085. Minimum Deletions to Make String K-Special (Medium)
