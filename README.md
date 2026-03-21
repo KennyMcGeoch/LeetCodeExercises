@@ -935,5 +935,6 @@ Full List of Completed Projects in Numerical Order:
 3623. Count Number of Trapezoids I (Medium)
 3637. Trionic Array I (Easy)
 3634. Minimum Removals to Balance Array (Medium)
+3643. Flip Square Submatrix Vertically (Easy)
 3652. Best Time to Buy and Sell Stock using Strategy (Medium)
 3713. Longest Balanced Substring I (Medium)
