@@ -607,6 +607,7 @@ Full List of Completed Projects in Numerical Order:
 1873. Calculate Special Bonus (Easy)
 1877. Minimize Maximum Pair Sum in Array (Medium)
 1878. Get Biggest Three Rhombus Sums in a Grid (Medium)
+1886. Determine Whether Matrix Can Be Obtained By Rotation (Easy)
 1887. Reduction Operations to Make the Array Elements Equal (Medium)
 1894. Find the Student that Will Replace the Chalk (Medium)
 1895. Largest Magic Square (Medium)
