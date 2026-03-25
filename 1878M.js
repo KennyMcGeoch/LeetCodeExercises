@@ -2,7 +2,7 @@
  * @param {number[][]} grid
  * @return {number[]}
  * Runtime 20ms Beats 100.00%
- * Memory 58.72MB Beats 87.50%
+ * Memory 58.72MB Beats 87.50% .
  */
 var getBiggestThree = function(grid) {
     let width = grid[0].length
