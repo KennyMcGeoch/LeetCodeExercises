@@ -840,6 +840,7 @@ Full List of Completed Projects in Numerical Order:
 2938. Separate Black and White Balls (Medium)
 2942. Find Words Containing Character (Easy)
 2943. Maximize Area of Square Hole in Grid (Medium)
+2946. Matrix Similarity After Cyclic Shifts (Easy)
 2958. Length of Longest Subarray With at Most K Frequency (Medium)
 2962. Count Subarrays Where Max Element Appears at Least K Times (Medium)
 2965. Find Missing and Repeated Values (Easy)
