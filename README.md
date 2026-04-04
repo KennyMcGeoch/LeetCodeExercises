@@ -659,6 +659,7 @@ Full List of Completed Projects in Numerical Order:
 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points (Medium)
 2070. Most Beautiful Item for Each Query (Medium)
 2073. Time Needed to Buy Tickets (Easy)
+2075. Decode the Slanted Ciphertext (Medium)
 2081. Sum of k-Mirror Numbers (Hard)
 2089. Find Target Indices After Sorting Array (Easy)
 2095. Delete the Middle Node of a Linked List (Medium)
