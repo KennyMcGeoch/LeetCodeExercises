@@ -277,6 +277,7 @@ Full List of Completed Projects in Numerical Order:
 649. Dota2 Senate (Medium)
 650. 2 Keys Keyboard (Medium)
 653. Two Sum IV - Input is a BST (Easy)
+657. Robot Return to Origin (Easy)
 661. Image Smoother (Easy)
 670. Maximum Swap (Medium)
 674. Longest Continuous Increasing Subsequence (Easy)
