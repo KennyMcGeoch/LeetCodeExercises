@@ -658,6 +658,7 @@ Full List of Completed Projects in Numerical Order:
 2048. Next Greater Numerically Balanced Number (Medium)
 2053. Kth Distinct String in an Array (Easy)
 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points (Medium)
+2069. Walking Robot Simulation II (Medium)
 2070. Most Beautiful Item for Each Query (Medium)
 2073. Time Needed to Buy Tickets (Easy)
 2075. Decode the Slanted Ciphertext (Medium)
