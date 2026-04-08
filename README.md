@@ -945,4 +945,5 @@ Full List of Completed Projects in Numerical Order:
 3634. Minimum Removals to Balance Array (Medium)
 3643. Flip Square Submatrix Vertically (Easy)
 3652. Best Time to Buy and Sell Stock using Strategy (Medium)
+3653. XOR After Range Multiplication Queries I (Medium)
 3713. Longest Balanced Substring I (Medium)
