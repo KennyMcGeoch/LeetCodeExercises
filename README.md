@@ -599,6 +599,7 @@ Full List of Completed Projects in Numerical Order:
 1832. Check if the Sentence Is Pangram (Easy)
 1845. Seat Reservation Manager (Medium)
 1846. Maximum Element After Decreasing and Rearranging (Medium)
+1848. Minimum Distance to the Target Element (Easy)
 1855. Maximum Distance Between a Pair of Values (Medium)
 1861. Rotating the Box (Medium)
 1863. Sum of All Subset XOR Totals (Easy)
