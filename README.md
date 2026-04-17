@@ -951,3 +951,4 @@ Full List of Completed Projects in Numerical Order:
 3713. Longest Balanced Substring I (Medium)
 3740. Minimum Distance Between Three Equal Elements I (Easy)
 3741. Minimum Distance Between Three Equal Elements II (Medium)
+3761. Minimum Absolute Distance Between Mirror Pairs (Medium)
