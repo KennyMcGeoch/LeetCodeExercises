@@ -663,6 +663,7 @@ Full List of Completed Projects in Numerical Order:
 2070. Most Beautiful Item for Each Query (Medium)
 2073. Time Needed to Buy Tickets (Easy)
 2075. Decode the Slanted Ciphertext (Medium)
+2078. Two Furthest Houses With Different Colors (Easy)
 2081. Sum of k-Mirror Numbers (Hard)
 2089. Find Target Indices After Sorting Array (Easy)
 2095. Delete the Middle Node of a Linked List (Medium)
