@@ -831,6 +831,7 @@ Full List of Completed Projects in Numerical Order:
 2799. Count Complete Subarrays in an Array (Medium)
 2807. Insert Greatest Common Divisors in Linked List (Medium)
 2816. Double a Number Represented as a Linked List (Medium)
+2833. Furthest Point From Origin (Easy)
 2839. Check if Strings Can be Made Equal With Operations I (Easy)
 2840. Check if Strings Can be Made Equal With Operations II (Medium)
 2843. Count Symmetric Integers (Easy)
