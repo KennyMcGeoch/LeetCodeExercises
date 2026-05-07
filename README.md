@@ -954,6 +954,7 @@ Full List of Completed Projects in Numerical Order:
 3643. Flip Square Submatrix Vertically (Easy)
 3652. Best Time to Buy and Sell Stock using Strategy (Medium)
 3653. XOR After Range Multiplication Queries I (Medium)
+3660. Jump Game IX (Medium)
 3713. Longest Balanced Substring I (Medium)
 3740. Minimum Distance Between Three Equal Elements I (Easy)
 3741. Minimum Distance Between Three Equal Elements II (Medium)
