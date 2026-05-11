@@ -773,6 +773,7 @@ Full List of Completed Projects in Numerical Order:
 2537. Count the Number of Good Subarrays (Medium)
 2540. Minimum Common Value (Easy)
 3546. Equal Sum Grid Partition I (Medium)
+2553. Separate the Digits in an Array (Easy)
 2554. Maximum Number of Integers to Choose From a Range I (Medium)
 2558. Take Gifts From the Richest Pile (Easy)
 2559. Count Vowel Strings in Ranges (Medium)
