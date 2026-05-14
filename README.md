@@ -831,6 +831,7 @@ Full List of Completed Projects in Numerical Order:
 2749. Minimum Operations to Make the Integer Zero (Medium)
 2751. Robot Collisions (Hard)
 2780. Minimum Index of a Valid Split (Medium)
+2784. Check if Array is Good (Easy)
 2785. Sort Vowels in a String (Medium)
 2787. Ways to Express an Integer as Sum of Powers (Medium)
 2799. Count Complete Subarrays in an Array (Medium)
