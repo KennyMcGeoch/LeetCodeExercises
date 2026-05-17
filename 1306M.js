@@ -34,4 +34,31 @@
     
 };
 
-canReach([3,0,2,1,2],2)
+/**
+ * @param {number[]} arr
+ * @param {number} start
+ * @return {boolean}
+ * Runtime 1ms Beats 97.52%
+ * Memory 66.36MB Beats 19.01%
+ */
+ var canReach = function(arr, start) {
+ 
+    let ans = false
+    let visited = new Set()
+
+    function recur(num){
+        if (ans) return
+        if (visited.has(num)) return
+        else visited.add(num)
+        if (arr[num] === 0){
+            ans = true
+            return
+        }
+        if (num >= arr[num]) recur(num-arr[num])
+        if (arr.length > num+arr[num]) recur(num+arr[num])
+    }
+    recur(start)
+
+    return ans
+    
+};
