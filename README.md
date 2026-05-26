@@ -881,6 +881,7 @@ Full List of Completed Projects in Numerical Order:
 3100. Water Bottles II (Medium)
 3105. Longest Strictly Increasing or Strictly Decreasing Subarray (Easy)
 3110. Score of a String (Easy)
+3120. Count the Number of Special Characters I (Easy)
 3133. Minimum Array End (Medium)
 3136. Valid Word (Easy)
 3147. Taking Maximum Energy From the Mystic Dungeon (Medium)
