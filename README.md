@@ -878,6 +878,7 @@ Full List of Completed Projects in Numerical Order:
 3074. Apple Redistribution into Boxes (Easy)
 3075. Maximize Happiness of Selected Children (Medium)
 3085. Minimum Deletions to Make String K-Special (Medium)
+3093. Longest Common Suffix Queries (Hard)
 3100. Water Bottles II (Medium)
 3105. Longest Strictly Increasing or Strictly Decreasing Subarray (Easy)
 3110. Score of a String (Easy)
