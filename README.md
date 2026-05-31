@@ -681,6 +681,7 @@ Full List of Completed Projects in Numerical Order:
 2116. Check if a Parentheses String Can Be Valid (Medium)
 2124. Check if All A's Appears Before All B's (Easy)
 2125. Number of Laser Beams in a Bank (Medium)
+2126. Destroying Asteroids (Medium)
 2130. Maximum Twin Sum of a Linked List (Medium)
 2131. Longest Palindrome by Concatenating Two Letter Words (Medium)
 2134. Minimum Swaps to Group All 1's Together II (Medium)
