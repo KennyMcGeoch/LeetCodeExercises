@@ -688,6 +688,7 @@ Full List of Completed Projects in Numerical Order:
 2136. Earliest Possible Day of Full Bloom (Hard)
 2138. Divide a String Into Groups of Size k (Easy)
 2140. Solving Questions With Brainpower (Medium)
+2144. Minimum Cost of Buying Candies With Discount (Easy)
 2145. Count the Hidden Sequences (Medium)
 2147. Number of Ways to Divide a Long Corridor (Hard)
 2148. Count Elements With Strictly Smaller and Greater Elements (Easy)
