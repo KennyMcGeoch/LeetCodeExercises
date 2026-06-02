@@ -959,6 +959,7 @@ Full List of Completed Projects in Numerical Order:
 3606. Coupon Code Validator (Easy)
 3607. Power Grid Maintenance (Medium)
 3623. Count Number of Trapezoids I (Medium)
+3633. Earliest Finish Time for Land and Water Rides I (Easy)
 3637. Trionic Array I (Easy)
 3634. Minimum Removals to Balance Array (Medium)
 3643. Flip Square Submatrix Vertically (Easy)
