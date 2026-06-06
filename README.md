@@ -785,6 +785,7 @@ Full List of Completed Projects in Numerical Order:
 2562. Find the Array Concatenation Value (Easy)
 2566. Maximum Difference by Remapping a Digit (Easy)
 2570. Merge Two 2D Arrays by Summing Values (Easy)
+2574. Left and Right Sum Differences (Easy)
 2578. Split With Minimum Sum (Easy)
 2579. Count Total Number of Colored Cells (Medium)
 2582. Pass the Pillow (Easy)
