@@ -38,3 +38,37 @@
     return head
     
 };
+
+/**
+ * Definition for singly-linked list.
+ * function ListNode(val, next) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.next = (next===undefined ? null : next)
+ * }
+ */
+/**
+ * @param {ListNode} head
+ * @return {ListNode}
+ * Runtime 3ms Beats 87.99%
+ * Memory 96.35MB Beats 95.09%
+ */
+ var deleteMiddle = function(head) {
+    if (head.next === null) return null
+
+    let fast = head
+    let slow = head
+
+    while(fast.next){
+        fast = fast.next.next
+        if(fast && fast.next){
+            slow = slow.next
+        }
+        else{
+            slow.next = slow.next.next
+            return head
+        }
+    }
+
+    return head
+    
+};
