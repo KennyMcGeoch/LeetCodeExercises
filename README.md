@@ -959,6 +959,7 @@ Full List of Completed Projects in Numerical Order:
 3583. Count Special Triplets (Medium)
 3606. Coupon Code Validator (Easy)
 3607. Power Grid Maintenance (Medium)
+3612. Process String with Special Operations I (Medium)
 3623. Count Number of Trapezoids I (Medium)
 3633. Earliest Finish Time for Land and Water Rides I (Easy)
 3635. Earliest Finish Time for Land and Water Rides II (Medium)
