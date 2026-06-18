@@ -460,6 +460,7 @@ Full List of Completed Projects in Numerical Order:
 1339. Maximum Product of Splitted Binary Tree (Medium)
 1341. Movie Rating (Medium)
 1342. Number of Steps to Reduce a Number to Zero (Easy)
+1344. Angle Between Hands of a Clock (Medium)
 1346. Check If N and Its Double Exist (Easy)
 1347. Minimum Number of Steps to Make Two Strings Anagram (Medium)
 1351. Count Negative Numbers in a Sorted Matrix (Easy)
