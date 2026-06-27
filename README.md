@@ -875,6 +875,7 @@ Full List of Completed Projects in Numerical Order:
 3005. Count Elements With Maximum Frequency (Easy)
 3010. Divide an Array Into Subarrays With Minimum Cost I (Easy)
 3016. Minimum Number of Pushes to Type Word II (Medium)
+3020. Find the Maximum Number of Elements in Subset (Medium)
 3021. Alice and Bob Playing Flower Game (Medium)
 3024. Type of Triangle (Easy)
 3042. Count Prefix and Suffix Pairs I (Easy)
