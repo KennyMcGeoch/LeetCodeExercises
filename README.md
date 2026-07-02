@@ -915,6 +915,7 @@ Full List of Completed Projects in Numerical Order:
 3243. Shortest Distance After Road Addition Queries I (Medium)
 3254. Find the Power of K-Size Subarrays I (Medium)
 3264. Final Array State After K Multiplication Operations I (Easy)
+3286. Find a Safe Walk Through a Grid (Medium)
 3289. The Two Sneaky Numbers of Digitville (Easy)
 3296. Minimum Number of Seconds to Make Mountain Height Zero (Medium)
 3300. Minimum Element After Replacement With Digit Sum (Easy)
