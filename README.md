@@ -772,6 +772,7 @@ Full List of Completed Projects in Numerical Order:
 2487. Remove Nodes From Linked List (Medium)
 2490. Circular Sentence (Easy)
 2491. Divide Players Into Teams of Equal Skill (Medium)
+2492. Minimum Score of a Path Between Two Cities (Medium)
 2501. Longest Square Streak in an Array (Medium)
 2506. Count Pairs Of Similar Strings (Easy)
 2515. Shortest Distance to Target String in a Circular Array (Easy)
