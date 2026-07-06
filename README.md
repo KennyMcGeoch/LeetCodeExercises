@@ -442,6 +442,7 @@ Full List of Completed Projects in Numerical Order:
 1281. Subtract the Product and Sum of Digits of an Integer (Easy)
 1282. Group the People Given the Group Size They Belong To (Medium)
 1287. Element Appearing More Than 25% In Sorted Array (Easy)
+1288. Remove Covered Intervals (Medium)
 1289. Minimum Falling Path Sum II (Hard)
 1290. Convert Binary Number in a Linked List to Integer (Easy)
 1291. Sequential Digits (Medium)
