@@ -827,6 +827,7 @@ Full List of Completed Projects in Numerical Order:
 2677. Chunk Array (Easy)
 2678. Number of Senior Citizens (Easy)
 2683. Neighboring Bitwise XOR (Medium)
+2685. Count the Number of Complete Components (Medium)
 2695. Array Wrapper (Easy)
 2696. Minimum String Length After Removing Substrings (Easy)
 2698. Find the Punishment Number of an Integer (Medium)
