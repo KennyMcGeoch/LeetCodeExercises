@@ -987,4 +987,4 @@ Full List of Completed Projects in Numerical Order:
 3754. Concatenate Non-Zero Digits and Multiply by Sum I (Easy)
 3761. Minimum Absolute Distance Between Mirror Pairs (Medium)
 3783. Mirror Distance of an Integer (Easy)
-3838. Weighted Word Mapping (Easy)
+3838. Weighted Word Mapping (Easy) (Medium)
