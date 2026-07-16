@@ -978,6 +978,7 @@ Full List of Completed Projects in Numerical Order:
 3643. Flip Square Submatrix Vertically (Easy)
 3652. Best Time to Buy and Sell Stock using Strategy (Medium)
 3653. XOR After Range Multiplication Queries I (Medium)
+3658. GCD of Odd and Even Sums
 3660. Jump Game IX (Medium)
 3689. Maximum Total Subarray Value I (Medium)
 3713. Longest Balanced Substring I (Medium)
@@ -987,4 +988,5 @@ Full List of Completed Projects in Numerical Order:
 3754. Concatenate Non-Zero Digits and Multiply by Sum I (Easy)
 3761. Minimum Absolute Distance Between Mirror Pairs (Medium)
 3783. Mirror Distance of an Integer (Easy)
-3838. Weighted Word Mapping (Easy) (Medium)
+3838. Weighted Word Mapping (Easy)
+3867. Sum of GCD of Formed Pairs (Medium)
