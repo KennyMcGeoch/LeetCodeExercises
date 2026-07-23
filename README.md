@@ -963,6 +963,7 @@ Full List of Completed Projects in Numerical Order:
 3507. Minimum Pair Removal to Sort Array I (Easy)
 3508. Implement Router (Medium)
 3512. Minimum Operations to Make Array Sum Divisible by K (Easy)
+3513. Number of Unique XOR Triplets I (Medium)
 3516. Find Closest Person (Easy)
 3531. Count Covered Buildings (Medium)
 3532. Path Existence Queries in a Graph (Medium)
