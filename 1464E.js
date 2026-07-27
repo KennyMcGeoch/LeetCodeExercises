@@ -33,3 +33,26 @@ var maxProduct = function(nums) {
     return (max[0]-1) * (max[1]-1)
     
 };
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ * Runtime 0ms Beats 100.00%
+ * Memory 53.69MB Beats 84.12%
+ */
+var maxProduct = function(nums) {
+    
+    let first = Math.max(nums[0],nums[1])
+    let second = Math.min(nums[0],nums[1])
+    
+    for (let i=2; i<nums.length; i++){
+        if (nums[i] > first){
+            second = first
+            first = nums[i]
+        }
+        else if (nums[i] > second) second = nums[i]
+    }
+    
+    return (first-1) * (second-1)
+    
+};
