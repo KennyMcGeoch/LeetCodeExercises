@@ -966,6 +966,7 @@ Full List of Completed Projects in Numerical Order:
 3512. Minimum Operations to Make Array Sum Divisible by K (Easy)
 3513. Number of Unique XOR Triplets I (Medium)
 3516. Find Closest Person (Easy)
+3517. Smallest Palindromic Rearrangement I (Medium)
 3531. Count Covered Buildings (Medium)
 3532. Path Existence Queries in a Graph (Medium)
 3536. Maximum Product of Two Digits (Easy)
