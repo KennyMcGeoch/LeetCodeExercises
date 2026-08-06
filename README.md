@@ -930,6 +930,7 @@ Full List of Completed Projects in Numerical Order:
 3318. Find X-Sum of All K-Long Subarrays I (Easy)
 3330. Find the Original Typed String I (Easy)
 3341. Find Minimum Time to Reach Last Room I (Medium)
+3345. Smallest Divisible Digit Product I (Easy)
 3346. Maximum Frequency of an Element After Performing Operations I (Medium)
 3347. Maximum Frequency of an Element After Performing Operations II (Hard)
 3349. Adjacent Increasing Subarrays Detection I (Easy)
