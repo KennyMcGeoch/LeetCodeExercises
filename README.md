@@ -514,6 +514,7 @@ Full List of Completed Projects in Numerical Order:
 1504. Count Submatrices With All Ones (Medium)
 1508. Range Sum of Sorted Subarray Sums (Medium)
 1509. Minimum Difference Between Largest and Smallest Value in Three Moves (Medium)
+1510. Stone Game IV (Hard)
 1512. Number of Good Pairs (Easy)
 1513. Number of Substrings With Only 1s (Medium)
 1518. Water Bottles (Easy)
