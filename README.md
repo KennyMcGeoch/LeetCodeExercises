@@ -878,6 +878,7 @@ Full List of Completed Projects in Numerical Order:
 2971. Find Polygon With the Largest Perimeter (Medium)
 2975. Maximum Square Area by Removing Fences From a Field (Medium)
 2981. Find Longest Special Substring That Occurs Thrice I (Medium)
+2996. Smallest Missing Integer Greater Than Sequential Prefix Sum (Easy)
 3000. Maximum Area of Longest Diagonal Rectangle (Easy)
 3005. Count Elements With Maximum Frequency (Easy)
 3010. Divide an Array Into Subarrays With Minimum Cost I (Easy)
