@@ -962,6 +962,7 @@ Full List of Completed Projects in Numerical Order:
 3443. Maximum Manhattan Distance After K Changes (Medium)
 3446. Sort Matrix by Diagonals (Medium)
 3461. Check If Digits Are Equal in String After Operations I (Easy)
+3471. Find the Largest Almost Missing Integer (Easy)
 3477. Fruits Into Baskets II (Easy)
 3479. Fruits Into Baskets III (Medium)
 3484. Design Spreadsheet (Medium)
