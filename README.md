@@ -637,6 +637,7 @@ Full List of Completed Projects in Numerical Order:
 1921. Eliminate Maximum Number of Monsters (Medium)
 1925. Count Square Sum Triples (Easy)
 1926. Nearest Exit from Entrance in Maze (Medium)
+1927. Sum Game (Medium)
 1929. Concatenation of Array (Easy)
 1930. Unique Length-3 Palindromic Subsequences (Medium)
 1934. Confirmation Rate (Medium)
