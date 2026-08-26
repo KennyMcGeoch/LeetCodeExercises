@@ -867,6 +867,7 @@ Full List of Completed Projects in Numerical Order:
 2874. Maximum Value of an Ordered Triplet II (Medium)
 2894. Divisible and Non-divisible Sums Difference (Easy)
 2900. Longest Unequal Adjacent Groups Subsequence I (Easy)
+2904. Shortest and Lexicographically Smallest Beautiful String (Medium)
 2914. Minimum Number of Changes to Make Binary String Beautiful (Medium)
 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros (Medium)
 2924. Find Champion II (Medium)
