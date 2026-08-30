@@ -682,6 +682,7 @@ Full List of Completed Projects in Numerical Order:
 2078. Two Furthest Houses With Different Colors (Easy)
 2081. Sum of k-Mirror Numbers (Hard)
 2089. Find Target Indices After Sorting Array (Easy)
+2091. Removing Minimum and Maximum From Array (Medium)
 2095. Delete the Middle Node of a Linked List (Medium)
 2096. Step-By-Step Directions From a Binary Tree Node to Another (Medium)
 2099. Find Subsequence of Length K With the Largest Sum (Easy)
