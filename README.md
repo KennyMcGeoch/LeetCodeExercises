@@ -1012,3 +1012,4 @@ Full List of Completed Projects in Numerical Order:
 3783. Mirror Distance of an Integer (Easy)
 3838. Weighted Word Mapping (Easy)
 3867. Sum of GCD of Formed Pairs (Medium)
+3875. Construct Uniform Parity Array I (Easy)
