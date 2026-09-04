@@ -1014,3 +1014,4 @@ Full List of Completed Projects in Numerical Order:
 3867. Sum of GCD of Formed Pairs (Medium)
 3875. Construct Uniform Parity Array I (Easy)
 3876. Construct Uniform Parity Array II (Medium)
+3903. Smallest Stable Index I (Easy)
