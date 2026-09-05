@@ -1015,3 +1015,4 @@ Full List of Completed Projects in Numerical Order:
 3875. Construct Uniform Parity Array I (Easy)
 3876. Construct Uniform Parity Array II (Medium)
 3903. Smallest Stable Index I (Easy)
+3904. Smallest Stable Index II (Medium)
