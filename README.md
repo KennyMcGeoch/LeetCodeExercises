@@ -772,6 +772,7 @@ Full List of Completed Projects in Numerical Order:
 2465. Number of Distinct Averages (Easy)
 2469. Convert the Temperature (Easy)
 2471. Minimum Number of Operations to Sort a Binary Tree by Level (Medium)
+2472. Maximum Number of Non-overlapping Palindrome Substrings (Hard)
 2481. Minimum Cuts to Divide a Circle (Easy)
 2482. Difference Between Ones and Zeros in Row and Column (Medium)
 2483. Minimum Penalty for a Shop (Medium)
