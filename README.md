@@ -973,6 +973,7 @@ Full List of Completed Projects in Numerical Order:
 3479. Fruits Into Baskets III (Medium)
 3484. Design Spreadsheet (Medium)
 3487. Maximum Unique Subarray Sum After Deletion (Easy)
+3498. Reverse Degree of a String (Easy)
 3499. Maximize Active Section with Trade I (Medium)
 3507. Minimum Pair Removal to Sort Array I (Easy)
 3508. Implement Router (Medium)
