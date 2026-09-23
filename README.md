@@ -557,6 +557,7 @@ Full List of Completed Projects in Numerical Order:
 1652. Defuse the Bomb (Easy)
 1653. Minimum Deletions to Make String Balanced (Medium)
 1657. Determine if Two Strings Are Close (Medium)
+1658. Minimum Operations to Reduce X to Zero (Medium)
 1661. Average Time of Process per Machine (Easy)
 1662. Check If Two String Arrays are Equivalent (Easy)
 1665. Minimum Initial Energy to Finish Tasks (Hard)
