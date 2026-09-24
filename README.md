@@ -986,6 +986,7 @@ Full List of Completed Projects in Numerical Order:
 3532. Path Existence Queries in a Graph (Medium)
 3536. Maximum Product of Two Digits (Easy)
 3541. Find Most Frequent Vowel and Consonant (Easy)
+3550. Smallest Index With Digit Sum Equal to Index (Easy)
 3577. Count the Number of Computer Unlocking Permutations (Medium)
 3583. Count Special Triplets (Medium)
 3606. Coupon Code Validator (Easy)
