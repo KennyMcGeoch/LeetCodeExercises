@@ -403,6 +403,7 @@ Full List of Completed Projects in Numerical Order:
 1089. Duplicate Zeros (Easy)
 1095. Find in Mountain Array (Hard)
 1110. Delete Nodes And Return Forest (Medium)
+1111. Maximum Nesting Depth of Two Valid Parentheses Strings (Medium)
 1122. Relative Sort Array (Easy)
 1123. Lowest Common Ancestor of Deepest Leaves (Medium)
 1128. Number of Equivalent Domino Pairs (Easy)
