@@ -72,3 +72,34 @@
 
     return false    
 };
+
+/**
+ * @param {string} s
+ * @return {boolean}
+ * Runtime 1ms Beats 91.95%
+ * Memory 54.35MB Beats 90.81%
+ */
+ var isValid = function(s) {
+     
+    if (s.length % 2 === 1)return false
+    let stack = []
+
+    for (let i=0; i<s.length; i++){
+        if (s[i] === "(" || s[i] === "[" || s[i] === "{") stack.push(s[i])
+        else if (s[i] === ")"){
+            if (stack[stack.length-1] === "(") stack.pop()
+            else return false
+        }
+        else if (s[i] === "]"){
+            if (stack[stack.length-1] === "[") stack.pop()
+            else return false
+        }
+        else{
+            if (stack[stack.length-1] === "{") stack.pop()
+            else return false
+        }
+    }
+
+    return stack.length === 0
+    
+};
