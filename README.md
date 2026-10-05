@@ -334,6 +334,7 @@ Full List of Completed Projects in Numerical Order:
 844. Backspace String Compare (Easy)
 846. Hand of Straights (Medium)
 852. Peak Index in a Mountain Array (Medium)
+856. Score of Parentheses (Medium)
 859. Buddy Strings (Easy)
 860. Lemonade Change (Easy)
 861. Score After Flipping Matrix (Medium)
