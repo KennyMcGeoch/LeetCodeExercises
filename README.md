@@ -531,6 +531,7 @@ Full List of Completed Projects in Numerical Order:
 1535. Find the Winner of an Array Game (Medium)
 1536. Minimum Swaps to Arrange a Binary Grid (Medium)
 1539. Kth Missing Positive Number (Easy)
+1541. Minimum Insertions to Balance a Parentheses String (Medium)
 1544. Make The String Great (Easy)
 1545. Find Kth Bit in Nth Binary String (Medium)
 1550. Three Consecutive Odds (Easy)
