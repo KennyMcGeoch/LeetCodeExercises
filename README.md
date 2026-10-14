@@ -1013,6 +1013,7 @@ Full List of Completed Projects in Numerical Order:
 3702. Longest Subsequence With Non-Zero Bitwise XOR (Medium)
 3713. Longest Balanced Substring I (Medium)
 3718. Smallest Missing Multiple of K (Easy)
+3723. Maximize Sum of Squares of Digits (Medium)
 3727. Maximum Alternating Sum of Squares (Medium)
 3731. Find Missing Elements (Easy)
 3740. Minimum Distance Between Three Equal Elements I (Easy)
