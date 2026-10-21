@@ -1024,6 +1024,7 @@ Full List of Completed Projects in Numerical Order:
 3761. Minimum Absolute Distance Between Mirror Pairs (Medium)
 3783. Mirror Distance of an Integer (Easy)
 3838. Weighted Word Mapping (Easy)
+3863. Minimum Operations to Sort a String (Medium)
 3867. Sum of GCD of Formed Pairs (Medium)
 3870. Count Commas in Range (Easy)
 3871. Count Commas in Range II (Medium)
