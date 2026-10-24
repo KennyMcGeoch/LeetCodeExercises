@@ -760,6 +760,7 @@ Full List of Completed Projects in Numerical Order:
 2402. Meeting Rooms III (Hard)
 2404. Most Frequent Even Element (Easy)
 2406. Divide Intervals Into Minimum Number of Groups (Medium)
+2409. Count Days Spent Together (Easy)
 2410. Maximum Matching of Players With Trainers (Medium)
 2413. Smallest Even Multiple (Easy)
 2415. Reverse Odd Levels of Binary Tree (Medium)
