@@ -436,6 +436,7 @@ Full List of Completed Projects in Numerical Order:
 1248. Count Number of Nice Subarrays (Medium)
 1249. Minimum Remove to Make Valid Parentheses (Medium)
 1251. Average Selling Price (Easy)
+1254. Number of Closed Islands (Medium)
 1255. Maximum Score Words Formed by Letters (Hard)
 1260. Shift 2D Grid (Easy)
 1261. Find Elements in a Contaminated Binary Tree (Medium)
