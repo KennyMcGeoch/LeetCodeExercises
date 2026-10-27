@@ -1037,3 +1037,4 @@ Full List of Completed Projects in Numerical Order:
 3903. Smallest Stable Index I (Easy)
 3904. Smallest Stable Index II (Medium)
 3942. Minimum Operations to Sort a Permutation (Medium)
+3963. Create Grid With Exactly One Path (Easy)
