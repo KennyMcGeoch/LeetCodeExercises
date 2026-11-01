@@ -219,6 +219,7 @@ Full List of Completed Projects in Numerical Order:
 448. Find All Numbers Disappeared in an Array (Easy)
 451. Sort Characters By Frequency (Medium)
 452. Minimum Number of Arrows to Burst Balloons (Medium)
+453. Minimum Moves to Equal Array Element (Medium)
 455. Assign Cookies (Easy)
 458. Poor Pigs (Hard)
 463. Island Perimeter (Easy)
