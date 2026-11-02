@@ -222,6 +222,7 @@ Full List of Completed Projects in Numerical Order:
 453. Minimum Moves to Equal Array Element (Medium)
 455. Assign Cookies (Easy)
 458. Poor Pigs (Hard)
+462. Minimum Moves to Equal Array Elements II (Medium)
 463. Island Perimeter (Easy)
 476. Number Complement (Easy)
 485. Max Consecutive Ones (Easy)
