@@ -1023,6 +1023,7 @@ Full List of Completed Projects in Numerical Order:
 3723. Maximize Sum of Squares of Digits (Medium)
 3727. Maximum Alternating Sum of Squares (Medium)
 3731. Find Missing Elements (Easy)
+3736. Minimum Moves to Equal Array Elements III (Easy)
 3740. Minimum Distance Between Three Equal Elements I (Easy)
 3741. Minimum Distance Between Three Equal Elements II (Medium)
 3751. Total Waviness of Numbers in Range I (Medium)
