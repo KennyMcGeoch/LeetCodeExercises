@@ -1017,6 +1017,7 @@ Full List of Completed Projects in Numerical Order:
 3658. GCD of Odd and Even Sums
 3660. Jump Game IX (Medium)
 3689. Maximum Total Subarray Value I (Medium)
+3693. Climbing Stairs II (Medium)
 3702. Longest Subsequence With Non-Zero Bitwise XOR (Medium)
 3713. Longest Balanced Substring I (Medium)
 3718. Smallest Missing Multiple of K (Easy)
