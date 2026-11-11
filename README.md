@@ -1031,6 +1031,7 @@ Full List of Completed Projects in Numerical Order:
 3754. Concatenate Non-Zero Digits and Multiply by Sum I (Easy)
 3761. Minimum Absolute Distance Between Mirror Pairs (Medium)
 3783. Mirror Distance of an Integer (Easy)
+3789. Minimum Cost to Acquire Required Items (Medium)
 3838. Weighted Word Mapping (Easy)
 3863. Minimum Operations to Sort a String (Medium)
 3867. Sum of GCD of Formed Pairs (Medium)
